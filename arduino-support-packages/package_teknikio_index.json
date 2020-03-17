@@ -1,0 +1,109 @@
+{
+  "packages": [
+    {
+      "websiteURL": "https://www.teknikio.com/pages/bluebird",
+      "tools": [
+        {
+          "systems": [
+            {
+              "host": "i386-apple-darwin11",
+              "checksum": "MD5:603bcce8e59683ac27054b3197a53254",
+              "size": "96372129",
+              "archiveFileName": "gcc-arm-none-eabi-5_2-2015q4-20151219-mac.tar.bz2",
+              "url": "https://github.com/adafruit/Adafruit_nRF52_Arduino/releases/download/gcc-5_2-2015q4/gcc-arm-none-eabi-5_2-2015q4-20151219-mac.tar.bz2"
+            },
+            {
+              "host": "i686-linux-gnu",
+              "checksum": "MD5:f88caac80b4444a17344f57ccb760b90",
+              "size": "92811866",
+              "archiveFileName": "gcc-arm-none-eabi-5_2-2015q4-20151219-linux.tar.bz2",
+              "url": "https://github.com/adafruit/Adafruit_nRF52_Arduino/releases/download/gcc-5_2-2015q4/gcc-arm-none-eabi-5_2-2015q4-20151219-linux.tar.bz2"
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "checksum": "MD5:f88caac80b4444a17344f57ccb760b90",
+              "size": "92811866",
+              "archiveFileName": "gcc-arm-none-eabi-5_2-2015q4-20151219-linux.tar.bz2",
+              "url": "https://github.com/adafruit/Adafruit_nRF52_Arduino/releases/download/gcc-5_2-2015q4/gcc-arm-none-eabi-5_2-2015q4-20151219-linux.tar.bz2"
+            },
+            {
+              "host": "i686-mingw32",
+              "checksum": "MD5:32d950225b6c7c886f6225c1fc578934",
+              "size": "102981732",
+              "archiveFileName": "gcc-arm-none-eabi-5_2-2015q4-20151219-win32.tar.bz2",
+              "url": "https://github.com/adafruit/Adafruit_nRF52_Arduino/releases/download/gcc-5_2-2015q4/gcc-arm-none-eabi-5_2-2015q4-20151219-win32.tar.bz2"
+            }
+          ],
+          "name": "gcc-arm-none-eabi",
+          "version": "5_2-2015q4"
+        },
+        {
+          "systems": [
+            {
+              "host": "i386-apple-darwin11",
+              "checksum": "MD5:04f65e24f36d55d10b71c1ebf49cd070",
+              "size": "362222",
+              "archiveFileName": "nrfjprog-9.4.0-mac.tar.bz2",
+              "url": "https://github.com/adafruit/Adafruit_nRF52_Arduino/releases/download/gcc-5_2-2015q4/nrfjprog-9.4.0-mac.tar.bz2"
+            },
+            {
+              "host": "i686-linux-gnu",
+              "checksum": "MD5:9cf73f1f78cb8e249ed4e6f963d08a35",
+              "size": "177428",
+              "archiveFileName": "nrfjprog-9.4.0-linux32.tar.bz2",
+              "url": "https://github.com/adafruit/Adafruit_nRF52_Arduino/releases/download/gcc-5_2-2015q4/nrfjprog-9.4.0-linux32.tar.bz2"
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "checksum": "MD5:da3c7b348e0c22766f175a4a9cca0d19",
+              "size": "190020",
+              "archiveFileName": "nrfjprog-9.4.0-linux64.tar.bz2",
+              "url": "https://github.com/adafruit/Adafruit_nRF52_Arduino/releases/download/gcc-5_2-2015q4/nrfjprog-9.4.0-linux64.tar.bz2"
+            },
+            {
+              "host": "i686-mingw32",
+              "checksum": "MD5:8352392ae0272173e1508d1218f51671",
+              "size": "851576",
+              "archiveFileName": "nrfjprog-9.4.0-win32.tar.bz2",
+              "url": "https://github.com/adafruit/Adafruit_nRF52_Arduino/releases/download/gcc-5_2-2015q4/nrfjprog-9.4.0-win32.tar.bz2"
+            }
+          ],
+          "name": "nrfjprog",
+          "version": "9.4.0"
+        }
+      ],
+      "name": "Bluebird",
+      "maintainer": "Teknikio",
+      "email": "hello@teknikio.com",
+      "platforms": [
+        {
+          "name": "Teknikio Bluebird",
+          "architecture": "nrf52",
+          "version": "0.14.11",
+          "category": "Adafruit",
+          "url": "https://teknikio.github.io/arduino-support-packages/Adafruit_nRF52_Arduino.tar?raw=true",
+          "archiveFileName": "Adafruit_nRF52_Arduino.tar",
+          "checksum": "MD5:caa87f988bd86f82e7b18cd50f7e4a74",
+          "size": "100390912",
+          "boards": [
+            {
+              "name": "Bluebird"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "adafruit",
+              "name": "nrfjprog",
+              "version": "9.4.0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
