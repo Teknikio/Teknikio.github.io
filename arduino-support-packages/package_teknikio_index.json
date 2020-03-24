@@ -79,11 +79,11 @@
         {
           "name": "Teknikio Bluebird",
           "architecture": "nrf52",
-          "version": "0.14.17",
+          "version": "0.14.18",
           "category": "Adafruit",
           "url": "https://teknikio.github.io/arduino-support-packages/Adafruit_nRF52_Arduino.tar?raw=true",
           "archiveFileName": "Adafruit_nRF52_Arduino.tar",
-          "checksum": "MD5:be310d3b4d4c11ce39bb0f79eea79ff0",
+          "checksum": "MD5:1da7124fbbbcc0d4a4051dcfca6f7824",
           "size": "100268032",
           "boards": [
             {
