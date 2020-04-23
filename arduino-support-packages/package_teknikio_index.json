@@ -9,8 +9,8 @@
           "category": "Teknikio", 
           "name": "Teknikio Bluebird", 
           "url": "https://teknikio.github.io/arduino-support-packages/Teknikio_nRF52_Arduino.tar?raw=true", 
-          "checksum": "MD5:cf5f285566cd661ab17b0fb90157768b", 
-          "version": "0.15.4", 
+          "checksum": "MD5:28cf6855c4abd10f08d3efb09bdb9654", 
+          "version": "0.15.5", 
           "architecture": "nrf52", 
           "archiveFileName": "Teknikio_nRF52_Arduino.tar", 
           "boards": [
