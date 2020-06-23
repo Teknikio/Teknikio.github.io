@@ -11,7 +11,7 @@ Use this event to initialize your program.
 
 ##  #exstart
 
-# This is my new title 2
+# 123
 
 In this example, `on start` sets a dimmer brightness on the screen and the button handler shows a string.
 
