@@ -1715,32 +1715,33 @@
 					
     <div class="ui text">
         <p><img class="ui image" src="/static/mb/device/pano.jpg" alt="" loading="lazy"></p>
-<h1 id="about">About</h1><!-- desc --><p>The <a target="_blank" rel="nofollow noopener" href="https://microbit.org">BBC micro:bit</a> is a <a  rel="nofollow noopener" href="/docs/device.html">pocket-size computer</a> with a 5x5 display of 25 LEDs, Bluetooth and sensors that can be programmed by anyone. The BBC micro:bit was made possible by many <a target="_blank" rel="nofollow noopener" href="https://www.microbit.co.uk/partners">partners</a>.</p>
-<p>The micro:bit provides an easy and fun introduction to programming and making – switch on, program it to do something fun – wear it, customize it.
-Just like Arduino, the micro:bit can be connected to and interact with sensors, displays, and other devices. </p>
+<h1 id="about">About</h1><!-- desc --><p>The <a target="_blank" rel="nofollow noopener" href="https://www.teknikio.com/products/bluebird-beta-v1-6">Teknikio Bluebird</a> is a <a  rel="nofollow noopener" href="/docs/device.html">small blue gadget</a> that can send and recive information wirelessly. The board has a Neopixel LED, speaker, Bluetooth and sensors that can be programmed by anyone. The development of Bluebird was funded by the National Science Foundation.</p>
+<p>The Bluebird provides an easy and fun introduction to programming and making – switch on, program it to do something fun – wear it, customize it.
+Just like Arduino, the Bluebird can be connected to and interact with sensors, displays, and other devices via the central connector.</p>
 <ul>
 <li><a  rel="nofollow noopener" href="/docs/docs.html">Read the docs</a></li>
 </ul>
-<h2 id="hardware-the-device"><a  rel="nofollow noopener" href="/docs/device.html">Hardware: The Device</a></h2><p>The BBC micro:bit is packaged with sensors, radio and other goodies. Learn about the <a  rel="nofollow noopener" href="/docs/device.html">hardware components</a> of the micro:bit to make the most of it!</p>
+<h2 id="hardware-the-device"><a  rel="nofollow noopener" href="/docs/device.html">Hardware: The Device</a></h2><p>The Bluebird is packaged with sensors, radio and other goodies. Learn about the <a  rel="nofollow noopener" href="/docs/device.html">hardware components</a> of the Bluebird to make the most of it!</p>
 
     <div class="ui info message">
         <div class="content">
-            <p><strong>Looking to buy a micro:bit?</strong> See the <a target="_blank" rel="nofollow noopener" href="https://microbit.org/resellers">list of resellers</a>.</p>
+            <p>
+</p>
 
         </div>
     </div>
-<h2 id="programming-blocks-or-javascript">Programming: <a  rel="nofollow noopener" href="/docs/blocks.html">Blocks</a> or <a  rel="nofollow noopener" href="/docs/javascript.html">JavaScript</a></h2><p>You can program the micro:bit using <a  rel="nofollow noopener" href="/docs/blocks.html">Blocks</a> or <a  rel="nofollow noopener" href="/docs/javascript.html">JavaScript</a> in your web browser via the <a  rel="nofollow noopener" href="/docs/reference.html">micro:bit APIs</a>:</p>
+<h2 id="programming-blocks-or-javascript">Programming: <a  rel="nofollow noopener" href="/docs/blocks.html">Blocks</a> or <a  rel="nofollow noopener" href="/docs/javascript.html">JavaScript</a></h2><p>You can program the Bluebird using <a  rel="nofollow noopener" href="/docs/blocks.html">Blocks</a> or <a  rel="nofollow noopener" href="/docs/javascript.html">JavaScript</a> in your web browser via the <a  rel="nofollow noopener" href="/docs/reference.html">micro:bit APIs</a>:</p>
 <pre><code class="lang-block">input.onButtonPressed(Button.A, () =&gt; {
     basic.showString(&quot;Hi!&quot;);
 })</code></pre>
 <pre><code class="lang-typescript">input.onButtonPressed(Button.A, () =&gt; {
     basic.showString(&quot;Hi!&quot;);
 })</code></pre>
-<p>The editor work in <a  rel="nofollow noopener" href="/docs/browsers.html">most modern browsers</a>, work <a  rel="nofollow noopener" href="/docs/offline.html">offline</a> once loaded and do not require any installation. </p>
-<h2 id="compile-and-flash-your-program-"><a  rel="nofollow noopener" href="/docs/device/usb.html">Compile and Flash: Your Program!</a></h2><p>When you have your code ready, you connect your micro:bit to a computer via a USB cable, so it appears as a mounted drive (named MICROBIT). </p>
-<p>Compilation to ARM thumb machine code from <a  rel="nofollow noopener" href="/docs/blocks.html">Blocks</a> or <a  rel="nofollow noopener" href="/docs/javascript.html">JavaScript</a> happens in the browser. You save the ARM binary 
-program to a file, which you then copy to the micro:bit drive, which flashes the micro:bit device with the new program.</p>
-<h2 id="simulator-test-your-code">Simulator: Test Your Code</h2><p>You can run your code using the micro:bit simulator, all within the confines of a web browser. 
+<p>The editor work in <a  rel="nofollow noopener" href="/docs/browsers.html">most modern browsers</a>, work <a  rel="nofollow noopener" href="/docs/offline.html">offline</a> once loaded and do not require any installation.</p>
+<h2 id="compile-and-flash-your-program-"><a  rel="nofollow noopener" href="/docs/device/usb.html">Compile and Flash: Your Program!</a></h2><p>When you have your code ready, you connect your Bluebird to a computer via a USB cable, so it appears as a mounted drive (named TEKBOOT).</p>
+<p>Compilation to ARM thumb machine code from <a  rel="nofollow noopener" href="/docs/blocks.html">Blocks</a> or <a  rel="nofollow noopener" href="/docs/javascript.html">JavaScript</a> happens in the browser. You save the ARM binary
+program to a file, which you then copy to the TEKBOOT drive, which flashes the Bluebird device with the new program.</p>
+<h2 id="simulator-test-your-code">Simulator: Test Your Code</h2><p>You can run your code using the Bluebird simulator, all within the confines of a web browser.
 The simulator has support for the LED screen, buttons, as well as compass, accelerometer, and digital I/O pins.</p>
 <pre><code class="lang-sim">basic.forever(() =&gt; {
   basic.showString(&quot;Hi!&quot;);
@@ -1764,9 +1765,9 @@ input.onButtonPressed(Button.B, () =&gt; {
 . . # . .`);
 });</code></pre>
 <h2 id="learn-">Learn!</h2><p>We have tons of <a  rel="nofollow noopener" href="/docs/projects.html">projects</a>, <a  rel="nofollow noopener" href="/docs/examples.html">examples</a> and <a  rel="nofollow noopener" href="/docs/courses.html">courses</a> to get your started!</p>
-<h2 id="c-runtime">C++ Runtime</h2><p>The <a target="_blank" rel="nofollow noopener" href="http://lancaster-university.github.io/microbit-docs/">C++ micro:bit runtime</a>, created at <a target="_blank" rel="nofollow noopener" href="http://www.lancaster.ac.uk/">Lancaster University</a>, provides access to the hardware functions of the micro:bit, 
-as well as a set of helper functions (such as displaying a number/image/string on the LED screen). </p>
-<p>The <a  rel="nofollow noopener" href="/docs/reference.html">micro:bit library</a> mirrors the functions of the C++ library. 
+<h2 id="c-runtime">C++ Runtime</h2><p>The <a target="_blank" rel="nofollow noopener" href="http://lancaster-university.github.io/microbit-docs/">C++ micro:bit runtime</a>, created at <a target="_blank" rel="nofollow noopener" href="http://www.lancaster.ac.uk/">Lancaster University</a>, provides access to the hardware functions of the micro:bit,
+as well as a set of helper functions (such as displaying a number/image/string on the LED screen).</p>
+<p>The <a  rel="nofollow noopener" href="/docs/reference.html">micro:bit library</a> mirrors the functions of the C++ library.
 When code is compiled to ARM machine code, the calls to JavaScript micro:bit functions are replaced with calls to the corresponding C++ functions.</p>
 <h2 id="command-line-tools"><a  rel="nofollow noopener" href="/docs/cli.html">Command Line Tools</a></h2><p>Looking to use <a target="_blank" rel="nofollow noopener" href="https://makecode.microbit.org/">https://makecode.microbit.org/</a> in your favorite editor? Install the <a  rel="nofollow noopener" href="/docs/cli.html">command line tools</a> and get rolling!</p>
 <h2 id="extensions"><a  rel="nofollow noopener" href="/docs/extensions.html">Extensions</a></h2><p>Create, edit and distribute your own blocks and JavaScript using <a  rel="nofollow noopener" href="/docs/extensions.html">extensions</a>. Extensions are hosted on GitHub and may be written using C++, JavaScript and/or ARM thumb.</p>
