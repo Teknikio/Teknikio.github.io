@@ -2,15 +2,7 @@
 
 MakeCode is typically accessed at @homeurl@ where create, modify, and run your projects while you're online. You can can use  MakeCode when you're offline too. Here are some ways you can work with MakeCode offline:
 
-## Offline app #target-app
-
-The MakeCode editor is available as app which you can install on a computer with Windows or Mac OS. Once installed, the **[MakeCode Offline App](/offline-app)** lets you create, run, and download your projects to the @boardname@. It works the same as the Web application does in your browser but it's a stand-alone application that will work when a connection to the internet is restricted or not available.
-
-### ~ hint
-
-The [MakeCode Offline App](/offline-app) is currently in development and is made available as a **pre-release** version. 
-
-### ~
+## #target-app
 
 ## Web application
 
@@ -55,4 +47,3 @@ Extensions that use C++ are not supported yet in a full offline scenario as they
 ## Hosting MakeCode locally #local-serve
 
 The open source editions of MakeCode can be served locally on your own computer. More experienced users can download the entire [PXT Toolchain](https://github.com/microsoft/pxt) and use the [command line interface](/cli) (CLI) to compile and deploy scripts locally. PXT provides a great out-of-the-box experience when used with [Visual Studio Code](/code), a lightweight cross-platform code editor. See the @githubUrl@ project page for instructions on setting up a MakeCode local server.
-

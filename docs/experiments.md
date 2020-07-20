@@ -10,21 +10,10 @@ You can see which experiments are available by going to the **Settings** menu an
 
 Depending on the type of feature the experiment is providing, you will work with it in the editor using some new element such as a button or a menu selection (most likely in **Settings**). Once the experiment is enabled and you go back to the editor, the new button or menu choice will show up.
 
-## Current Experiments #current
-
-The current experimental features we're testing and making available are:
-
-* Print Code
-* Green Screen
-* Editor Extensions
-* Wiring Instructions
-* Debugger
-* Bluetooth Console
-* Bluetooth Download
+## #current 
 
 ## Feedback
 
 On each experiment selection is a feedback link for you tell us how the feature worked or to make a suggestion if you want. Any feedback is welcome, thanks!
 
 * All active experiments: https://github.com/microsoft/pxt/labels/Experiment
-

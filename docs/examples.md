@@ -1,47 +1,19 @@
 # Examples
 
-Here are some fun programs for your @boardname@!
+Here are some fun programs for your board!
 
 ## Fun stuff
 
 ```codecard
 [{
-  "name": "Rando",
-  "description": "Randomly blinking LEDs",
-  "url": "/examples/rando",
-  "cardType": "example"
-},
-{
-  "name": "Game of Life",
-  "description": "A Game of Life simulation in LEDs",
-  "url": "/examples/gameofLife",
-  "cardType": "example"
-},
-{
-  "name": "Pi Monte Carlo",
-  "description": "Approximate the number Pi",
-  "url": "/examples/pi-montecarlo",
-  "cardType": "example"
-}]
-```
-
-## Sensors
-
-```codecard
-[{
-  "name": "Egg & Spoon Race",
-  "description": "Balance a micro:bit like an egg and spoon race",
-  "url": "/examples/egg-and-spoon",
-  "cardType": "example"
-},{
-  "name": "Plot Acceleration",
-  "description": "Chart acceleration on the LED screen",
-  "url": "/examples/plot-acceleration",
+  "name": "Square",
+  "description": "Move in a square",
+  "url":"/examples/square",
   "cardType": "example"
 }, {
-  "name": "Radio Dashboard",
-  "description": "A dashboard for radio clients",
-  "url": "/examples/radio-dashboard",
+  "name": "Square 2",
+  "description": "TBD",
+  "url": "/examples/square2",
   "cardType": "example"
 }]
 ```
