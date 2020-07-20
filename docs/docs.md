@@ -1,33 +1,14 @@
-# Documentation
+# Docs for Sample Target
 
-## @description Links to the documentation, reference and projects.
+This is a pure javascript sample target for [Microsoft MakeCode](https://makecode.com). 
+For more information about setting your own target, 
+see https://makecode.com/packages .
 
-## Things to do
+You can embed code snippets and [more](https://makecode.com/markdown)
 
-* [Projects](/projects)
-* [Examples](/examples)
-* [Courses](/courses)
-* [Lessons](/lessons)
-
-## @boardname@ reference
-
-* [The @boardname@ APIs](/reference)
-* [The @boardname@ device](/device)
-
-## Language and data reference
-
-* [Blocks language](/blocks)
-* [JavaScript language](/javascript)
-
-## More questions?
-
-* [Frequently Asked Question](/faq)
-* [Help Translate](/translate)
-* [Embedding project](/share)
-
-## Developers
-
-* [Command Line Interface](/cli)
-* Learn about [extensions](/extensions)
-* [Flashing via HID (CMSIS-DAP)](/hidflash)
-
+```blocks
+loops.forever(() => {
+    turtle.turn(Direction.Left, 10);
+    turtle.forward(1);
+});
+```
