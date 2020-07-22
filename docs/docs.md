@@ -1,14 +1,20 @@
-# Docs for Sample Target
+# Documentation
 
-This is a pure javascript sample target for [Microsoft MakeCode](https://makecode.com). 
-For more information about setting your own target, 
-see https://makecode.com/packages .
+## @description Links to the documentation, reference and projects.
 
-You can embed code snippets and [more](https://makecode.com/markdown)
+Welcome to the documentation of the Microsoft MakeCode editor
+for the [Teknikio Bluebird](https://www.teknikio.com/pages/bluebird).
 
-```blocks
-loops.forever(() => {
-    turtle.turn(Direction.Left, 10);
-    turtle.forward(1);
-});
-```
+![](https://cdn.shopify.com/s/files/1/1837/7355/files/bluebird_Dissected_graphic_1512x.png?v=1563462627)
+
+## Bluebird Guides
+
+* [Bluebird Intro](https://docs.google.com/presentation/d/1onPm2SEpyNofufs15y_XPkiPJdRcCkVkI7Epel0LU2M)
+* [Programming in the Flock.io App](https://docs.google.com/presentation/d/1onPm2SEpyNofufs15y_XPkiPJdRcCkVkI7Epel0LU2M/#slide=id.g4c744ab613_0_262)
+
+## Documentation
+
+* [About](/about)
+* [Examples](/examples)
+* [Blocks](/blocks)
+* [Reference](/reference)

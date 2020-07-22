@@ -1,6 +1,6 @@
 # Examples
 
-Here are some fun programs for your board!
+Here are some fun programs for your @boardname@!
 
 ## Fun stuff
 
