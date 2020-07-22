@@ -4,8 +4,8 @@
 
 <head>
 	<meta charset="UTF-8">
-	<title>MakeCode Editor Sample</title>
-	<meta name="Description" content="The maximum of two values." />
+	<title>Teknikio Bluebird - Blocks / Javascript Editor</title>
+	<meta name="Description" content="A Blocks / Javascript code editor for the Teknikio Bluebird" />
 
 	<!-- ifdef incontexttranslations endif -->
 	
@@ -20,14 +20,14 @@
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@msmakecode" />
-<meta name="twitter:title" content="MakeCode Editor Sample" />
-<meta name="twitter:description" content="The maximum of two values." />
+<meta name="twitter:title" content="Teknikio Bluebird - Blocks / Javascript Editor" />
+<meta name="twitter:description" content="A Blocks / Javascript code editor for the Teknikio Bluebird" />
 <meta name="twitter:image" content="" />
 
-<meta property="og:title" content="MakeCode Editor Sample" />
+<meta property="og:title" content="Teknikio Bluebird - Blocks / Javascript Editor" />
 <meta property="og:site_name" content="Microsoft MakeCode" />
 <meta property="og:type" content="website" />
-<meta property="og:description" content="The maximum of two values." />
+<meta property="og:description" content="A Blocks / Javascript code editor for the Teknikio Bluebird" />
 <meta property="fb:app_id" content="" />
 <meta property="og:image" content="" />
 
@@ -35,7 +35,7 @@
 <link rel="apple-touch-icon" href="">
 <link rel="icon" type="image/png" href="">
 <link rel="shortcut icon" href="">
-<meta name="theme-color" content="">
+<meta name="theme-color" content="#0089BF">
 
 <!-- end include meta.html -->
 
@@ -58,6 +58,9 @@
 
 <style>
     
+.ui.accent { color: #0089BF; }
+.ui.inverted.accent { background: #0089BF; }
+
 </style>
 
 <!-- end include head.html -->
@@ -66,7 +69,7 @@
 </head>
 
 <body id='root' class='root'>
-	<div id="cookiebanner"></div>
+
 	<div id="accessibleMenu" class="ui accessibleMenu borderless fixed menu docs" role="menubar">
 		
             <a href="#maincontent" class="ui item link" tabindex="0" role="menuitem">Skip to main content</a>
@@ -97,7 +100,7 @@
         <div class="item">
             <form id="tocsearch1" class="search" role="form" method="get" action="https://www.bing.com/search">
                 <div class="ui fluid icon input">
-                    <input type="hidden" name="q1" value="site:http://microsoft.github.io/pxt-sample/" />
+                    <input type="hidden" name="q1" value="site:https://www.teknikio.com/pages/bluebird" />
                     
                 <input type="search" name="q" placeholder="Search..." aria-label="Search Documentation">
                 <i onclick="document.getElementById('tocsearch1').submit();" tabindex="0" class="search link icon" aria-label="Search" role="button"></i>
@@ -122,6 +125,562 @@
 
 
     <a class="item " href="/docs/github.html" role="menuitem">GitHub</a>
+
+
+    <div class="ui  accordion item visible" role="tree" title="">
+        <div class=" title">
+            <i class="right chevron icon"></i>
+            <a class="header" role="treeitem" aria-expanded="false" href="/docs/reference.html">Reference</a>
+        </div>
+        <div class=" content">
+            
+    <div class="ui  accordion item visible" role="tree" title="">
+        <div class=" title">
+            <i class="right chevron icon"></i>
+            <a class="header" role="treeitem" aria-expanded="false" href="/docs/reference/basic.html">Basic</a>
+        </div>
+        <div class=" content">
+            
+    <a class="item " href="/docs/reference/basic/show-number.html" role="menuitem">show number</a>
+
+
+    <a class="item " href="/docs/reference/basic/show-icon.html" role="menuitem">show icon</a>
+
+
+    <a class="item " href="/docs/reference/basic/show-leds.html" role="menuitem">show leds</a>
+
+
+    <a class="item " href="/docs/reference/basic/show-string.html" role="menuitem">show string</a>
+
+
+    <a class="item " href="/docs/reference/basic/clear-screen.html" role="menuitem">clear screen</a>
+
+
+    <a class="item " href="/docs/reference/basic/forever.html" role="menuitem">forever</a>
+
+
+    <a class="item " href="/docs/reference/basic/pause.html" role="menuitem">pause</a>
+
+
+    <a class="item " href="/docs/reference/basic/show-arrow.html" role="menuitem">show arrow</a>
+
+
+    <a class="item " href="/docs/reference/basic/show-animation.html" role="menuitem">show animation</a>
+
+        </div>
+    </div>
+
+
+    <div class="ui  accordion item visible" role="tree" title="">
+        <div class=" title">
+            <i class="right chevron icon"></i>
+            <a class="header" role="treeitem" aria-expanded="false" href="/docs/reference/input.html">Input</a>
+        </div>
+        <div class=" content">
+            
+    <a class="item " href="/docs/reference/input/on-button-pressed.html" role="menuitem">on button pressed</a>
+
+
+    <a class="item " href="/docs/reference/input/on-gesture.html" role="menuitem">on gesture</a>
+
+
+    <a class="item " href="/docs/reference/input/on-pin-pressed.html" role="menuitem">on pin pressed</a>
+
+
+    <a class="item " href="/docs/reference/input/button-is-pressed.html" role="menuitem">button is pressed</a>
+
+
+    <a class="item " href="/docs/reference/input/compass-heading.html" role="menuitem">compass heading</a>
+
+
+    <a class="item " href="/docs/reference/input/pin-is-pressed.html" role="menuitem">pin is pressed</a>
+
+
+    <a class="item " href="/docs/reference/input/temperature.html" role="menuitem">temperature</a>
+
+
+    <a class="item " href="/docs/reference/input/acceleration.html" role="menuitem">acceleration</a>
+
+
+    <a class="item " href="/docs/reference/input/light-level.html" role="menuitem">light level</a>
+
+
+    <a class="item " href="/docs/reference/input/rotation.html" role="menuitem">rotation</a>
+
+
+    <a class="item " href="/docs/reference/input/magnetic-force.html" role="menuitem">magnetic force</a>
+
+
+    <a class="item " href="/docs/reference/input/running-time.html" role="menuitem">running time</a>
+
+
+    <a class="item " href="/docs/reference/input/set-accelerometer-range.html" role="menuitem">set accelerometer range</a>
+
+        </div>
+    </div>
+
+
+    <div class="ui  accordion item visible" role="tree" title="">
+        <div class=" title">
+            <i class="right chevron icon"></i>
+            <a class="header" role="treeitem" aria-expanded="false" href="/docs/reference/music.html">Music</a>
+        </div>
+        <div class=" content">
+            
+    <a class="item " href="/docs/reference/music/play-tone.html" role="menuitem">play tone</a>
+
+
+    <a class="item " href="/docs/reference/music/ring-tone.html" role="menuitem">ring tone</a>
+
+
+    <a class="item " href="/docs/reference/music/rest.html" role="menuitem">rest</a>
+
+
+    <a class="item " href="/docs/reference/music/beat.html" role="menuitem">beat</a>
+
+
+    <a class="item " href="/docs/reference/music/tempo.html" role="menuitem">tempo</a>
+
+
+    <a class="item " href="/docs/reference/music/change-tempo-by.html" role="menuitem">change tempo by</a>
+
+
+    <a class="item " href="/docs/reference/music/set-tempo.html" role="menuitem">set tempo</a>
+
+        </div>
+    </div>
+
+
+    <div class="ui  accordion item visible" role="tree" title="">
+        <div class=" title">
+            <i class="right chevron icon"></i>
+            <a class="header" role="treeitem" aria-expanded="false" href="/docs/reference/led.html">Led</a>
+        </div>
+        <div class=" content">
+            
+    <a class="item " href="/docs/reference/led/plot.html" role="menuitem">plot</a>
+
+
+    <a class="item " href="/docs/reference/led/unplot.html" role="menuitem">unplot</a>
+
+
+    <a class="item " href="/docs/reference/led/point.html" role="menuitem">point</a>
+
+
+    <a class="item " href="/docs/reference/led/toggle.html" role="menuitem">toggle</a>
+
+
+    <a class="item " href="/docs/reference/led/brightness.html" role="menuitem">brightness</a>
+
+
+    <a class="item " href="/docs/reference/led/set-brightness.html" role="menuitem">set brightness</a>
+
+
+    <a class="item " href="/docs/reference/led/stop-animation.html" role="menuitem">stop animation</a>
+
+
+    <a class="item " href="/docs/reference/led/plot-bar-graph.html" role="menuitem">plot bar graph</a>
+
+
+    <a class="item " href="/docs/reference/led/enable.html" role="menuitem">enable</a>
+
+        </div>
+    </div>
+
+
+    <div class="ui  accordion item visible" role="tree" title="">
+        <div class=" title">
+            <i class="right chevron icon"></i>
+            <a class="header" role="treeitem" aria-expanded="false" href="/docs/reference/radio.html">Radio</a>
+        </div>
+        <div class=" content">
+            
+    <a class="item " href="/docs/reference/radio/send-number.html" role="menuitem">send number</a>
+
+
+    <a class="item " href="/docs/reference/radio/send-value.html" role="menuitem">send value</a>
+
+
+    <a class="item " href="/docs/reference/radio/send-string.html" role="menuitem">send string</a>
+
+
+    <a class="item " href="/docs/reference/radio/on-received-number.html" role="menuitem">on received number</a>
+
+
+    <a class="item " href="/docs/reference/radio/on-received-string.html" role="menuitem">on received string</a>
+
+
+    <a class="item " href="/docs/reference/radio/on-received-buffer.html" role="menuitem">on received buffer</a>
+
+
+    <a class="item " href="/docs/reference/radio/received-packet.html" role="menuitem">received packet</a>
+
+
+    <a class="item " href="/docs/reference/radio/set-group.html" role="menuitem">set group</a>
+
+
+    <a class="item " href="/docs/reference/radio/set-transmit-power.html" role="menuitem">set transmit power</a>
+
+
+    <a class="item " href="/docs/reference/radio/set-transmit-serial-number.html" role="menuitem">set transmit serial number</a>
+
+
+    <a class="item " href="/docs/reference/radio/on-data-packet-received.html" role="menuitem">on data packet received</a>
+
+
+    <a class="item " href="/docs/reference/radio/write-received-packet-to-serial.html" role="menuitem">write received packet to serial</a>
+
+        </div>
+    </div>
+
+
+    <div class="ui  accordion item visible" role="tree" title="">
+        <div class=" title">
+            <i class="right chevron icon"></i>
+            <a class="header" role="treeitem" aria-expanded="false" href="/docs/reference/game.html">Game</a>
+        </div>
+        <div class=" content">
+            
+    <a class="item " href="/docs/reference/game/create-sprite.html" role="menuitem">create sprite</a>
+
+
+    <a class="item " href="/docs/reference/game/delete.html" role="menuitem">delete</a>
+
+
+    <a class="item " href="/docs/reference/game/move.html" role="menuitem">move</a>
+
+
+    <a class="item " href="/docs/reference/game/turn.html" role="menuitem">turn</a>
+
+
+    <a class="item " href="/docs/reference/game/if-on-edge-bounce.html" role="menuitem">if on edge bounce</a>
+
+
+    <a class="item " href="/docs/reference/game/get.html" role="menuitem">get</a>
+
+
+    <a class="item " href="/docs/reference/game/set.html" role="menuitem">set</a>
+
+
+    <a class="item " href="/docs/reference/game/change.html" role="menuitem">change</a>
+
+
+    <a class="item " href="/docs/reference/game/is-touching.html" role="menuitem">is touching</a>
+
+
+    <a class="item " href="/docs/reference/game/is-touching-edge.html" role="menuitem">is touching edge</a>
+
+
+    <a class="item " href="/docs/reference/game/add-score.html" role="menuitem">add score</a>
+
+
+    <a class="item " href="/docs/reference/game/score.html" role="menuitem">score</a>
+
+
+    <a class="item " href="/docs/reference/game/set-score.html" role="menuitem">set score</a>
+
+
+    <a class="item " href="/docs/reference/game/set-life.html" role="menuitem">set life</a>
+
+
+    <a class="item " href="/docs/reference/game/add-life.html" role="menuitem">add life</a>
+
+
+    <a class="item " href="/docs/reference/game/remove-life.html" role="menuitem">remove life</a>
+
+
+    <a class="item " href="/docs/reference/game/start-countdown.html" role="menuitem">start countdown</a>
+
+
+    <a class="item " href="/docs/reference/game/game-over.html" role="menuitem">game over</a>
+
+
+    <a class="item " href="/docs/reference/game/pause.html" role="menuitem">pause</a>
+
+
+    <a class="item " href="/docs/reference/game/resume.html" role="menuitem">resume</a>
+
+        </div>
+    </div>
+
+
+    <div class="ui  accordion item visible" role="tree" title="">
+        <div class=" title">
+            <i class="right chevron icon"></i>
+            <a class="header" role="treeitem" aria-expanded="false" href="/docs/reference/images.html">Images</a>
+        </div>
+        <div class=" content">
+            
+    <a class="item " href="/docs/reference/images/create-image.html" role="menuitem">create image</a>
+
+
+    <a class="item " href="/docs/reference/images/create-big-image.html" role="menuitem">create big image</a>
+
+
+    <a class="item " href="/docs/reference/images/show-image.html" role="menuitem">show image</a>
+
+
+    <a class="item " href="/docs/reference/images/scroll-image.html" role="menuitem">scroll image</a>
+
+
+    <a class="item " href="/docs/reference/images/arrow-image.html" role="menuitem">arrow image</a>
+
+
+    <a class="item " href="/docs/reference/images/icon-image.html" role="menuitem">icon image</a>
+
+
+    <a class="item " href="/docs/reference/images/arrow-number.html" role="menuitem">arrow number</a>
+
+        </div>
+    </div>
+
+
+    <div class="ui  accordion item visible" role="tree" title="">
+        <div class=" title">
+            <i class="right chevron icon"></i>
+            <a class="header" role="treeitem" aria-expanded="false" href="/docs/reference/pins.html">Pins</a>
+        </div>
+        <div class=" content">
+            
+    <a class="item " href="/docs/reference/pins/digital-read-pin.html" role="menuitem">digital read pin</a>
+
+
+    <a class="item " href="/docs/reference/pins/digital-write-pin.html" role="menuitem">digital write pin</a>
+
+
+    <a class="item " href="/docs/reference/pins/analog-read-pin.html" role="menuitem">analog read pin</a>
+
+
+    <a class="item " href="/docs/reference/pins/analog-write-pin.html" role="menuitem">analog write pin</a>
+
+
+    <a class="item " href="/docs/reference/pins/analog-set-period.html" role="menuitem">analog set period</a>
+
+
+    <a class="item " href="/docs/reference/pins/map.html" role="menuitem">map</a>
+
+
+    <a class="item " href="/docs/reference/pins/on-pulsed.html" role="menuitem">on pulsed</a>
+
+
+    <a class="item " href="/docs/reference/pins/pulse-duration.html" role="menuitem">pulse duration</a>
+
+
+    <a class="item " href="/docs/reference/pins/pulse-in.html" role="menuitem">pulse in</a>
+
+
+    <a class="item " href="/docs/reference/pins/servo-write-pin.html" role="menuitem">servo write pin</a>
+
+
+    <a class="item " href="/docs/reference/pins/servo-set-pulse.html" role="menuitem">servo set pulse</a>
+
+
+    <a class="item " href="/docs/reference/pins/i2c-read-number.html" role="menuitem">i2c read number</a>
+
+
+    <a class="item " href="/docs/reference/pins/i2c-write-number.html" role="menuitem">i2c write number</a>
+
+
+    <a class="item " href="/docs/reference/pins/set-pull.html" role="menuitem">set pull</a>
+
+
+    <a class="item " href="/docs/reference/pins/analog-pitch.html" role="menuitem">analog pitch</a>
+
+
+    <a class="item " href="/docs/reference/pins/analog-set-pitch-pin.html" role="menuitem">analog set pitch pin</a>
+
+
+    <a class="item " href="/docs/reference/pins/spi-write.html" role="menuitem">spi write</a>
+
+
+    <a class="item " href="/docs/reference/pins/spi-pins.html" role="menuitem">spi Pins</a>
+
+
+    <a class="item " href="/docs/reference/pins/spi-format.html" role="menuitem">spi format</a>
+
+
+    <a class="item " href="/docs/reference/pins/spi-frequency.html" role="menuitem">spi frequency</a>
+
+        </div>
+    </div>
+
+
+    <div class="ui  accordion item visible" role="tree" title="">
+        <div class=" title">
+            <i class="right chevron icon"></i>
+            <a class="header" role="treeitem" aria-expanded="false" href="/docs/reference/serial.html">Serial</a>
+        </div>
+        <div class=" content">
+            
+    <a class="item " href="/docs/reference/serial/write-line.html" role="menuitem">write line</a>
+
+
+    <a class="item " href="/docs/reference/serial/write-number.html" role="menuitem">write number</a>
+
+
+    <a class="item " href="/docs/reference/serial/write-value.html" role="menuitem">write value</a>
+
+
+    <a class="item " href="/docs/reference/serial/write-string.html" role="menuitem">write string</a>
+
+
+    <a class="item " href="/docs/reference/serial/read-until.html" role="menuitem">read until</a>
+
+
+    <a class="item " href="/docs/reference/serial/read-line.html" role="menuitem">read line</a>
+
+
+    <a class="item " href="/docs/reference/serial/read-string.html" role="menuitem">read string</a>
+
+
+    <a class="item " href="/docs/reference/serial/on-data-received.html" role="menuitem">on data received</a>
+
+
+    <a class="item " href="/docs/reference/serial/redirect.html" role="menuitem">redirect</a>
+
+
+    <a class="item " href="/docs/reference/serial/redirect-to-usb.html" role="menuitem">redirect to usb</a>
+
+
+    <a class="item " href="/docs/reference/serial/write-buffer.html" role="menuitem">write buffer</a>
+
+
+    <a class="item " href="/docs/reference/serial/read-buffer.html" role="menuitem">read buffer</a>
+
+        </div>
+    </div>
+
+
+    <div class="ui  accordion item visible" role="tree" title="">
+        <div class=" title">
+            <i class="right chevron icon"></i>
+            <a class="header" role="treeitem" aria-expanded="false" href="/docs/reference/control.html">Control</a>
+        </div>
+        <div class=" content">
+            
+    <a class="item " href="/docs/reference/control/in-background.html" role="menuitem">in background</a>
+
+
+    <a class="item " href="/docs/reference/control/reset.html" role="menuitem">reset</a>
+
+
+    <a class="item " href="/docs/reference/control/wait-micros.html" role="menuitem">wait micros</a>
+
+
+    <a class="item " href="/docs/reference/control/on-event.html" role="menuitem">on event</a>
+
+
+    <a class="item " href="/docs/reference/control/raise-event.html" role="menuitem">raise event</a>
+
+
+    <a class="item " href="/docs/reference/control/event-timestamp.html" role="menuitem">event timestamp</a>
+
+
+    <a class="item " href="/docs/reference/control/event-value.html" role="menuitem">event value</a>
+
+        </div>
+    </div>
+
+
+    <div class="ui  accordion item visible" role="tree" title="">
+        <div class=" title">
+            <i class="right chevron icon"></i>
+            <a class="header" role="treeitem" aria-expanded="false" href="/docs/reference/bluetooth.html">Bluetooth</a>
+        </div>
+        <div class=" content">
+            
+    <a class="item " href="/docs/reference/bluetooth/about-bluetooth.html" role="menuitem">About</a>
+
+
+    <a class="item " href="/docs/reference/bluetooth/bluetooth-pairing.html" role="menuitem">Pairing</a>
+
+
+    <a class="item " href="/docs/reference/bluetooth/on-bluetooth-connected.html" role="menuitem">on bluetooth connected</a>
+
+
+    <a class="item " href="/docs/reference/bluetooth/on-bluetooth-disconnected.html" role="menuitem">on bluetooth disconnected</a>
+
+
+    <a class="item " href="/docs/reference/bluetooth/start-accelerometer-service.html" role="menuitem">start accelerometer service</a>
+
+
+    <a class="item " href="/docs/reference/bluetooth/start-button-service.html" role="menuitem">start button service</a>
+
+
+    <a class="item " href="/docs/reference/bluetooth/start-io-pin-service.html" role="menuitem">start io pin service</a>
+
+
+    <a class="item " href="/docs/reference/bluetooth/start-led-service.html" role="menuitem">start led service</a>
+
+
+    <a class="item " href="/docs/reference/bluetooth/start-magnetometer-service.html" role="menuitem">start magnetometer service</a>
+
+
+    <a class="item " href="/docs/reference/bluetooth/start-temperature-service.html" role="menuitem">start temperature service</a>
+
+
+    <a class="item " href="/docs/reference/bluetooth/start-uart-service.html" role="menuitem">start uart service</a>
+
+
+    <a class="item " href="/docs/reference/bluetooth/uart-read-until.html" role="menuitem">uart read until</a>
+
+
+    <a class="item " href="/docs/reference/bluetooth/uart-write-string.html" role="menuitem">uart write string</a>
+
+
+    <a class="item " href="/docs/reference/bluetooth/uart-write-number.html" role="menuitem">uart write number</a>
+
+
+    <a class="item " href="/docs/reference/bluetooth/uart-write-value.html" role="menuitem">uart write value</a>
+
+
+    <a class="item " href="/docs/reference/bluetooth/advertise-url.html" role="menuitem">advertise url</a>
+
+
+    <a class="item " href="/docs/reference/bluetooth/stop-advertising.html" role="menuitem">stop advertising</a>
+
+
+    <a class="item " href="/docs/reference/bluetooth/advertise-uid.html" role="menuitem">advertise uid</a>
+
+
+    <a class="item " href="/docs/reference/bluetooth/advertise-uid-buffer.html" role="menuitem">advertise-uid-buffer</a>
+
+        </div>
+    </div>
+
+
+    <div class="ui  accordion item visible" role="tree" title="">
+        <div class=" title">
+            <i class="right chevron icon"></i>
+            <a class="header" role="treeitem" aria-expanded="false" href="/docs/reference/devices.html">Devices</a>
+        </div>
+        <div class=" content">
+            
+    <a class="item " href="/docs/reference/devices/tell-camera-to.html" role="menuitem">tell camera to</a>
+
+
+    <a class="item " href="/docs/reference/devices/tell-remote-control-to.html" role="menuitem">tell remote control to</a>
+
+
+    <a class="item " href="/docs/reference/devices/raise-alert-to.html" role="menuitem">raise alert to</a>
+
+
+    <a class="item " href="/docs/reference/devices/on-notified.html" role="menuitem">on notified</a>
+
+
+    <a class="item " href="/docs/reference/devices/on-gamepad-button.html" role="menuitem">on gamepad button</a>
+
+
+    <a class="item " href="/docs/reference/devices/signal-strength.html" role="menuitem">signal strength</a>
+
+
+    <a class="item " href="/docs/reference/devices/on-signal-strength-changed.html" role="menuitem">on signal strength changed</a>
+
+        </div>
+    </div>
+
+        </div>
+    </div>
 
 
     <div class="ui  accordion item visible" role="tree" title="">
@@ -322,25 +881,6 @@
 
 
     <a class="item " href="/docs/save.html" role="menuitem">Save</a>
-
-        </div>
-    </div>
-
-
-    <div class="ui  accordion item visible" role="tree" title="">
-        <div class=" title">
-            <i class="right chevron icon"></i>
-            <a class="header" role="treeitem" aria-expanded="false" href="">Developers</a>
-        </div>
-        <div class=" content">
-            
-    <a class="item " href="/docs/cli.html" role="menuitem">Command Line Interface</a>
-
-
-    <a class="item " href="/docs/code.html" role="menuitem">Visual Studio Code support</a>
-
-
-    <a class="item " href="/docs/blocks-embed.html" role="menuitem">Blocks Embed</a>
 
         </div>
     </div>
