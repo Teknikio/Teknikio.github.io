@@ -115,13 +115,19 @@
     <!-- TOC Menu (tocheader.html) -->
     <div class="menuContainer" role="menu">
         
-    <a class="item " href="https://teknikio.github.io/docs/about" role="menuitem">About</a>
+    <a class="item " href="/docs/about.html" role="menuitem">About</a>
 
 
-    <a class="item " href="https://teknikio.github.io/docs/faq" role="menuitem">FAQ</a>
+    <a class="item " href="/docs/controlcenter.html" role="menuitem">Control Center</a>
 
 
-    <a class="item " href="https://teknikio.github.io/docs/projects" role="menuitem">Projects</a>
+    <a class="item " href="/docs/examples.html" role="menuitem">Examples</a>
+
+
+    <a class="item " href="/docs/hardware.html" role="menuitem">Hardware</a>
+
+
+    <a class="item " href="/docs/github.html" role="menuitem">GitHub</a>
 
 
     <div class="ui  accordion item visible" role="tree" title="">
@@ -910,30 +916,32 @@
 					
     <div class="ui text">
         <h1 id="input">Input</h1><p>Events and data from sensors</p>
-<pre><code class="lang-cards">input.onButtonPressed(Button.A, () =&gt; {
+<h2 id="acceleration">Accelerometer </h2><pre><code class="lang-cards">input.onGesture(Gesture.Shake, () =&gt; {
+
+})
+input.setAccelerometerRange(AcceleratorRange.OneG)
+input.acceleration(Dimension.X)
+input.rotation(Rotation.Pitch)
+</code></pre>
+<h2 id="lightsensor">Light sensor </h2><pre><code class="lang-cards">input.onLightConditionChanged(LightCondition.Dark, () =&gt; {
 
 });
-input.onGesture(Gesture.Shake, () =&gt; {
+input.lightLevel();</code></pre>
+<pre><code class="lang-package">lightsensor</code></pre>
+<h2 id="buttons">Buttons </h2><pre><code class="lang-cards">input.buttonA.isPressed()
+input.buttonA.wasPressed()
+input.onSwitchMoved(SwitchDirection.Left, () =&gt; {
 
-});
-input.onPinPressed(TouchPin.P0, () =&gt; {
+})
+input.buttonA.onEvent(ButtonEvent.Click, () =&gt; {
 
-});
-input.buttonIsPressed(Button.A);
-input.isGesture(Gesture.Shake);
-input.compassHeading();
-input.pinIsPressed(TouchPin.P0);
-input.temperature();
-input.acceleration(Dimension.X);
-input.lightLevel();
-input.rotation(Rotation.Pitch);
-input.magneticForce(Dimension.X);
-input.runningTime();
-input.runningTimeMicros();
-input.setAccelerometerRange(AcceleratorRange.OneG);</code></pre>
-<h2 id="see-also">See also</h2><p><a  rel="nofollow noopener" href="/docs/reference/input/on-button-pressed.html">onButtonPressed</a>, <a  rel="nofollow noopener" href="/docs/reference/input/on-gesture.html">onGesture</a>, <a  rel="nofollow noopener" href="/docs/reference/input/on-pin-pressed.html">onPinPressed</a>, <a  rel="nofollow noopener" href="/docs/reference/input/button-is-pressed.html">buttonIsPressed</a>, 
-<a  rel="nofollow noopener" href="/docs/reference/input/is-gesture.html">is gesture</a>,
-<a  rel="nofollow noopener" href="/docs/reference/input/compass-heading.html">compassHeading</a>, <a  rel="nofollow noopener" href="/docs/reference/input/pin-is-pressed.html">pinIsPressed</a>, <a  rel="nofollow noopener" href="/docs/reference/input/temperature.html">temperature</a>, <a  rel="nofollow noopener" href="/docs/reference/input/acceleration.html">acceleration</a>, <a  rel="nofollow noopener" href="/docs/reference/input/light-level.html">lightLevel</a>, <a  rel="nofollow noopener" href="/docs/reference/input/rotation.html">rotation</a>, <a  rel="nofollow noopener" href="/docs/reference/input/magnetic-force.html">magneticForce</a>, <a  rel="nofollow noopener" href="/docs/reference/input/running-time.html">runningTime</a>, <a  rel="nofollow noopener" href="/docs/reference/input/set-accelerometer-range.html">setAccelerometerRange</a>, <a  rel="nofollow noopener" href="/docs/reference/input/calibrate-compass.html">calibrate-compass</a></p>
+})</code></pre>
+<h2 id="microphone">Microphone </h2><pre><code class="lang-cards">input.onLoudSound(() =&gt; {})
+input.soundLevel()</code></pre>
+<h2 id="thermometer">Thermometer </h2><pre><code class="lang-cards">input.onTemperatureConditionChanged(TemperatureCondition.Hot, 15, TemperatureUnit.Celsius, () =&gt; {
+
+})
+input.temperature(TemperatureUnit.Celsius)</code></pre>
 
     </div>
 

@@ -2,32 +2,57 @@
 
 Events and data from sensors
 
+## Accelerometer #acceleration
+
 ```cards
-input.onButtonPressed(Button.A, () => {
-    
-});
 input.onGesture(Gesture.Shake, () => {
-    
-});
-input.onPinPressed(TouchPin.P0, () => {
-    
-});
-input.buttonIsPressed(Button.A);
-input.isGesture(Gesture.Shake);
-input.compassHeading();
-input.pinIsPressed(TouchPin.P0);
-input.temperature();
-input.acceleration(Dimension.X);
-input.lightLevel();
-input.rotation(Rotation.Pitch);
-input.magneticForce(Dimension.X);
-input.runningTime();
-input.runningTimeMicros();
-input.setAccelerometerRange(AcceleratorRange.OneG);
+
+})
+input.setAccelerometerRange(AcceleratorRange.OneG)
+input.acceleration(Dimension.X)
+input.rotation(Rotation.Pitch)
+
 ```
 
-## See also
+## Light sensor #lightsensor
 
-[onButtonPressed](/reference/input/on-button-pressed), [onGesture](/reference/input/on-gesture), [onPinPressed](/reference/input/on-pin-pressed), [buttonIsPressed](/reference/input/button-is-pressed), 
-[is gesture](/reference/input/is-gesture),
-[compassHeading](/reference/input/compass-heading), [pinIsPressed](/reference/input/pin-is-pressed), [temperature](/reference/input/temperature), [acceleration](/reference/input/acceleration), [lightLevel](/reference/input/light-level), [rotation](/reference/input/rotation), [magneticForce](/reference/input/magnetic-force), [runningTime](/reference/input/running-time), [setAccelerometerRange](/reference/input/set-accelerometer-range), [calibrate-compass](/reference/input/calibrate-compass)
+```cards
+input.onLightConditionChanged(LightCondition.Dark, () => {
+
+});
+input.lightLevel();
+```
+
+```package
+lightsensor
+```
+
+## Buttons #buttons
+
+```cards
+input.buttonA.isPressed()
+input.buttonA.wasPressed()
+input.onSwitchMoved(SwitchDirection.Left, () => {
+
+})
+input.buttonA.onEvent(ButtonEvent.Click, () => {
+
+})
+```
+
+## Microphone #microphone
+
+```cards
+input.onLoudSound(() => {})
+input.soundLevel()
+```
+
+## Thermometer #thermometer
+
+```cards
+input.onTemperatureConditionChanged(TemperatureCondition.Hot, 15, TemperatureUnit.Celsius, () => {
+	
+})
+input.temperature(TemperatureUnit.Celsius)
+```
+

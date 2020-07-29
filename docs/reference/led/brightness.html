@@ -115,13 +115,19 @@
     <!-- TOC Menu (tocheader.html) -->
     <div class="menuContainer" role="menu">
         
-    <a class="item " href="https://teknikio.github.io/docs/about" role="menuitem">About</a>
+    <a class="item " href="/docs/about.html" role="menuitem">About</a>
 
 
-    <a class="item " href="https://teknikio.github.io/docs/faq" role="menuitem">FAQ</a>
+    <a class="item " href="/docs/controlcenter.html" role="menuitem">Control Center</a>
 
 
-    <a class="item " href="https://teknikio.github.io/docs/projects" role="menuitem">Projects</a>
+    <a class="item " href="/docs/examples.html" role="menuitem">Examples</a>
+
+
+    <a class="item " href="/docs/hardware.html" role="menuitem">Hardware</a>
+
+
+    <a class="item " href="/docs/github.html" role="menuitem">GitHub</a>
 
 
     <div class="ui  accordion item visible" role="tree" title="">
@@ -915,7 +921,9 @@
 <li>a <a  rel="nofollow noopener" href="/docs/types/number.html">number</a> that means how bright the screen is when it is turned on, from <code>0</code> (darkest) to <code>255</code> (brightest). For example, the number <code>127</code> means the screen is halfway bright when it is turned on.</li>
 </ul>
 <h2 id="example-highest-brightness">Example: highest brightness</h2><p>This program makes the screen completely bright when it is turned on (if it is not that way already):</p>
-<pre><code class="lang-blocks">rgb.setBrightness(255)</code></pre>
+<pre><code class="lang-blocks">if (led.brightness() &lt; 255) {
+    led.setBrightness(255)
+}</code></pre>
 <h2 id="example-change-brightness">Example: change brightness</h2><p>This program makes the screen brightness 100% (255).  Then it turns on
 the center LED (<code>2, 2</code>), waits for one second and then sets the screen
 brightness to 50% (128):</p>

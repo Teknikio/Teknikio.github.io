@@ -5,7 +5,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Teknikio Bluebird - Blocks / Javascript Editor</title>
-	<meta name="Description" content="A Blocks / Javascript code editor for the Teknikio Bluebird" />
+	<meta name="Description" content="A Blocks / Javascript code editor for the micro:bit, a pocket-size computer with 5x5 display, sensors and Bluetooth." />
 
 	<!-- ifdef incontexttranslations endif -->
 	
@@ -21,15 +21,15 @@
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@msmakecode" />
 <meta name="twitter:title" content="Teknikio Bluebird - Blocks / Javascript Editor" />
-<meta name="twitter:description" content="A Blocks / Javascript code editor for the Teknikio Bluebird" />
-<meta name="twitter:image" content="static/bluebird/bluebird.png" />
+<meta name="twitter:description" content="A Blocks / Javascript code editor for the micro:bit, a pocket-size computer with 5x5 display, sensors and Bluetooth." />
+<meta name="twitter:image" content="/static/bb/about_cover.png" />
 
 <meta property="og:title" content="Teknikio Bluebird - Blocks / Javascript Editor" />
 <meta property="og:site_name" content="Microsoft MakeCode" />
 <meta property="og:type" content="website" />
-<meta property="og:description" content="A Blocks / Javascript code editor for the Teknikio Bluebird" />
+<meta property="og:description" content="A Blocks / Javascript code editor for the micro:bit, a pocket-size computer with 5x5 display, sensors and Bluetooth." />
 <meta property="fb:app_id" content="" />
-<meta property="og:image" content="static/bluebird/bluebird.png" />
+<meta property="og:image" content="/static/bb/about_cover.png" />
 
 <meta name="format-detection" content="telephone=no">
 <link rel="apple-touch-icon" href="">
@@ -115,13 +115,19 @@
     <!-- TOC Menu (tocheader.html) -->
     <div class="menuContainer" role="menu">
         
-    <a class="item " href="https://teknikio.github.io/docs/about" role="menuitem">About</a>
+    <a class="item " href="/docs/about.html" role="menuitem">About</a>
 
 
-    <a class="item " href="https://teknikio.github.io/docs/faq" role="menuitem">FAQ</a>
+    <a class="item " href="/docs/controlcenter.html" role="menuitem">Control Center</a>
 
 
-    <a class="item " href="https://teknikio.github.io/docs/projects" role="menuitem">Projects</a>
+    <a class="item " href="/docs/examples.html" role="menuitem">Examples</a>
+
+
+    <a class="item " href="/docs/hardware.html" role="menuitem">Hardware</a>
+
+
+    <a class="item " href="/docs/github.html" role="menuitem">GitHub</a>
 
 
     <div class="ui  accordion item visible" role="tree" title="">
@@ -909,34 +915,60 @@
 					</button>
 					
     <div class="ui text">
-        <h1 id="about">About</h1><p>Welcome to the <strong>Teknikio</strong> editor for the <strong>board</strong>!</p>
+        <p><img class="ui image" src="/static/bb/about_cover.png" alt="" loading="lazy"></p>
+<h1 id="about">About</h1><!-- desc --><p>The <a target="_blank" rel="nofollow noopener" href="https://www.teknikio.com/products/bluebird-beta-v1-6">Teknikio Bluebird</a> is a <a  rel="nofollow noopener" href="/docs/device.html">small blue gadget</a> that can send and receive information wirelessly. The board has a Neopixel LED, speaker, Bluetooth and sensors that can be programmed by both beginners and expert coders. The development of Bluebird was funded by the National Science Foundation.</p>
+<p>The Bluebird is a great tool to learn how to build circuits, code, and scale your ideas to an IoT network. It can attach easily to different materials to become a futuristic gizmo or wearable.  Similar to  Arduino, the Bluebird can also  connect with external sensors, and outputs via the central connector.</p>
+<h2 id="hardware-the-bluebird"><a  rel="nofollow noopener" href="/docs/device.html">Hardware: The Bluebird</a></h2><p>The Bluebird board is embedded with sensors, radio and other fun stuff. to get the most out of your board, check the <a  rel="nofollow noopener" href="/docs/device.html">hardware components</a>!</p>
 
     <div class="ui info message">
         <div class="content">
-            <p>Heads up! This editor only works for the Teknikio <strong>Bluebird</strong>.</p>
+            <p><strong>Looking to buy a Bluebird?</strong> Get one from our <a target="_blank" rel="nofollow noopener" href="https://www.teknikio.com/products/bluebird-beta-v1-6">online shop</a>.</p>
 
         </div>
     </div>
-<h2 id="bluebird">Bluebird</h2><p>Check out the awesome hardware spec at <strong><a target="_blank" rel="nofollow noopener" href="https://docs.google.com/presentation/d/1onPm2SEpyNofufs15y_XPkiPJdRcCkVkI7Epel0LU2M/#slide=id.g35f391192_029">Teknikio.com</a></strong>.</p>
-<p><img class="ui image" src="static/bluebird/bluebird.png" alt="board image" loading="lazy"></p>
-<h2 id="programming-blocks-or-javascript">Programming: <a  rel="nofollow noopener" href="/docs/blocks.html">Blocks</a> or <a  rel="nofollow noopener" href="/docs/javascript.html">JavaScript</a></h2><p>You can program the board using <a  rel="nofollow noopener" href="/docs/blocks.html">Blocks</a> or <a  rel="nofollow noopener" href="/docs/javascript.html">JavaScript</a> in your web browser:</p>
-<pre><code class="lang-block">input.buttonA.onEvent(ButtonEvent.Click, () =&gt; {
-    light.showRing(`blue blue blue blue blue blue blue blue blue blue`)
+<h2 id="getting-started"><a  rel="nofollow noopener" href="/docs/device.html">Getting Started</a></h2><p>Depending on the platform you are using, following the guides below to get started on coding your first project.</p>
+<ul>
+<li><a target="_blank" rel="nofollow noopener" href="https://docs.google.com/presentation/d/1XYVt2hgc4dgBF8NJ9_6Ig-4CJCHHIxLFofamozT7LPg/edit?usp=sharing">Tekniverse for Browser</a></li>
+<li><a target="_blank" rel="nofollow noopener" href="https://docs.google.com/presentation/d/1BYNRtuaQITB8Gv3gp-L27aF_1e40ChojV6TbpLfoeQ8/edit?usp=sharing">Tekniverse for iOS</a></li>
+<li><a target="_blank" rel="nofollow noopener" href="https://docs.google.com/presentation/d/1XYVt2hgc4dgBF8NJ9_6Ig-4CJCHHIxLFofamozT7LPg/edit?usp=sharing">Tekniverse for macOS (Catalina or higher)</a></li>
+<li><a target="_blank" rel="nofollow noopener" href="https://docs.google.com/presentation/d/1aYCl8GMwqa82yhmZYFZRAFoSpRtjT8LwkdEfhVQePGM/edit?usp=sharing">Arduino IDE</a></li>
+</ul>
+<h2 id="web-dashboard-control-center">Web Dashboard: <a  rel="nofollow noopener" href="/docs/.html">Control Center</a></h2><p>The first “tool” that you have in the menu is the <a  rel="nofollow noopener" href="/docs/controlcenter.html">Control Center</a>. Here you can see incoming data from the sensor on the board, change the LED color and play tones on the speaker! You can also save and record data to your account if you are signed in. Learn more about accounts here.</p>
+<h2 id="web-programming-blocks-or-javascript">Web Programming: <a  rel="nofollow noopener" href="/docs/blocks.html">Blocks</a> or <a  rel="nofollow noopener" href="/docs/javascript.html">JavaScript</a></h2><p>You can program the Bluebird in this web browser using <a  rel="nofollow noopener" href="/docs/blocks.html">Blocks</a> or <a  rel="nofollow noopener" href="/docs/javascript.html">JavaScript</a> via the <a  rel="nofollow noopener" href="/docs/reference.html">Bluebird APIs</a>:</p>
+<pre><code class="lang-block">input.onButtonPressed(Button.A, () =&gt; {
+    basic.showString(&quot;Hi!&quot;);
 })</code></pre>
-<pre><code class="lang-typescript">input.buttonA.onEvent(ButtonEvent.Click, () =&gt; {
-    light.showRing(`blue blue blue blue blue blue blue blue blue blue`)
+<pre><code class="lang-typescript">input.onButtonPressed(Button.A, () =&gt; {
+    basic.showString(&quot;Hi!&quot;);
 })</code></pre>
-<p>The editor work in <a  rel="nofollow noopener" href="/docs/browsers.html">most modern browsers</a>, work <a  rel="nofollow noopener" href="/docs/offline.html">offline</a> once loaded and do not require any installation. </p>
-<h2 id="compile-and-flash-your-program-"><a  rel="nofollow noopener" href="/docs/device/usb.html">Compile and Flash: Your Program!</a></h2><p>When you have your code ready, you connect your board to a computer via a USB cable 
-<strong>then press the reset button</strong> so it appears as a mounted drive (named <strong>CPLAYBOOT</strong>). </p>
-<p>Compilation to machine code from <a  rel="nofollow noopener" href="/docs/blocks.html">Blocks</a> or <a  rel="nofollow noopener" href="/docs/javascript.html">JavaScript</a> happens in the browser. You save the binary 
-program to a <strong>.uf2</strong> file, which you then copy to the <strong>CPLAYBOOT</strong> drive, which flashes the device with the new program.</p>
-<h2 id="simulator-test-your-code">Simulator: Test Your Code</h2><p>You can run your code using the <strong>board</strong> simulator, all within the confines of a web browser. 
-The simulator has support for the LED screen, buttons, as well as compass, accelerometer, and digital I/O pins.</p>
-<pre><code class="lang-sim">forever(() =&gt; {
-    light.showAnimation(light.rainbowAnimation, 1000)
-})</code></pre>
-<pre><code class="lang-package">light</code></pre>
+<p>The editor work in <a  rel="nofollow noopener" href="/docs/browsers.html">most modern browsers</a>.</p>
+<h2 id="compile-and-flash-your-program-"><a  rel="nofollow noopener" href="/docs/device/usb.html">Compile and Flash: Your Program!</a></h2><p>When you have your code ready, you connect your Bluebird to a computer via a USB cable, it will appear as a mounted drive (named TEKBOOT).</p>
+<p>Compilation to ARM thumb machine code from Blocks or JavaScript happens in the browser. You save the ARM binary program to a file, which you then copy to the TEKBOOT drive, which flashes the Bluebird device with the new program.</p>
+<h2 id="simulator-test-your-code">Simulator: Test Your Code</h2><p>You can run your code using the Bluebird simulator, all within the confines of a web browser. The simulator has support for the LED screen, buttons, as well as compass, accelerometer, and digital I/O pins.</p>
+<pre><code class="lang-sim">basic.forever(() =&gt; {
+  basic.showString(&quot;Hi!&quot;);
+})
+input.onButtonPressed(Button.A, () =&gt; {
+    led.stopAnimation();
+    basic.showLeds(`
+. . . . .
+. # . # .
+. . . . .
+# . . . #
+. # # # .`);
+});
+input.onButtonPressed(Button.B, () =&gt; {
+    led.stopAnimation();
+    basic.showLeds(`
+. # . # .
+# . # . #
+# . . . #
+. # . # .
+. . # . .`);
+});</code></pre>
+<h2 id="resources-">Resources!</h2><p>We recommend you browse these docs to learn more about the web platform. We have loads of <a target="_blank" rel="nofollow noopener" href="https://tekniverse.teknikio.com/resources/inventions">inventions</a>, <a  rel="nofollow noopener" href="/docs/Projects.html">tutorials</a>, and <a target="_blank" rel="nofollow noopener" href="https://tekniverse.teknikio.com/resources/classes">courses for educators</a> to help you dig deeper into coding, IoT, design, digital justice and more!</p>
+<p>
+</p>
 
     </div>
 
