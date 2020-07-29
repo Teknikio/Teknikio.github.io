@@ -4,6 +4,6 @@
 
 ## #support
 
-## Developers
+## Contact Us
 
-You can also use our [GitHub issue tracker](https://github.com/microsoft/pxt) to report bugs.
+You can also email questions to education [at] teknikio [dot] com

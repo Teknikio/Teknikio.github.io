@@ -2,7 +2,7 @@
 
 ### @description Frequently asked questions and answers from our users.
 
-## Which web sites do I need to unblock for @homeurl@? #unblock
+## Which web sites do I need to unblock for tekniverse.teknikio.com ? #unblock
 
 Access to certain domains is necessary to allow the web editor to reach all the resources it needs to fully function. These are the domains to unblock:
 
@@ -19,22 +19,15 @@ To enable some additional features for extension developers, the following domai
 
 ## Where are my projects saved?
 
-Projects are kept in the browser's local indexed data store. You can save your project with a name. If you don't name your project, it's kept as an "Untitled" project. You can also save your project to a file or in the cloud.
+Projects are saved in your account under the "Inventions Tab". Look for section titled "My Inventions". You also download and save project locally on your computer.
 
 Read more about [saving](/save) projects.
 
 ## Can I restore a previous version of my project?
 
-Yes! Go to the GitHub view and click on ``View commits`` in the [History](/github/history) section. 
+Yes! Go to the GitHub view and click on ``View commits`` in the [History](/github/history) section.
 You can review each commit and select to restore your project to that commit.
 
-## Can I use MakeCode when I'm not connected to the internet? #work-offline
-
-Some MakeCode editors are available as [offline apps](/offline). Also, when MakeCode first loads in the browser, a cached version of MakeCode is stored automatically. If later you want to add an extension to use with your program, you will need to connect again. For more information see the page about using MakeCode [offline](/offline).
-
-## Can I use Extensions when I'm not connected to the internet?
-
-Yes, it is possible to save Extensions so that your programs can still use them when you're offline. Follow [these instructions](/offline#extensions).
 
 ## What happens when I clear the browser's cache and temporary files? #clear-data
 
@@ -42,7 +35,7 @@ When you clear browsing data, all of the saved projects and files that support M
 
 ## Where does a project that I share go? #sharing
 
-When you share a project it's saved to the public cloud for MakeCode. Anyone can see your project if they have its shared URL.
+
 
 ## What are some additional ways I can share projects with teachers and friends? #share-options
 
@@ -55,9 +48,6 @@ When you share a project it's saved to the public cloud for MakeCode. Anyone can
 
 When you download the program for your project, the name you gave the project becomes part of the download file. If you decide to rename the download file, the name you chose for the project, not the current filename, is used and displayed by the editor.
 
-## I just added / approved a new translation in Crowdin, when will it show up?
-
-[Translations](https://makecode.com/translate) are managed by the [Crowdin](https://crowdin.com/project/kindscript) site. There's a scheduled process which checks for new translations in Crowdin and brings them down to the website serving a MakeCode editor. The process usually takes 10 - 30 minutes from when a new translation is approved to when it will appear in an online editor.
 
 ## Where is the "Add Package" button?
 
@@ -65,9 +55,7 @@ Packages were renamed to **Extensions** to align with other code editors. You wi
 
 ## How can I share tutorials? #share-tutorials
 
-Tutorials load in the editor, which can make them tricky to share.
-If you want to make a direct link to a tutorial, you need to find the location of the tutorial in the target's documentation. From there you can create a link that goes directly to the tutorial.
-For example, to make a link to micro:bit's `Flashing Heart` tutorial, you need to...
+
 
 1. Find the tutorial in the documentation: [https://makecode.microbit.org/projects/flashing-heart](https://makecode.microbit.org/projects/flashing-heart).
 2. Take that url, and split it into two parts: the main domain (`https://makecode.microbit.org`), and the location of the tutorial (`/projects/flashing-heart`).
@@ -81,7 +69,7 @@ If you want to create your own tutorial, more documentation describing how to do
 
 ## I am a teacher. Is there anything special I should know?
 
-Yes! We have prepared a list of tips and tricks for teachers. [Check it out](/teachers).
+Yes! Create an educator account to unlock special features. [Check it out](/teachers).
 
 ## How do I choose the folder where my downloaded projects are saved?
 
