@@ -58,17 +58,10 @@ CACHE:
 /worker.js
 /monacoworker.js
 
-# ver Tue Jun 23 2020 15:55:03 GMT-0400 (Eastern Daylight Time)
+# ver Thu Jul 30 2020 07:54:14 GMT-0400 (Eastern Daylight Time)
 
 # target
-/docs/static/logo.portrait.white.svg
-/docs/static/logo.square.white.svg
-/docs/static/logo.square.white.svg
-/docs/static/logo.portrait.black.svg
-/docs/static/icons/apple-touch-icon.png
-/docs/static/icons/apple-touch-icon.png
-/docs/static/Microsoft-logo_rgb_c-gray-square.png
-/docs/static/Microsoft-logo_rgb_c-white.png
+/docs/static/logo.png
 /docs/static/hero.png
 
 /target.js
