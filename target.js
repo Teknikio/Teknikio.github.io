@@ -523,31 +523,6 @@ var pxtTargetBundle = {
         "pythonToolbox": true,
         "TOC": [
             {
-                "name": "About",
-                "path": "/about",
-                "subitems": []
-            },
-            {
-                "name": "Control Center",
-                "path": "/controlcenter",
-                "subitems": []
-            },
-            {
-                "name": "Examples",
-                "path": "/examples",
-                "subitems": []
-            },
-            {
-                "name": "Hardware",
-                "path": "/hardware",
-                "subitems": []
-            },
-            {
-                "name": "",
-                "path": "",
-                "subitems": []
-            },
-            {
                 "name": "Projects",
                 "path": "/projects",
                 "subitems": []
