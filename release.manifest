@@ -58,11 +58,7 @@ CACHE:
 /worker.js
 /monacoworker.js
 
-<<<<<<< HEAD
-# ver Thu Jul 30 2020 18:09:29 GMT-0400 (Eastern Daylight Time)
-=======
-# ver Thu Jul 30 2020 19:49:25 GMT-0400 (Eastern Daylight Time)
->>>>>>> 371b9088cabba3c52a02394171429716757aa671
+# ver Fri Jul 31 2020 08:29:49 GMT-0400 (Eastern Daylight Time)
 
 # target
 /docs/static/logo.png
