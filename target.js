@@ -1546,12 +1546,12 @@ var pxtTargetBundle = {
             },
             {
                 "name": "FAQ",
-                "path": "https://teknikio.github.io/faq",
+                "path": "https://teknikio.github.io/docs/faq",
                 "subitems": []
             },
             {
                 "name": "Support",
-                "path": "https://teknikio.github.io/support",
+                "path": "https://teknikio.github.io/docs/support",
                 "subitems": []
             }
         ],
