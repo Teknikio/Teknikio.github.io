@@ -32,6 +32,7 @@
             "path": "https://teknikio.github.io/docs/faq"
         }
     ],
+    "hasReferenceDocs": true,
     "coloredToolbox": false,
     "monacoToolbox": true,
     "invertedMenu": true,
@@ -118,100 +119,19 @@
     "pythonToolbox": true,
     "TOC": [
         {
-            "name": "Projects",
-            "path": "/projects",
-            "subitems": []
-        },
-        {
             "name": "About",
-            "path": "https://teknikio.github.io/docs/about",
+            "path": "/about",
             "subitems": []
         },
         {
-            "name": "FAQ",
-            "path": "https://teknikio.github.io/docs/faq",
+            "name": "Control Center",
+            "path": "/controlcenter",
             "subitems": []
         },
         {
-            "name": "Tutorials",
-            "path": "/tutorials",
-            "subitems": [
-                {
-                    "name": "Games",
-                    "path": "/projects/games",
-                    "subitems": []
-                },
-                {
-                    "name": "Rock Paper Scissors",
-                    "path": "/projects/rock-paper-scissors",
-                    "subitems": []
-                },
-                {
-                    "name": "Coin Flipper",
-                    "path": "/projects/coin-flipper",
-                    "subitems": []
-                },
-                {
-                    "name": "Radio Games",
-                    "path": "/projects/radio-games",
-                    "subitems": []
-                },
-                {
-                    "name": "Fashion",
-                    "path": "/projects/fashion",
-                    "subitems": []
-                },
-                {
-                    "name": "Music",
-                    "path": "/projects/music",
-                    "subitems": []
-                },
-                {
-                    "name": "Toys",
-                    "path": "/projects/toys",
-                    "subitems": []
-                },
-                {
-                    "name": "Science",
-                    "path": "/projects/science",
-                    "subitems": []
-                },
-                {
-                    "name": "Networking with the micro:bit",
-                    "path": "https://microbit.nominetresearch.uk/networking-book/",
-                    "subitems": []
-                },
-                {
-                    "name": "SparkFun Videos",
-                    "path": "https://youtu.be/kaNtg1HGXbY?list=PLBcrWxTa5CS0mWJrytvii8aG5KUqMXvSk",
-                    "subitems": []
-                },
-                {
-                    "name": "Logic Lab",
-                    "path": "/courses/logic-lab",
-                    "subitems": []
-                },
-                {
-                    "name": "Blocks to JavaScript",
-                    "path": "/courses/blocks-to-javascript",
-                    "subitems": []
-                },
-                {
-                    "name": "SparkFun Inventor's Kit",
-                    "path": "https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-for-microbit-experiment-guide/introduction-to-the-sparkfun-inventors-kit-for-microbit",
-                    "subitems": []
-                },
-                {
-                    "name": "Kitronik Inventor Kit",
-                    "path": "https://www.kitronik.co.uk/blog/inventors-kit-experiment-1-help",
-                    "subitems": []
-                },
-                {
-                    "name": "micro:bit of Things",
-                    "path": "https://sites.google.com/view/microbitofthings",
-                    "subitems": []
-                }
-            ]
+            "name": "Examples",
+            "path": "/examples",
+            "subitems": []
         },
         {
             "name": "Reference",
