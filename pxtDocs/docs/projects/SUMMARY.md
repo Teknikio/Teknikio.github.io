@@ -1,3 +1,0 @@
-# Projects
-
-* [Examples](/examples)
