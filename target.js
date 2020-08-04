@@ -525,802 +525,802 @@ var pxtTargetBundle = {
         "TOC": [
             {
                 "name": "About",
-                "path": "https://teknikio.github.io/docs/docs/about",
+                "path": "https://teknikio.github.io/docs/about",
                 "subitems": []
             },
             {
                 "name": "Control Center",
-                "path": "https://teknikio.github.io/docs/docs/controlcenter",
+                "path": "https://teknikio.github.io/docs/controlcenter",
                 "subitems": []
             },
             {
                 "name": "Examples",
-                "path": "https://teknikio.github.io/docs/docs/demos",
+                "path": "https://teknikio.github.io/docs/demos",
                 "subitems": [
                     {
                         "name": "Siren",
-                        "path": "https://teknikio.github.io/docs/docs/demos/siren",
+                        "path": "https://teknikio.github.io/docs/demos/siren",
                         "subitems": []
                     },
                     {
                         "name": "Magic Wand",
-                        "path": "https://teknikio.github.io/docs/docs/demos/magicwand",
+                        "path": "https://teknikio.github.io/docs/demos/magicwand",
                         "subitems": []
                     },
                     {
                         "name": "Nightlight",
-                        "path": "https://teknikio.github.io/docs/docs/demos/nightlight",
+                        "path": "https://teknikio.github.io/docs/demos/nightlight",
                         "subitems": []
                     },
                     {
                         "name": "PushUp Counter",
-                        "path": "https://teknikio.github.io/docs/docs/demos/pushupcounter",
+                        "path": "https://teknikio.github.io/docs/demos/pushupcounter",
                         "subitems": []
                     },
                     {
                         "name": "Smart Timer Cube",
-                        "path": "https://teknikio.github.io/docs/docs/demos/timer",
+                        "path": "https://teknikio.github.io/docs/demos/timer",
                         "subitems": []
                     },
                     {
                         "name": "Sunset Mountain",
-                        "path": "https://teknikio.github.io/docs/docs/demos/nightlight",
+                        "path": "https://teknikio.github.io/docs/demos/nightlight",
                         "subitems": []
                     },
                     {
                         "name": "Conductor's Baton",
-                        "path": "https://teknikio.github.io/docs/docs/demos/baton",
+                        "path": "https://teknikio.github.io/docs/demos/baton",
                         "subitems": []
                     },
                     {
                         "name": "Domino Effect",
-                        "path": "https://teknikio.github.io/docs/docs/demos/domino_effect",
+                        "path": "https://teknikio.github.io/docs/demos/domino_effect",
                         "subitems": []
                     },
                     {
                         "name": "Simon Says",
-                        "path": "https://teknikio.github.io/docs/docs/demos/simonsays",
+                        "path": "https://teknikio.github.io/docs/demos/simonsays",
                         "subitems": []
                     }
                 ]
             },
             {
                 "name": "Hardware",
-                "path": "https://teknikio.github.io/docs/docs/hardware",
+                "path": "https://teknikio.github.io/docs/hardware",
                 "subitems": []
             },
             {
                 "name": "GitHub",
-                "path": "https://teknikio.github.io/docs/docs/github",
+                "path": "https://teknikio.github.io/docs/github",
                 "subitems": []
             },
             {
                 "name": "Hardware Blocks",
-                "path": "https://teknikio.github.io/docs/docs/reference",
+                "path": "https://teknikio.github.io/docs/reference",
                 "subitems": [
                     {
                         "name": "Basic",
-                        "path": "https://teknikio.github.io/docs/docs/reference/basic",
+                        "path": "https://teknikio.github.io/docs/reference/basic",
                         "subitems": [
                             {
                                 "name": "show number",
-                                "path": "https://teknikio.github.io/docs/docs/reference/basic/show-number",
+                                "path": "https://teknikio.github.io/docs/reference/basic/show-number",
                                 "subitems": []
                             },
                             {
                                 "name": "show icon",
-                                "path": "https://teknikio.github.io/docs/docs/reference/basic/show-icon",
+                                "path": "https://teknikio.github.io/docs/reference/basic/show-icon",
                                 "subitems": []
                             },
                             {
                                 "name": "show leds",
-                                "path": "https://teknikio.github.io/docs/docs/reference/basic/show-leds",
+                                "path": "https://teknikio.github.io/docs/reference/basic/show-leds",
                                 "subitems": []
                             },
                             {
                                 "name": "show string",
-                                "path": "https://teknikio.github.io/docs/docs/reference/basic/show-string",
+                                "path": "https://teknikio.github.io/docs/reference/basic/show-string",
                                 "subitems": []
                             },
                             {
                                 "name": "clear screen",
-                                "path": "https://teknikio.github.io/docs/docs/reference/basic/clear-screen",
+                                "path": "https://teknikio.github.io/docs/reference/basic/clear-screen",
                                 "subitems": []
                             },
                             {
                                 "name": "forever",
-                                "path": "https://teknikio.github.io/docs/docs/reference/basic/forever",
+                                "path": "https://teknikio.github.io/docs/reference/basic/forever",
                                 "subitems": []
                             },
                             {
                                 "name": "pause",
-                                "path": "https://teknikio.github.io/docs/docs/reference/basic/pause",
+                                "path": "https://teknikio.github.io/docs/reference/basic/pause",
                                 "subitems": []
                             },
                             {
                                 "name": "show arrow",
-                                "path": "https://teknikio.github.io/docs/docs/reference/basic/show-arrow",
+                                "path": "https://teknikio.github.io/docs/reference/basic/show-arrow",
                                 "subitems": []
                             },
                             {
                                 "name": "show animation",
-                                "path": "https://teknikio.github.io/docs/docs/reference/basic/show-animation",
+                                "path": "https://teknikio.github.io/docs/reference/basic/show-animation",
                                 "subitems": []
                             }
                         ]
                     },
                     {
                         "name": "Sensors",
-                        "path": "https://teknikio.github.io/docs/docs/reference/sensors",
+                        "path": "https://teknikio.github.io/docs/reference/sensors",
                         "subitems": [
                             {
                                 "name": "on gesture",
-                                "path": "https://teknikio.github.io/docs/docs/reference/input/on-gesture",
+                                "path": "https://teknikio.github.io/docs/reference/input/on-gesture",
                                 "subitems": []
                             },
                             {
                                 "name": "on pin pressed",
-                                "path": "https://teknikio.github.io/docs/docs/reference/input/on-pin-pressed",
+                                "path": "https://teknikio.github.io/docs/reference/input/on-pin-pressed",
                                 "subitems": []
                             },
                             {
                                 "name": "pin is pressed",
-                                "path": "https://teknikio.github.io/docs/docs/reference/input/pin-is-pressed",
+                                "path": "https://teknikio.github.io/docs/reference/input/pin-is-pressed",
                                 "subitems": []
                             },
                             {
                                 "name": "temperature",
-                                "path": "https://teknikio.github.io/docs/docs/reference/input/temperature",
+                                "path": "https://teknikio.github.io/docs/reference/input/temperature",
                                 "subitems": []
                             },
                             {
                                 "name": "acceleration",
-                                "path": "https://teknikio.github.io/docs/docs/reference/input/acceleration",
+                                "path": "https://teknikio.github.io/docs/reference/input/acceleration",
                                 "subitems": []
                             },
                             {
                                 "name": "light level",
-                                "path": "https://teknikio.github.io/docs/docs/reference/input/light-level",
+                                "path": "https://teknikio.github.io/docs/reference/input/light-level",
                                 "subitems": []
                             },
                             {
                                 "name": "rotation",
-                                "path": "https://teknikio.github.io/docs/docs/reference/input/rotation",
+                                "path": "https://teknikio.github.io/docs/reference/input/rotation",
                                 "subitems": []
                             },
                             {
                                 "name": "running time",
-                                "path": "https://teknikio.github.io/docs/docs/reference/input/running-time",
+                                "path": "https://teknikio.github.io/docs/reference/input/running-time",
                                 "subitems": []
                             },
                             {
                                 "name": "set accelerometer range",
-                                "path": "https://teknikio.github.io/docs/docs/reference/input/set-accelerometer-range",
+                                "path": "https://teknikio.github.io/docs/reference/input/set-accelerometer-range",
                                 "subitems": []
                             }
                         ]
                     },
                     {
                         "name": "Music",
-                        "path": "https://teknikio.github.io/docs/docs/reference/music",
+                        "path": "https://teknikio.github.io/docs/reference/music",
                         "subitems": [
                             {
                                 "name": "play tone",
-                                "path": "https://teknikio.github.io/docs/docs/reference/music/play-tone",
+                                "path": "https://teknikio.github.io/docs/reference/music/play-tone",
                                 "subitems": []
                             },
                             {
                                 "name": "ring tone",
-                                "path": "https://teknikio.github.io/docs/docs/reference/music/ring-tone",
+                                "path": "https://teknikio.github.io/docs/reference/music/ring-tone",
                                 "subitems": []
                             },
                             {
                                 "name": "rest",
-                                "path": "https://teknikio.github.io/docs/docs/reference/music/rest",
+                                "path": "https://teknikio.github.io/docs/reference/music/rest",
                                 "subitems": []
                             },
                             {
                                 "name": "beat",
-                                "path": "https://teknikio.github.io/docs/docs/reference/music/beat",
+                                "path": "https://teknikio.github.io/docs/reference/music/beat",
                                 "subitems": []
                             },
                             {
                                 "name": "tempo",
-                                "path": "https://teknikio.github.io/docs/docs/reference/music/tempo",
+                                "path": "https://teknikio.github.io/docs/reference/music/tempo",
                                 "subitems": []
                             },
                             {
                                 "name": "change tempo by",
-                                "path": "https://teknikio.github.io/docs/docs/reference/music/change-tempo-by",
+                                "path": "https://teknikio.github.io/docs/reference/music/change-tempo-by",
                                 "subitems": []
                             },
                             {
                                 "name": "set tempo",
-                                "path": "https://teknikio.github.io/docs/docs/reference/music/set-tempo",
+                                "path": "https://teknikio.github.io/docs/reference/music/set-tempo",
                                 "subitems": []
                             }
                         ]
                     },
                     {
                         "name": "Led",
-                        "path": "https://teknikio.github.io/docs/docs/reference/Neopixel",
+                        "path": "https://teknikio.github.io/docs/reference/Neopixel",
                         "subitems": [
                             {
                                 "name": "set brightness",
-                                "path": "https://teknikio.github.io/docs/docs/reference/led/set-brightness",
+                                "path": "https://teknikio.github.io/docs/reference/led/set-brightness",
                                 "subitems": []
                             },
                             {
                                 "name": "set color",
-                                "path": "https://teknikio.github.io/docs/docs/reference/led/stop-animation",
+                                "path": "https://teknikio.github.io/docs/reference/led/stop-animation",
                                 "subitems": []
                             }
                         ]
                     },
                     {
                         "name": "Radio",
-                        "path": "https://teknikio.github.io/docs/docs/reference/radio",
+                        "path": "https://teknikio.github.io/docs/reference/radio",
                         "subitems": [
                             {
                                 "name": "send number",
-                                "path": "https://teknikio.github.io/docs/docs/reference/radio/send-number",
+                                "path": "https://teknikio.github.io/docs/reference/radio/send-number",
                                 "subitems": []
                             },
                             {
                                 "name": "send value",
-                                "path": "https://teknikio.github.io/docs/docs/reference/radio/send-value",
+                                "path": "https://teknikio.github.io/docs/reference/radio/send-value",
                                 "subitems": []
                             },
                             {
                                 "name": "send string",
-                                "path": "https://teknikio.github.io/docs/docs/reference/radio/send-string",
+                                "path": "https://teknikio.github.io/docs/reference/radio/send-string",
                                 "subitems": []
                             },
                             {
                                 "name": "on received number",
-                                "path": "https://teknikio.github.io/docs/docs/reference/radio/on-received-number",
+                                "path": "https://teknikio.github.io/docs/reference/radio/on-received-number",
                                 "subitems": []
                             },
                             {
                                 "name": "on received string",
-                                "path": "https://teknikio.github.io/docs/docs/reference/radio/on-received-string",
+                                "path": "https://teknikio.github.io/docs/reference/radio/on-received-string",
                                 "subitems": []
                             },
                             {
                                 "name": "on received buffer",
-                                "path": "https://teknikio.github.io/docs/docs/reference/radio/on-received-buffer",
+                                "path": "https://teknikio.github.io/docs/reference/radio/on-received-buffer",
                                 "subitems": []
                             },
                             {
                                 "name": "received packet",
-                                "path": "https://teknikio.github.io/docs/docs/reference/radio/received-packet",
+                                "path": "https://teknikio.github.io/docs/reference/radio/received-packet",
                                 "subitems": []
                             },
                             {
                                 "name": "set group",
-                                "path": "https://teknikio.github.io/docs/docs/reference/radio/set-group",
+                                "path": "https://teknikio.github.io/docs/reference/radio/set-group",
                                 "subitems": []
                             },
                             {
                                 "name": "set transmit power",
-                                "path": "https://teknikio.github.io/docs/docs/reference/radio/set-transmit-power",
+                                "path": "https://teknikio.github.io/docs/reference/radio/set-transmit-power",
                                 "subitems": []
                             },
                             {
                                 "name": "set transmit serial number",
-                                "path": "https://teknikio.github.io/docs/docs/reference/radio/set-transmit-serial-number",
+                                "path": "https://teknikio.github.io/docs/reference/radio/set-transmit-serial-number",
                                 "subitems": []
                             },
                             {
                                 "name": "on data packet received",
-                                "path": "https://teknikio.github.io/docs/docs/reference/radio/on-data-packet-received",
+                                "path": "https://teknikio.github.io/docs/reference/radio/on-data-packet-received",
                                 "subitems": []
                             },
                             {
                                 "name": "write received packet to serial",
-                                "path": "https://teknikio.github.io/docs/docs/reference/radio/write-received-packet-to-serial",
+                                "path": "https://teknikio.github.io/docs/reference/radio/write-received-packet-to-serial",
                                 "subitems": []
                             }
                         ]
                     },
                     {
                         "name": "Game",
-                        "path": "https://teknikio.github.io/docs/docs/reference/game",
+                        "path": "https://teknikio.github.io/docs/reference/game",
                         "subitems": [
                             {
                                 "name": "create sprite",
-                                "path": "https://teknikio.github.io/docs/docs/reference/game/create-sprite",
+                                "path": "https://teknikio.github.io/docs/reference/game/create-sprite",
                                 "subitems": []
                             },
                             {
                                 "name": "delete",
-                                "path": "https://teknikio.github.io/docs/docs/reference/game/delete",
+                                "path": "https://teknikio.github.io/docs/reference/game/delete",
                                 "subitems": []
                             },
                             {
                                 "name": "move",
-                                "path": "https://teknikio.github.io/docs/docs/reference/game/move",
+                                "path": "https://teknikio.github.io/docs/reference/game/move",
                                 "subitems": []
                             },
                             {
                                 "name": "turn",
-                                "path": "https://teknikio.github.io/docs/docs/reference/game/turn",
+                                "path": "https://teknikio.github.io/docs/reference/game/turn",
                                 "subitems": []
                             },
                             {
                                 "name": "if on edge bounce",
-                                "path": "https://teknikio.github.io/docs/docs/reference/game/if-on-edge-bounce",
+                                "path": "https://teknikio.github.io/docs/reference/game/if-on-edge-bounce",
                                 "subitems": []
                             },
                             {
                                 "name": "get",
-                                "path": "https://teknikio.github.io/docs/docs/reference/game/get",
+                                "path": "https://teknikio.github.io/docs/reference/game/get",
                                 "subitems": []
                             },
                             {
                                 "name": "set",
-                                "path": "https://teknikio.github.io/docs/docs/reference/game/set",
+                                "path": "https://teknikio.github.io/docs/reference/game/set",
                                 "subitems": []
                             },
                             {
                                 "name": "change",
-                                "path": "https://teknikio.github.io/docs/docs/reference/game/change",
+                                "path": "https://teknikio.github.io/docs/reference/game/change",
                                 "subitems": []
                             },
                             {
                                 "name": "is touching",
-                                "path": "https://teknikio.github.io/docs/docs/reference/game/is-touching",
+                                "path": "https://teknikio.github.io/docs/reference/game/is-touching",
                                 "subitems": []
                             },
                             {
                                 "name": "is touching edge",
-                                "path": "https://teknikio.github.io/docs/docs/reference/game/is-touching-edge",
+                                "path": "https://teknikio.github.io/docs/reference/game/is-touching-edge",
                                 "subitems": []
                             },
                             {
                                 "name": "add score",
-                                "path": "https://teknikio.github.io/docs/docs/reference/game/add-score",
+                                "path": "https://teknikio.github.io/docs/reference/game/add-score",
                                 "subitems": []
                             },
                             {
                                 "name": "score",
-                                "path": "https://teknikio.github.io/docs/docs/reference/game/score",
+                                "path": "https://teknikio.github.io/docs/reference/game/score",
                                 "subitems": []
                             },
                             {
                                 "name": "set score",
-                                "path": "https://teknikio.github.io/docs/docs/reference/game/set-score",
+                                "path": "https://teknikio.github.io/docs/reference/game/set-score",
                                 "subitems": []
                             },
                             {
                                 "name": "set life",
-                                "path": "https://teknikio.github.io/docs/docs/reference/game/set-life",
+                                "path": "https://teknikio.github.io/docs/reference/game/set-life",
                                 "subitems": []
                             },
                             {
                                 "name": "add life",
-                                "path": "https://teknikio.github.io/docs/docs/reference/game/add-life",
+                                "path": "https://teknikio.github.io/docs/reference/game/add-life",
                                 "subitems": []
                             },
                             {
                                 "name": "remove life",
-                                "path": "https://teknikio.github.io/docs/docs/reference/game/remove-life",
+                                "path": "https://teknikio.github.io/docs/reference/game/remove-life",
                                 "subitems": []
                             },
                             {
                                 "name": "start countdown",
-                                "path": "https://teknikio.github.io/docs/docs/reference/game/start-countdown",
+                                "path": "https://teknikio.github.io/docs/reference/game/start-countdown",
                                 "subitems": []
                             },
                             {
                                 "name": "game over",
-                                "path": "https://teknikio.github.io/docs/docs/reference/game/game-over",
+                                "path": "https://teknikio.github.io/docs/reference/game/game-over",
                                 "subitems": []
                             },
                             {
                                 "name": "pause",
-                                "path": "https://teknikio.github.io/docs/docs/reference/game/pause",
+                                "path": "https://teknikio.github.io/docs/reference/game/pause",
                                 "subitems": []
                             },
                             {
                                 "name": "resume",
-                                "path": "https://teknikio.github.io/docs/docs/reference/game/resume",
+                                "path": "https://teknikio.github.io/docs/reference/game/resume",
                                 "subitems": []
                             }
                         ]
                     },
                     {
                         "name": "Images",
-                        "path": "https://teknikio.github.io/docs/docs/reference/images",
+                        "path": "https://teknikio.github.io/docs/reference/images",
                         "subitems": [
                             {
                                 "name": "create image",
-                                "path": "https://teknikio.github.io/docs/docs/reference/images/create-image",
+                                "path": "https://teknikio.github.io/docs/reference/images/create-image",
                                 "subitems": []
                             },
                             {
                                 "name": "create big image",
-                                "path": "https://teknikio.github.io/docs/docs/reference/images/create-big-image",
+                                "path": "https://teknikio.github.io/docs/reference/images/create-big-image",
                                 "subitems": []
                             },
                             {
                                 "name": "show image",
-                                "path": "https://teknikio.github.io/docs/docs/reference/images/show-image",
+                                "path": "https://teknikio.github.io/docs/reference/images/show-image",
                                 "subitems": []
                             },
                             {
                                 "name": "scroll image",
-                                "path": "https://teknikio.github.io/docs/docs/reference/images/scroll-image",
+                                "path": "https://teknikio.github.io/docs/reference/images/scroll-image",
                                 "subitems": []
                             },
                             {
                                 "name": "arrow image",
-                                "path": "https://teknikio.github.io/docs/docs/reference/images/arrow-image",
+                                "path": "https://teknikio.github.io/docs/reference/images/arrow-image",
                                 "subitems": []
                             },
                             {
                                 "name": "icon image",
-                                "path": "https://teknikio.github.io/docs/docs/reference/images/icon-image",
+                                "path": "https://teknikio.github.io/docs/reference/images/icon-image",
                                 "subitems": []
                             },
                             {
                                 "name": "arrow number",
-                                "path": "https://teknikio.github.io/docs/docs/reference/images/arrow-number",
+                                "path": "https://teknikio.github.io/docs/reference/images/arrow-number",
                                 "subitems": []
                             }
                         ]
                     },
                     {
                         "name": "Pins",
-                        "path": "https://teknikio.github.io/docs/docs/reference/pins",
+                        "path": "https://teknikio.github.io/docs/reference/pins",
                         "subitems": [
                             {
                                 "name": "digital read pin",
-                                "path": "https://teknikio.github.io/docs/docs/reference/pins/digital-read-pin",
+                                "path": "https://teknikio.github.io/docs/reference/pins/digital-read-pin",
                                 "subitems": []
                             },
                             {
                                 "name": "digital write pin",
-                                "path": "https://teknikio.github.io/docs/docs/reference/pins/digital-write-pin",
+                                "path": "https://teknikio.github.io/docs/reference/pins/digital-write-pin",
                                 "subitems": []
                             },
                             {
                                 "name": "analog read pin",
-                                "path": "https://teknikio.github.io/docs/docs/reference/pins/analog-read-pin",
+                                "path": "https://teknikio.github.io/docs/reference/pins/analog-read-pin",
                                 "subitems": []
                             },
                             {
                                 "name": "analog write pin",
-                                "path": "https://teknikio.github.io/docs/docs/reference/pins/analog-write-pin",
+                                "path": "https://teknikio.github.io/docs/reference/pins/analog-write-pin",
                                 "subitems": []
                             },
                             {
                                 "name": "analog set period",
-                                "path": "https://teknikio.github.io/docs/docs/reference/pins/analog-set-period",
+                                "path": "https://teknikio.github.io/docs/reference/pins/analog-set-period",
                                 "subitems": []
                             },
                             {
                                 "name": "map",
-                                "path": "https://teknikio.github.io/docs/docs/reference/pins/map",
+                                "path": "https://teknikio.github.io/docs/reference/pins/map",
                                 "subitems": []
                             },
                             {
                                 "name": "on pulsed",
-                                "path": "https://teknikio.github.io/docs/docs/reference/pins/on-pulsed",
+                                "path": "https://teknikio.github.io/docs/reference/pins/on-pulsed",
                                 "subitems": []
                             },
                             {
                                 "name": "pulse duration",
-                                "path": "https://teknikio.github.io/docs/docs/reference/pins/pulse-duration",
+                                "path": "https://teknikio.github.io/docs/reference/pins/pulse-duration",
                                 "subitems": []
                             },
                             {
                                 "name": "pulse in",
-                                "path": "https://teknikio.github.io/docs/docs/reference/pins/pulse-in",
+                                "path": "https://teknikio.github.io/docs/reference/pins/pulse-in",
                                 "subitems": []
                             },
                             {
                                 "name": "servo write pin",
-                                "path": "https://teknikio.github.io/docs/docs/reference/pins/servo-write-pin",
+                                "path": "https://teknikio.github.io/docs/reference/pins/servo-write-pin",
                                 "subitems": []
                             },
                             {
                                 "name": "servo set pulse",
-                                "path": "https://teknikio.github.io/docs/docs/reference/pins/servo-set-pulse",
+                                "path": "https://teknikio.github.io/docs/reference/pins/servo-set-pulse",
                                 "subitems": []
                             },
                             {
                                 "name": "i2c read number",
-                                "path": "https://teknikio.github.io/docs/docs/reference/pins/i2c-read-number",
+                                "path": "https://teknikio.github.io/docs/reference/pins/i2c-read-number",
                                 "subitems": []
                             },
                             {
                                 "name": "i2c write number",
-                                "path": "https://teknikio.github.io/docs/docs/reference/pins/i2c-write-number",
+                                "path": "https://teknikio.github.io/docs/reference/pins/i2c-write-number",
                                 "subitems": []
                             },
                             {
                                 "name": "set pull",
-                                "path": "https://teknikio.github.io/docs/docs/reference/pins/set-pull",
+                                "path": "https://teknikio.github.io/docs/reference/pins/set-pull",
                                 "subitems": []
                             },
                             {
                                 "name": "analog pitch",
-                                "path": "https://teknikio.github.io/docs/docs/reference/pins/analog-pitch",
+                                "path": "https://teknikio.github.io/docs/reference/pins/analog-pitch",
                                 "subitems": []
                             },
                             {
                                 "name": "analog set pitch pin",
-                                "path": "https://teknikio.github.io/docs/docs/reference/pins/analog-set-pitch-pin",
+                                "path": "https://teknikio.github.io/docs/reference/pins/analog-set-pitch-pin",
                                 "subitems": []
                             },
                             {
                                 "name": "spi write",
-                                "path": "https://teknikio.github.io/docs/docs/reference/pins/spi-write",
+                                "path": "https://teknikio.github.io/docs/reference/pins/spi-write",
                                 "subitems": []
                             },
                             {
                                 "name": "spi Pins",
-                                "path": "https://teknikio.github.io/docs/docs/reference/pins/spi-pins",
+                                "path": "https://teknikio.github.io/docs/reference/pins/spi-pins",
                                 "subitems": []
                             },
                             {
                                 "name": "spi format",
-                                "path": "https://teknikio.github.io/docs/docs/reference/pins/spi-format",
+                                "path": "https://teknikio.github.io/docs/reference/pins/spi-format",
                                 "subitems": []
                             },
                             {
                                 "name": "spi frequency",
-                                "path": "https://teknikio.github.io/docs/docs/reference/pins/spi-frequency",
+                                "path": "https://teknikio.github.io/docs/reference/pins/spi-frequency",
                                 "subitems": []
                             }
                         ]
                     },
                     {
                         "name": "Serial",
-                        "path": "https://teknikio.github.io/docs/docs/reference/serial",
+                        "path": "https://teknikio.github.io/docs/reference/serial",
                         "subitems": [
                             {
                                 "name": "write line",
-                                "path": "https://teknikio.github.io/docs/docs/reference/serial/write-line",
+                                "path": "https://teknikio.github.io/docs/reference/serial/write-line",
                                 "subitems": []
                             },
                             {
                                 "name": "write number",
-                                "path": "https://teknikio.github.io/docs/docs/reference/serial/write-number",
+                                "path": "https://teknikio.github.io/docs/reference/serial/write-number",
                                 "subitems": []
                             },
                             {
                                 "name": "write value",
-                                "path": "https://teknikio.github.io/docs/docs/reference/serial/write-value",
+                                "path": "https://teknikio.github.io/docs/reference/serial/write-value",
                                 "subitems": []
                             },
                             {
                                 "name": "write string",
-                                "path": "https://teknikio.github.io/docs/docs/reference/serial/write-string",
+                                "path": "https://teknikio.github.io/docs/reference/serial/write-string",
                                 "subitems": []
                             },
                             {
                                 "name": "read until",
-                                "path": "https://teknikio.github.io/docs/docs/reference/serial/read-until",
+                                "path": "https://teknikio.github.io/docs/reference/serial/read-until",
                                 "subitems": []
                             },
                             {
                                 "name": "read line",
-                                "path": "https://teknikio.github.io/docs/docs/reference/serial/read-line",
+                                "path": "https://teknikio.github.io/docs/reference/serial/read-line",
                                 "subitems": []
                             },
                             {
                                 "name": "read string",
-                                "path": "https://teknikio.github.io/docs/docs/reference/serial/read-string",
+                                "path": "https://teknikio.github.io/docs/reference/serial/read-string",
                                 "subitems": []
                             },
                             {
                                 "name": "on data received",
-                                "path": "https://teknikio.github.io/docs/docs/reference/serial/on-data-received",
+                                "path": "https://teknikio.github.io/docs/reference/serial/on-data-received",
                                 "subitems": []
                             },
                             {
                                 "name": "redirect",
-                                "path": "https://teknikio.github.io/docs/docs/reference/serial/redirect",
+                                "path": "https://teknikio.github.io/docs/reference/serial/redirect",
                                 "subitems": []
                             },
                             {
                                 "name": "redirect to usb",
-                                "path": "https://teknikio.github.io/docs/docs/reference/serial/redirect-to-usb",
+                                "path": "https://teknikio.github.io/docs/reference/serial/redirect-to-usb",
                                 "subitems": []
                             },
                             {
                                 "name": "write buffer",
-                                "path": "https://teknikio.github.io/docs/docs/reference/serial/write-buffer",
+                                "path": "https://teknikio.github.io/docs/reference/serial/write-buffer",
                                 "subitems": []
                             },
                             {
                                 "name": "read buffer",
-                                "path": "https://teknikio.github.io/docs/docs/reference/serial/read-buffer",
+                                "path": "https://teknikio.github.io/docs/reference/serial/read-buffer",
                                 "subitems": []
                             }
                         ]
                     },
                     {
                         "name": "Control",
-                        "path": "https://teknikio.github.io/docs/docs/reference/control",
+                        "path": "https://teknikio.github.io/docs/reference/control",
                         "subitems": [
                             {
                                 "name": "in background",
-                                "path": "https://teknikio.github.io/docs/docs/reference/control/in-background",
+                                "path": "https://teknikio.github.io/docs/reference/control/in-background",
                                 "subitems": []
                             },
                             {
                                 "name": "reset",
-                                "path": "https://teknikio.github.io/docs/docs/reference/control/reset",
+                                "path": "https://teknikio.github.io/docs/reference/control/reset",
                                 "subitems": []
                             },
                             {
                                 "name": "wait micros",
-                                "path": "https://teknikio.github.io/docs/docs/reference/control/wait-micros",
+                                "path": "https://teknikio.github.io/docs/reference/control/wait-micros",
                                 "subitems": []
                             },
                             {
                                 "name": "on event",
-                                "path": "https://teknikio.github.io/docs/docs/reference/control/on-event",
+                                "path": "https://teknikio.github.io/docs/reference/control/on-event",
                                 "subitems": []
                             },
                             {
                                 "name": "raise event",
-                                "path": "https://teknikio.github.io/docs/docs/reference/control/raise-event",
+                                "path": "https://teknikio.github.io/docs/reference/control/raise-event",
                                 "subitems": []
                             },
                             {
                                 "name": "event timestamp",
-                                "path": "https://teknikio.github.io/docs/docs/reference/control/event-timestamp",
+                                "path": "https://teknikio.github.io/docs/reference/control/event-timestamp",
                                 "subitems": []
                             },
                             {
                                 "name": "event value",
-                                "path": "https://teknikio.github.io/docs/docs/reference/control/event-value",
+                                "path": "https://teknikio.github.io/docs/reference/control/event-value",
                                 "subitems": []
                             }
                         ]
                     },
                     {
                         "name": "Bluetooth",
-                        "path": "https://teknikio.github.io/docs/docs/reference/bluetooth",
+                        "path": "https://teknikio.github.io/docs/reference/bluetooth",
                         "subitems": [
                             {
                                 "name": "About",
-                                "path": "https://teknikio.github.io/docs/docs/reference/bluetooth/about-bluetooth",
+                                "path": "https://teknikio.github.io/docs/reference/bluetooth/about-bluetooth",
                                 "subitems": []
                             },
                             {
                                 "name": "Pairing",
-                                "path": "https://teknikio.github.io/docs/docs/reference/bluetooth/bluetooth-pairing",
+                                "path": "https://teknikio.github.io/docs/reference/bluetooth/bluetooth-pairing",
                                 "subitems": []
                             },
                             {
                                 "name": "on bluetooth connected",
-                                "path": "https://teknikio.github.io/docs/docs/reference/bluetooth/on-bluetooth-connected",
+                                "path": "https://teknikio.github.io/docs/reference/bluetooth/on-bluetooth-connected",
                                 "subitems": []
                             },
                             {
                                 "name": "on bluetooth disconnected",
-                                "path": "https://teknikio.github.io/docs/docs/reference/bluetooth/on-bluetooth-disconnected",
+                                "path": "https://teknikio.github.io/docs/reference/bluetooth/on-bluetooth-disconnected",
                                 "subitems": []
                             },
                             {
                                 "name": "start accelerometer service",
-                                "path": "https://teknikio.github.io/docs/docs/reference/bluetooth/start-accelerometer-service",
+                                "path": "https://teknikio.github.io/docs/reference/bluetooth/start-accelerometer-service",
                                 "subitems": []
                             },
                             {
                                 "name": "start button service",
-                                "path": "https://teknikio.github.io/docs/docs/reference/bluetooth/start-button-service",
+                                "path": "https://teknikio.github.io/docs/reference/bluetooth/start-button-service",
                                 "subitems": []
                             },
                             {
                                 "name": "start io pin service",
-                                "path": "https://teknikio.github.io/docs/docs/reference/bluetooth/start-io-pin-service",
+                                "path": "https://teknikio.github.io/docs/reference/bluetooth/start-io-pin-service",
                                 "subitems": []
                             },
                             {
                                 "name": "start led service",
-                                "path": "https://teknikio.github.io/docs/docs/reference/bluetooth/start-led-service",
+                                "path": "https://teknikio.github.io/docs/reference/bluetooth/start-led-service",
                                 "subitems": []
                             },
                             {
                                 "name": "start magnetometer service",
-                                "path": "https://teknikio.github.io/docs/docs/reference/bluetooth/start-magnetometer-service",
+                                "path": "https://teknikio.github.io/docs/reference/bluetooth/start-magnetometer-service",
                                 "subitems": []
                             },
                             {
                                 "name": "start temperature service",
-                                "path": "https://teknikio.github.io/docs/docs/reference/bluetooth/start-temperature-service",
+                                "path": "https://teknikio.github.io/docs/reference/bluetooth/start-temperature-service",
                                 "subitems": []
                             },
                             {
                                 "name": "start uart service",
-                                "path": "https://teknikio.github.io/docs/docs/reference/bluetooth/start-uart-service",
+                                "path": "https://teknikio.github.io/docs/reference/bluetooth/start-uart-service",
                                 "subitems": []
                             },
                             {
                                 "name": "uart read until",
-                                "path": "https://teknikio.github.io/docs/docs/reference/bluetooth/uart-read-until",
+                                "path": "https://teknikio.github.io/docs/reference/bluetooth/uart-read-until",
                                 "subitems": []
                             },
                             {
                                 "name": "uart write string",
-                                "path": "https://teknikio.github.io/docs/docs/reference/bluetooth/uart-write-string",
+                                "path": "https://teknikio.github.io/docs/reference/bluetooth/uart-write-string",
                                 "subitems": []
                             },
                             {
                                 "name": "uart write number",
-                                "path": "https://teknikio.github.io/docs/docs/reference/bluetooth/uart-write-number",
+                                "path": "https://teknikio.github.io/docs/reference/bluetooth/uart-write-number",
                                 "subitems": []
                             },
                             {
                                 "name": "uart write value",
-                                "path": "https://teknikio.github.io/docs/docs/reference/bluetooth/uart-write-value",
+                                "path": "https://teknikio.github.io/docs/reference/bluetooth/uart-write-value",
                                 "subitems": []
                             },
                             {
                                 "name": "advertise url",
-                                "path": "https://teknikio.github.io/docs/docs/reference/bluetooth/advertise-url",
+                                "path": "https://teknikio.github.io/docs/reference/bluetooth/advertise-url",
                                 "subitems": []
                             },
                             {
                                 "name": "stop advertising",
-                                "path": "https://teknikio.github.io/docs/docs/reference/bluetooth/stop-advertising",
+                                "path": "https://teknikio.github.io/docs/reference/bluetooth/stop-advertising",
                                 "subitems": []
                             },
                             {
                                 "name": "advertise uid",
-                                "path": "https://teknikio.github.io/docs/docs/reference/bluetooth/advertise-uid",
+                                "path": "https://teknikio.github.io/docs/reference/bluetooth/advertise-uid",
                                 "subitems": []
                             },
                             {
                                 "name": "advertise-uid-buffer",
-                                "path": "https://teknikio.github.io/docs/docs/reference/bluetooth/advertise-uid-buffer",
+                                "path": "https://teknikio.github.io/docs/reference/bluetooth/advertise-uid-buffer",
                                 "subitems": []
                             }
                         ]
                     },
                     {
                         "name": "Devices",
-                        "path": "https://teknikio.github.io/docs/docs/reference/devices",
+                        "path": "https://teknikio.github.io/docs/reference/devices",
                         "subitems": [
                             {
                                 "name": "tell camera to",
-                                "path": "https://teknikio.github.io/docs/docs/reference/devices/tell-camera-to",
+                                "path": "https://teknikio.github.io/docs/reference/devices/tell-camera-to",
                                 "subitems": []
                             },
                             {
                                 "name": "tell remote control to",
-                                "path": "https://teknikio.github.io/docs/docs/reference/devices/tell-remote-control-to",
+                                "path": "https://teknikio.github.io/docs/reference/devices/tell-remote-control-to",
                                 "subitems": []
                             },
                             {
                                 "name": "raise alert to",
-                                "path": "https://teknikio.github.io/docs/docs/reference/devices/raise-alert-to",
+                                "path": "https://teknikio.github.io/docs/reference/devices/raise-alert-to",
                                 "subitems": []
                             },
                             {
                                 "name": "on notified",
-                                "path": "https://teknikio.github.io/docs/docs/reference/devices/on-notified",
+                                "path": "https://teknikio.github.io/docs/reference/devices/on-notified",
                                 "subitems": []
                             },
                             {
                                 "name": "on gamepad button",
-                                "path": "https://teknikio.github.io/docs/docs/reference/devices/on-gamepad-button",
+                                "path": "https://teknikio.github.io/docs/reference/devices/on-gamepad-button",
                                 "subitems": []
                             },
                             {
                                 "name": "signal strength",
-                                "path": "https://teknikio.github.io/docs/docs/reference/devices/signal-strength",
+                                "path": "https://teknikio.github.io/docs/reference/devices/signal-strength",
                                 "subitems": []
                             },
                             {
                                 "name": "on signal strength changed",
-                                "path": "https://teknikio.github.io/docs/docs/reference/devices/on-signal-strength-changed",
+                                "path": "https://teknikio.github.io/docs/reference/devices/on-signal-strength-changed",
                                 "subitems": []
                             }
                         ]
@@ -1329,229 +1329,229 @@ var pxtTargetBundle = {
             },
             {
                 "name": "Program Blocks",
-                "path": "https://teknikio.github.io/docs/docs/blocks",
+                "path": "https://teknikio.github.io/docs/blocks",
                 "subitems": [
                     {
                         "name": "On Start",
-                        "path": "https://teknikio.github.io/docs/docs/blocks/on-start",
+                        "path": "https://teknikio.github.io/docs/blocks/on-start",
                         "subitems": []
                     },
                     {
                         "name": "Loops",
-                        "path": "https://teknikio.github.io/docs/docs/blocks/loops",
+                        "path": "https://teknikio.github.io/docs/blocks/loops",
                         "subitems": [
                             {
                                 "name": "repeat",
-                                "path": "https://teknikio.github.io/docs/docs/blocks/loops/repeat",
+                                "path": "https://teknikio.github.io/docs/blocks/loops/repeat",
                                 "subitems": []
                             },
                             {
                                 "name": "for",
-                                "path": "https://teknikio.github.io/docs/docs/blocks/loops/for",
+                                "path": "https://teknikio.github.io/docs/blocks/loops/for",
                                 "subitems": []
                             },
                             {
                                 "name": "while",
-                                "path": "https://teknikio.github.io/docs/docs/blocks/loops/while",
+                                "path": "https://teknikio.github.io/docs/blocks/loops/while",
                                 "subitems": []
                             },
                             {
                                 "name": "for of",
-                                "path": "https://teknikio.github.io/docs/docs/blocks/loops/for-of",
+                                "path": "https://teknikio.github.io/docs/blocks/loops/for-of",
                                 "subitems": []
                             }
                         ]
                     },
                     {
                         "name": "Logic",
-                        "path": "https://teknikio.github.io/docs/docs/blocks/logic",
+                        "path": "https://teknikio.github.io/docs/blocks/logic",
                         "subitems": [
                             {
                                 "name": "if",
-                                "path": "https://teknikio.github.io/docs/docs/blocks/logic/if",
+                                "path": "https://teknikio.github.io/docs/blocks/logic/if",
                                 "subitems": []
                             },
                             {
                                 "name": "Boolean",
-                                "path": "https://teknikio.github.io/docs/docs/blocks/logic/boolean",
+                                "path": "https://teknikio.github.io/docs/blocks/logic/boolean",
                                 "subitems": []
                             }
                         ]
                     },
                     {
                         "name": "Variables",
-                        "path": "https://teknikio.github.io/docs/docs/blocks/variables",
+                        "path": "https://teknikio.github.io/docs/blocks/variables",
                         "subitems": [
                             {
                                 "name": "assign",
-                                "path": "https://teknikio.github.io/docs/docs/blocks/variables/assign",
+                                "path": "https://teknikio.github.io/docs/blocks/variables/assign",
                                 "subitems": []
                             },
                             {
                                 "name": "change var",
-                                "path": "https://teknikio.github.io/docs/docs/blocks/variables/change",
+                                "path": "https://teknikio.github.io/docs/blocks/variables/change",
                                 "subitems": []
                             },
                             {
                                 "name": "var",
-                                "path": "https://teknikio.github.io/docs/docs/blocks/variables/var",
+                                "path": "https://teknikio.github.io/docs/blocks/variables/var",
                                 "subitems": []
                             }
                         ]
                     },
                     {
                         "name": "Math",
-                        "path": "https://teknikio.github.io/docs/docs/blocks/math",
+                        "path": "https://teknikio.github.io/docs/blocks/math",
                         "subitems": []
                     },
                     {
                         "name": "JavaScript blocks",
-                        "path": "https://teknikio.github.io/docs/docs/blocks/javascript-blocks",
+                        "path": "https://teknikio.github.io/docs/blocks/javascript-blocks",
                         "subitems": []
                     },
                     {
                         "name": "Custom blocks",
-                        "path": "https://teknikio.github.io/docs/docs/blocks/custom",
+                        "path": "https://teknikio.github.io/docs/blocks/custom",
                         "subitems": []
                     }
                 ]
             },
             {
                 "name": "Python",
-                "path": "https://teknikio.github.io/docs/docs/python",
+                "path": "https://teknikio.github.io/docs/python",
                 "subitems": [
                     {
                         "name": "Calling",
-                        "path": "https://teknikio.github.io/docs/docs/python/call",
+                        "path": "https://teknikio.github.io/docs/python/call",
                         "subitems": []
                     },
                     {
                         "name": "Sequencing",
-                        "path": "https://teknikio.github.io/docs/docs/python/sequence",
+                        "path": "https://teknikio.github.io/docs/python/sequence",
                         "subitems": []
                     },
                     {
                         "name": "Variables",
-                        "path": "https://teknikio.github.io/docs/docs/python/variables",
+                        "path": "https://teknikio.github.io/docs/python/variables",
                         "subitems": []
                     },
                     {
                         "name": "Operators",
-                        "path": "https://teknikio.github.io/docs/docs/python/operators",
+                        "path": "https://teknikio.github.io/docs/python/operators",
                         "subitems": []
                     },
                     {
                         "name": "Statements",
-                        "path": "https://teknikio.github.io/docs/docs/python/statements",
+                        "path": "https://teknikio.github.io/docs/python/statements",
                         "subitems": []
                     },
                     {
                         "name": "Functions",
-                        "path": "https://teknikio.github.io/docs/docs/python/functions",
+                        "path": "https://teknikio.github.io/docs/python/functions",
                         "subitems": []
                     },
                     {
                         "name": "Classes",
-                        "path": "https://teknikio.github.io/docs/docs/python/classes",
+                        "path": "https://teknikio.github.io/docs/python/classes",
                         "subitems": []
                     }
                 ]
             },
             {
                 "name": "JavaScript",
-                "path": "https://teknikio.github.io/docs/docs/javascript",
+                "path": "https://teknikio.github.io/docs/javascript",
                 "subitems": [
                     {
                         "name": "Calling",
-                        "path": "https://teknikio.github.io/docs/docs/javascript/call",
+                        "path": "https://teknikio.github.io/docs/javascript/call",
                         "subitems": []
                     },
                     {
                         "name": "Sequencing",
-                        "path": "https://teknikio.github.io/docs/docs/javascript/sequence",
+                        "path": "https://teknikio.github.io/docs/javascript/sequence",
                         "subitems": []
                     },
                     {
                         "name": "Variables",
-                        "path": "https://teknikio.github.io/docs/docs/javascript/variables",
+                        "path": "https://teknikio.github.io/docs/javascript/variables",
                         "subitems": []
                     },
                     {
                         "name": "Operators",
-                        "path": "https://teknikio.github.io/docs/docs/javascript/operators",
+                        "path": "https://teknikio.github.io/docs/javascript/operators",
                         "subitems": []
                     },
                     {
                         "name": "Statements",
-                        "path": "https://teknikio.github.io/docs/docs/javascript/statements",
+                        "path": "https://teknikio.github.io/docs/javascript/statements",
                         "subitems": []
                     },
                     {
                         "name": "Functions",
-                        "path": "https://teknikio.github.io/docs/docs/javascript/functions",
+                        "path": "https://teknikio.github.io/docs/javascript/functions",
                         "subitems": []
                     },
                     {
                         "name": "Types",
-                        "path": "https://teknikio.github.io/docs/docs/javascript/types",
+                        "path": "https://teknikio.github.io/docs/javascript/types",
                         "subitems": []
                     },
                     {
                         "name": "Classes",
-                        "path": "https://teknikio.github.io/docs/docs/javascript/classes",
+                        "path": "https://teknikio.github.io/docs/javascript/classes",
                         "subitems": []
                     },
                     {
                         "name": "Interfaces",
-                        "path": "https://teknikio.github.io/docs/docs/javascript/interfaces",
+                        "path": "https://teknikio.github.io/docs/javascript/interfaces",
                         "subitems": []
                     },
                     {
                         "name": "Generics",
-                        "path": "https://teknikio.github.io/docs/docs/javascript/generics",
+                        "path": "https://teknikio.github.io/docs/javascript/generics",
                         "subitems": []
                     }
                 ]
             },
             {
                 "name": "Types",
-                "path": "https://teknikio.github.io/docs/docs/types",
+                "path": "https://teknikio.github.io/docs/types",
                 "subitems": [
                     {
                         "name": "Number",
-                        "path": "https://teknikio.github.io/docs/docs/types/number",
+                        "path": "https://teknikio.github.io/docs/types/number",
                         "subitems": []
                     },
                     {
                         "name": "String",
-                        "path": "https://teknikio.github.io/docs/docs/types/string",
+                        "path": "https://teknikio.github.io/docs/types/string",
                         "subitems": []
                     },
                     {
                         "name": "Boolean",
-                        "path": "https://teknikio.github.io/docs/docs/types/boolean",
+                        "path": "https://teknikio.github.io/docs/types/boolean",
                         "subitems": []
                     },
                     {
                         "name": "Array",
-                        "path": "https://teknikio.github.io/docs/docs/types/array",
+                        "path": "https://teknikio.github.io/docs/types/array",
                         "subitems": []
                     },
                     {
                         "name": "Function",
-                        "path": "https://teknikio.github.io/docs/docs/types/function",
+                        "path": "https://teknikio.github.io/docs/types/function",
                         "subitems": []
                     }
                 ]
             },
             {
                 "name": "FAQ",
-                "path": "https://teknikio.github.io/docs/docs/faq",
+                "path": "https://teknikio.github.io/docs/faq",
                 "subitems": []
             },
             {
                 "name": "Support",
-                "path": "https://teknikio.github.io/docs/docs/support",
+                "path": "https://teknikio.github.io/docs/support",
                 "subitems": []
             }
         ],
