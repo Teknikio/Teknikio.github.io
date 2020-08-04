@@ -1,0 +1,19 @@
+{
+    "packages": {
+        "approvedOrgs": [
+            "Teknikio"
+        ],
+        "approvedRepos": [
+            "Teknikio/pxt-teknikio"
+        ],
+        "preferredRepos": [
+            "Teknikio/pxt-teknikio"
+        ]
+    },
+    "languages": [
+        "en"
+    ],
+    "galleries": {
+        "Examples": "examples"
+    }
+}
