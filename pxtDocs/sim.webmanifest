@@ -1,0 +1,13 @@
+{
+    "lang": "en",
+    "dir": "ltr",
+    "name": "bluebird",
+    "short_name": "bluebird",
+    "background_color": "#FAFAFA",
+    "icons": [],
+    "scope": "/",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "landscape",
+    "theme_color": "#0089BF"
+}
