@@ -1,4 +1,4 @@
-# Summary
+<!-- # Summary
 
 * [About](https://teknikio.github.io/docs/about)
 * [Control Center](https://teknikio.github.io/docs/controlcenter)
@@ -14,7 +14,7 @@
   * [Simon Says](https://teknikio.github.io/docs/demos/simonsays)
 
 * [Hardware](https://teknikio.github.io/docs/hardware)
-* [GitHub](https://teknikio.github.io/docs/github)
+
 
 ## #reference
 * [Hardware Blocks](https://teknikio.github.io/docs/reference)
@@ -223,9 +223,9 @@
 * [FAQ](https://teknikio.github.io/docs/faq)
 * [Support](https://teknikio.github.io/docs/support)
 
+ -->
 
 
-<!-- 
 # Summary
 
 * [About](/about)
@@ -449,4 +449,4 @@
 ## #other
 
 * [FAQ](/faq)
-* [Support](/support) -->
+* [Support](/support)

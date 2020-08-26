@@ -525,802 +525,802 @@ var pxtTargetBundle = {
         "TOC": [
             {
                 "name": "About",
-                "path": "https://teknikio.github.io/docs/about",
+                "path": "/about",
                 "subitems": []
             },
             {
                 "name": "Control Center",
-                "path": "https://teknikio.github.io/docs/controlcenter",
+                "path": "/controlcenter",
                 "subitems": []
             },
             {
                 "name": "Examples",
-                "path": "https://teknikio.github.io/docs/demos",
+                "path": "/demos",
                 "subitems": [
                     {
                         "name": "Siren",
-                        "path": "https://teknikio.github.io/docs/demos/siren",
+                        "path": "/demos/siren",
                         "subitems": []
                     },
                     {
                         "name": "Magic Wand",
-                        "path": "https://teknikio.github.io/docs/demos/magicwand",
+                        "path": "/demos/magicwand",
                         "subitems": []
                     },
                     {
                         "name": "Nightlight",
-                        "path": "https://teknikio.github.io/docs/demos/nightlight",
+                        "path": "/demos/nightlight",
                         "subitems": []
                     },
                     {
                         "name": "PushUp Counter",
-                        "path": "https://teknikio.github.io/docs/demos/pushupcounter",
+                        "path": "/demos/pushupcounter",
                         "subitems": []
                     },
                     {
                         "name": "Smart Timer Cube",
-                        "path": "https://teknikio.github.io/docs/demos/timer",
+                        "path": "/demos/timer",
                         "subitems": []
                     },
                     {
                         "name": "Sunset Mountain",
-                        "path": "https://teknikio.github.io/docs/demos/nightlight",
+                        "path": "/demos/nightlight",
                         "subitems": []
                     },
                     {
                         "name": "Conductor's Baton",
-                        "path": "https://teknikio.github.io/docs/demos/baton",
+                        "path": "/demos/baton",
                         "subitems": []
                     },
                     {
                         "name": "Domino Effect",
-                        "path": "https://teknikio.github.io/docs/demos/domino_effect",
+                        "path": "/demos/domino_effect",
                         "subitems": []
                     },
                     {
                         "name": "Simon Says",
-                        "path": "https://teknikio.github.io/docs/demos/simonsays",
+                        "path": "/demos/simonsays",
                         "subitems": []
                     }
                 ]
             },
             {
                 "name": "Hardware",
-                "path": "https://teknikio.github.io/docs/hardware",
+                "path": "/hardware",
                 "subitems": []
             },
             {
                 "name": "GitHub",
-                "path": "https://teknikio.github.io/docs/github",
+                "path": "/github",
                 "subitems": []
             },
             {
                 "name": "Hardware Blocks",
-                "path": "https://teknikio.github.io/docs/reference",
+                "path": "/reference",
                 "subitems": [
                     {
                         "name": "Basic",
-                        "path": "https://teknikio.github.io/docs/reference/basic",
+                        "path": "/reference/basic",
                         "subitems": [
                             {
                                 "name": "show number",
-                                "path": "https://teknikio.github.io/docs/reference/basic/show-number",
+                                "path": "/reference/basic/show-number",
                                 "subitems": []
                             },
                             {
                                 "name": "show icon",
-                                "path": "https://teknikio.github.io/docs/reference/basic/show-icon",
+                                "path": "/reference/basic/show-icon",
                                 "subitems": []
                             },
                             {
                                 "name": "show leds",
-                                "path": "https://teknikio.github.io/docs/reference/basic/show-leds",
+                                "path": "/reference/basic/show-leds",
                                 "subitems": []
                             },
                             {
                                 "name": "show string",
-                                "path": "https://teknikio.github.io/docs/reference/basic/show-string",
+                                "path": "/reference/basic/show-string",
                                 "subitems": []
                             },
                             {
                                 "name": "clear screen",
-                                "path": "https://teknikio.github.io/docs/reference/basic/clear-screen",
+                                "path": "/reference/basic/clear-screen",
                                 "subitems": []
                             },
                             {
                                 "name": "forever",
-                                "path": "https://teknikio.github.io/docs/reference/basic/forever",
+                                "path": "/reference/basic/forever",
                                 "subitems": []
                             },
                             {
                                 "name": "pause",
-                                "path": "https://teknikio.github.io/docs/reference/basic/pause",
+                                "path": "/reference/basic/pause",
                                 "subitems": []
                             },
                             {
                                 "name": "show arrow",
-                                "path": "https://teknikio.github.io/docs/reference/basic/show-arrow",
+                                "path": "/reference/basic/show-arrow",
                                 "subitems": []
                             },
                             {
                                 "name": "show animation",
-                                "path": "https://teknikio.github.io/docs/reference/basic/show-animation",
+                                "path": "/reference/basic/show-animation",
                                 "subitems": []
                             }
                         ]
                     },
                     {
                         "name": "Sensors",
-                        "path": "https://teknikio.github.io/docs/reference/sensors",
+                        "path": "/reference/sensors",
                         "subitems": [
                             {
                                 "name": "on gesture",
-                                "path": "https://teknikio.github.io/docs/reference/input/on-gesture",
+                                "path": "/reference/input/on-gesture",
                                 "subitems": []
                             },
                             {
                                 "name": "on pin pressed",
-                                "path": "https://teknikio.github.io/docs/reference/input/on-pin-pressed",
+                                "path": "/reference/input/on-pin-pressed",
                                 "subitems": []
                             },
                             {
                                 "name": "pin is pressed",
-                                "path": "https://teknikio.github.io/docs/reference/input/pin-is-pressed",
+                                "path": "/reference/input/pin-is-pressed",
                                 "subitems": []
                             },
                             {
                                 "name": "temperature",
-                                "path": "https://teknikio.github.io/docs/reference/input/temperature",
+                                "path": "/reference/input/temperature",
                                 "subitems": []
                             },
                             {
                                 "name": "acceleration",
-                                "path": "https://teknikio.github.io/docs/reference/input/acceleration",
+                                "path": "/reference/input/acceleration",
                                 "subitems": []
                             },
                             {
                                 "name": "light level",
-                                "path": "https://teknikio.github.io/docs/reference/input/light-level",
+                                "path": "/reference/input/light-level",
                                 "subitems": []
                             },
                             {
                                 "name": "rotation",
-                                "path": "https://teknikio.github.io/docs/reference/input/rotation",
+                                "path": "/reference/input/rotation",
                                 "subitems": []
                             },
                             {
                                 "name": "running time",
-                                "path": "https://teknikio.github.io/docs/reference/input/running-time",
+                                "path": "/reference/input/running-time",
                                 "subitems": []
                             },
                             {
                                 "name": "set accelerometer range",
-                                "path": "https://teknikio.github.io/docs/reference/input/set-accelerometer-range",
+                                "path": "/reference/input/set-accelerometer-range",
                                 "subitems": []
                             }
                         ]
                     },
                     {
                         "name": "Music",
-                        "path": "https://teknikio.github.io/docs/reference/music",
+                        "path": "/reference/music",
                         "subitems": [
                             {
                                 "name": "play tone",
-                                "path": "https://teknikio.github.io/docs/reference/music/play-tone",
+                                "path": "/reference/music/play-tone",
                                 "subitems": []
                             },
                             {
                                 "name": "ring tone",
-                                "path": "https://teknikio.github.io/docs/reference/music/ring-tone",
+                                "path": "/reference/music/ring-tone",
                                 "subitems": []
                             },
                             {
                                 "name": "rest",
-                                "path": "https://teknikio.github.io/docs/reference/music/rest",
+                                "path": "/reference/music/rest",
                                 "subitems": []
                             },
                             {
                                 "name": "beat",
-                                "path": "https://teknikio.github.io/docs/reference/music/beat",
+                                "path": "/reference/music/beat",
                                 "subitems": []
                             },
                             {
                                 "name": "tempo",
-                                "path": "https://teknikio.github.io/docs/reference/music/tempo",
+                                "path": "/reference/music/tempo",
                                 "subitems": []
                             },
                             {
                                 "name": "change tempo by",
-                                "path": "https://teknikio.github.io/docs/reference/music/change-tempo-by",
+                                "path": "/reference/music/change-tempo-by",
                                 "subitems": []
                             },
                             {
                                 "name": "set tempo",
-                                "path": "https://teknikio.github.io/docs/reference/music/set-tempo",
+                                "path": "/reference/music/set-tempo",
                                 "subitems": []
                             }
                         ]
                     },
                     {
                         "name": "Led",
-                        "path": "https://teknikio.github.io/docs/reference/Neopixel",
+                        "path": "/reference/Neopixel",
                         "subitems": [
                             {
                                 "name": "set brightness",
-                                "path": "https://teknikio.github.io/docs/reference/led/set-brightness",
+                                "path": "/reference/led/set-brightness",
                                 "subitems": []
                             },
                             {
                                 "name": "set color",
-                                "path": "https://teknikio.github.io/docs/reference/led/stop-animation",
+                                "path": "/reference/led/stop-animation",
                                 "subitems": []
                             }
                         ]
                     },
                     {
                         "name": "Radio",
-                        "path": "https://teknikio.github.io/docs/reference/radio",
+                        "path": "/reference/radio",
                         "subitems": [
                             {
                                 "name": "send number",
-                                "path": "https://teknikio.github.io/docs/reference/radio/send-number",
+                                "path": "/reference/radio/send-number",
                                 "subitems": []
                             },
                             {
                                 "name": "send value",
-                                "path": "https://teknikio.github.io/docs/reference/radio/send-value",
+                                "path": "/reference/radio/send-value",
                                 "subitems": []
                             },
                             {
                                 "name": "send string",
-                                "path": "https://teknikio.github.io/docs/reference/radio/send-string",
+                                "path": "/reference/radio/send-string",
                                 "subitems": []
                             },
                             {
                                 "name": "on received number",
-                                "path": "https://teknikio.github.io/docs/reference/radio/on-received-number",
+                                "path": "/reference/radio/on-received-number",
                                 "subitems": []
                             },
                             {
                                 "name": "on received string",
-                                "path": "https://teknikio.github.io/docs/reference/radio/on-received-string",
+                                "path": "/reference/radio/on-received-string",
                                 "subitems": []
                             },
                             {
                                 "name": "on received buffer",
-                                "path": "https://teknikio.github.io/docs/reference/radio/on-received-buffer",
+                                "path": "/reference/radio/on-received-buffer",
                                 "subitems": []
                             },
                             {
                                 "name": "received packet",
-                                "path": "https://teknikio.github.io/docs/reference/radio/received-packet",
+                                "path": "/reference/radio/received-packet",
                                 "subitems": []
                             },
                             {
                                 "name": "set group",
-                                "path": "https://teknikio.github.io/docs/reference/radio/set-group",
+                                "path": "/reference/radio/set-group",
                                 "subitems": []
                             },
                             {
                                 "name": "set transmit power",
-                                "path": "https://teknikio.github.io/docs/reference/radio/set-transmit-power",
+                                "path": "/reference/radio/set-transmit-power",
                                 "subitems": []
                             },
                             {
                                 "name": "set transmit serial number",
-                                "path": "https://teknikio.github.io/docs/reference/radio/set-transmit-serial-number",
+                                "path": "/reference/radio/set-transmit-serial-number",
                                 "subitems": []
                             },
                             {
                                 "name": "on data packet received",
-                                "path": "https://teknikio.github.io/docs/reference/radio/on-data-packet-received",
+                                "path": "/reference/radio/on-data-packet-received",
                                 "subitems": []
                             },
                             {
                                 "name": "write received packet to serial",
-                                "path": "https://teknikio.github.io/docs/reference/radio/write-received-packet-to-serial",
+                                "path": "/reference/radio/write-received-packet-to-serial",
                                 "subitems": []
                             }
                         ]
                     },
                     {
                         "name": "Game",
-                        "path": "https://teknikio.github.io/docs/reference/game",
+                        "path": "/reference/game",
                         "subitems": [
                             {
                                 "name": "create sprite",
-                                "path": "https://teknikio.github.io/docs/reference/game/create-sprite",
+                                "path": "/reference/game/create-sprite",
                                 "subitems": []
                             },
                             {
                                 "name": "delete",
-                                "path": "https://teknikio.github.io/docs/reference/game/delete",
+                                "path": "/reference/game/delete",
                                 "subitems": []
                             },
                             {
                                 "name": "move",
-                                "path": "https://teknikio.github.io/docs/reference/game/move",
+                                "path": "/reference/game/move",
                                 "subitems": []
                             },
                             {
                                 "name": "turn",
-                                "path": "https://teknikio.github.io/docs/reference/game/turn",
+                                "path": "/reference/game/turn",
                                 "subitems": []
                             },
                             {
                                 "name": "if on edge bounce",
-                                "path": "https://teknikio.github.io/docs/reference/game/if-on-edge-bounce",
+                                "path": "/reference/game/if-on-edge-bounce",
                                 "subitems": []
                             },
                             {
                                 "name": "get",
-                                "path": "https://teknikio.github.io/docs/reference/game/get",
+                                "path": "/reference/game/get",
                                 "subitems": []
                             },
                             {
                                 "name": "set",
-                                "path": "https://teknikio.github.io/docs/reference/game/set",
+                                "path": "/reference/game/set",
                                 "subitems": []
                             },
                             {
                                 "name": "change",
-                                "path": "https://teknikio.github.io/docs/reference/game/change",
+                                "path": "/reference/game/change",
                                 "subitems": []
                             },
                             {
                                 "name": "is touching",
-                                "path": "https://teknikio.github.io/docs/reference/game/is-touching",
+                                "path": "/reference/game/is-touching",
                                 "subitems": []
                             },
                             {
                                 "name": "is touching edge",
-                                "path": "https://teknikio.github.io/docs/reference/game/is-touching-edge",
+                                "path": "/reference/game/is-touching-edge",
                                 "subitems": []
                             },
                             {
                                 "name": "add score",
-                                "path": "https://teknikio.github.io/docs/reference/game/add-score",
+                                "path": "/reference/game/add-score",
                                 "subitems": []
                             },
                             {
                                 "name": "score",
-                                "path": "https://teknikio.github.io/docs/reference/game/score",
+                                "path": "/reference/game/score",
                                 "subitems": []
                             },
                             {
                                 "name": "set score",
-                                "path": "https://teknikio.github.io/docs/reference/game/set-score",
+                                "path": "/reference/game/set-score",
                                 "subitems": []
                             },
                             {
                                 "name": "set life",
-                                "path": "https://teknikio.github.io/docs/reference/game/set-life",
+                                "path": "/reference/game/set-life",
                                 "subitems": []
                             },
                             {
                                 "name": "add life",
-                                "path": "https://teknikio.github.io/docs/reference/game/add-life",
+                                "path": "/reference/game/add-life",
                                 "subitems": []
                             },
                             {
                                 "name": "remove life",
-                                "path": "https://teknikio.github.io/docs/reference/game/remove-life",
+                                "path": "/reference/game/remove-life",
                                 "subitems": []
                             },
                             {
                                 "name": "start countdown",
-                                "path": "https://teknikio.github.io/docs/reference/game/start-countdown",
+                                "path": "/reference/game/start-countdown",
                                 "subitems": []
                             },
                             {
                                 "name": "game over",
-                                "path": "https://teknikio.github.io/docs/reference/game/game-over",
+                                "path": "/reference/game/game-over",
                                 "subitems": []
                             },
                             {
                                 "name": "pause",
-                                "path": "https://teknikio.github.io/docs/reference/game/pause",
+                                "path": "/reference/game/pause",
                                 "subitems": []
                             },
                             {
                                 "name": "resume",
-                                "path": "https://teknikio.github.io/docs/reference/game/resume",
+                                "path": "/reference/game/resume",
                                 "subitems": []
                             }
                         ]
                     },
                     {
                         "name": "Images",
-                        "path": "https://teknikio.github.io/docs/reference/images",
+                        "path": "/reference/images",
                         "subitems": [
                             {
                                 "name": "create image",
-                                "path": "https://teknikio.github.io/docs/reference/images/create-image",
+                                "path": "/reference/images/create-image",
                                 "subitems": []
                             },
                             {
                                 "name": "create big image",
-                                "path": "https://teknikio.github.io/docs/reference/images/create-big-image",
+                                "path": "/reference/images/create-big-image",
                                 "subitems": []
                             },
                             {
                                 "name": "show image",
-                                "path": "https://teknikio.github.io/docs/reference/images/show-image",
+                                "path": "/reference/images/show-image",
                                 "subitems": []
                             },
                             {
                                 "name": "scroll image",
-                                "path": "https://teknikio.github.io/docs/reference/images/scroll-image",
+                                "path": "/reference/images/scroll-image",
                                 "subitems": []
                             },
                             {
                                 "name": "arrow image",
-                                "path": "https://teknikio.github.io/docs/reference/images/arrow-image",
+                                "path": "/reference/images/arrow-image",
                                 "subitems": []
                             },
                             {
                                 "name": "icon image",
-                                "path": "https://teknikio.github.io/docs/reference/images/icon-image",
+                                "path": "/reference/images/icon-image",
                                 "subitems": []
                             },
                             {
                                 "name": "arrow number",
-                                "path": "https://teknikio.github.io/docs/reference/images/arrow-number",
+                                "path": "/reference/images/arrow-number",
                                 "subitems": []
                             }
                         ]
                     },
                     {
                         "name": "Pins",
-                        "path": "https://teknikio.github.io/docs/reference/pins",
+                        "path": "/reference/pins",
                         "subitems": [
                             {
                                 "name": "digital read pin",
-                                "path": "https://teknikio.github.io/docs/reference/pins/digital-read-pin",
+                                "path": "/reference/pins/digital-read-pin",
                                 "subitems": []
                             },
                             {
                                 "name": "digital write pin",
-                                "path": "https://teknikio.github.io/docs/reference/pins/digital-write-pin",
+                                "path": "/reference/pins/digital-write-pin",
                                 "subitems": []
                             },
                             {
                                 "name": "analog read pin",
-                                "path": "https://teknikio.github.io/docs/reference/pins/analog-read-pin",
+                                "path": "/reference/pins/analog-read-pin",
                                 "subitems": []
                             },
                             {
                                 "name": "analog write pin",
-                                "path": "https://teknikio.github.io/docs/reference/pins/analog-write-pin",
+                                "path": "/reference/pins/analog-write-pin",
                                 "subitems": []
                             },
                             {
                                 "name": "analog set period",
-                                "path": "https://teknikio.github.io/docs/reference/pins/analog-set-period",
+                                "path": "/reference/pins/analog-set-period",
                                 "subitems": []
                             },
                             {
                                 "name": "map",
-                                "path": "https://teknikio.github.io/docs/reference/pins/map",
+                                "path": "/reference/pins/map",
                                 "subitems": []
                             },
                             {
                                 "name": "on pulsed",
-                                "path": "https://teknikio.github.io/docs/reference/pins/on-pulsed",
+                                "path": "/reference/pins/on-pulsed",
                                 "subitems": []
                             },
                             {
                                 "name": "pulse duration",
-                                "path": "https://teknikio.github.io/docs/reference/pins/pulse-duration",
+                                "path": "/reference/pins/pulse-duration",
                                 "subitems": []
                             },
                             {
                                 "name": "pulse in",
-                                "path": "https://teknikio.github.io/docs/reference/pins/pulse-in",
+                                "path": "/reference/pins/pulse-in",
                                 "subitems": []
                             },
                             {
                                 "name": "servo write pin",
-                                "path": "https://teknikio.github.io/docs/reference/pins/servo-write-pin",
+                                "path": "/reference/pins/servo-write-pin",
                                 "subitems": []
                             },
                             {
                                 "name": "servo set pulse",
-                                "path": "https://teknikio.github.io/docs/reference/pins/servo-set-pulse",
+                                "path": "/reference/pins/servo-set-pulse",
                                 "subitems": []
                             },
                             {
                                 "name": "i2c read number",
-                                "path": "https://teknikio.github.io/docs/reference/pins/i2c-read-number",
+                                "path": "/reference/pins/i2c-read-number",
                                 "subitems": []
                             },
                             {
                                 "name": "i2c write number",
-                                "path": "https://teknikio.github.io/docs/reference/pins/i2c-write-number",
+                                "path": "/reference/pins/i2c-write-number",
                                 "subitems": []
                             },
                             {
                                 "name": "set pull",
-                                "path": "https://teknikio.github.io/docs/reference/pins/set-pull",
+                                "path": "/reference/pins/set-pull",
                                 "subitems": []
                             },
                             {
                                 "name": "analog pitch",
-                                "path": "https://teknikio.github.io/docs/reference/pins/analog-pitch",
+                                "path": "/reference/pins/analog-pitch",
                                 "subitems": []
                             },
                             {
                                 "name": "analog set pitch pin",
-                                "path": "https://teknikio.github.io/docs/reference/pins/analog-set-pitch-pin",
+                                "path": "/reference/pins/analog-set-pitch-pin",
                                 "subitems": []
                             },
                             {
                                 "name": "spi write",
-                                "path": "https://teknikio.github.io/docs/reference/pins/spi-write",
+                                "path": "/reference/pins/spi-write",
                                 "subitems": []
                             },
                             {
                                 "name": "spi Pins",
-                                "path": "https://teknikio.github.io/docs/reference/pins/spi-pins",
+                                "path": "/reference/pins/spi-pins",
                                 "subitems": []
                             },
                             {
                                 "name": "spi format",
-                                "path": "https://teknikio.github.io/docs/reference/pins/spi-format",
+                                "path": "/reference/pins/spi-format",
                                 "subitems": []
                             },
                             {
                                 "name": "spi frequency",
-                                "path": "https://teknikio.github.io/docs/reference/pins/spi-frequency",
+                                "path": "/reference/pins/spi-frequency",
                                 "subitems": []
                             }
                         ]
                     },
                     {
                         "name": "Serial",
-                        "path": "https://teknikio.github.io/docs/reference/serial",
+                        "path": "/reference/serial",
                         "subitems": [
                             {
                                 "name": "write line",
-                                "path": "https://teknikio.github.io/docs/reference/serial/write-line",
+                                "path": "/reference/serial/write-line",
                                 "subitems": []
                             },
                             {
                                 "name": "write number",
-                                "path": "https://teknikio.github.io/docs/reference/serial/write-number",
+                                "path": "/reference/serial/write-number",
                                 "subitems": []
                             },
                             {
                                 "name": "write value",
-                                "path": "https://teknikio.github.io/docs/reference/serial/write-value",
+                                "path": "/reference/serial/write-value",
                                 "subitems": []
                             },
                             {
                                 "name": "write string",
-                                "path": "https://teknikio.github.io/docs/reference/serial/write-string",
+                                "path": "/reference/serial/write-string",
                                 "subitems": []
                             },
                             {
                                 "name": "read until",
-                                "path": "https://teknikio.github.io/docs/reference/serial/read-until",
+                                "path": "/reference/serial/read-until",
                                 "subitems": []
                             },
                             {
                                 "name": "read line",
-                                "path": "https://teknikio.github.io/docs/reference/serial/read-line",
+                                "path": "/reference/serial/read-line",
                                 "subitems": []
                             },
                             {
                                 "name": "read string",
-                                "path": "https://teknikio.github.io/docs/reference/serial/read-string",
+                                "path": "/reference/serial/read-string",
                                 "subitems": []
                             },
                             {
                                 "name": "on data received",
-                                "path": "https://teknikio.github.io/docs/reference/serial/on-data-received",
+                                "path": "/reference/serial/on-data-received",
                                 "subitems": []
                             },
                             {
                                 "name": "redirect",
-                                "path": "https://teknikio.github.io/docs/reference/serial/redirect",
+                                "path": "/reference/serial/redirect",
                                 "subitems": []
                             },
                             {
                                 "name": "redirect to usb",
-                                "path": "https://teknikio.github.io/docs/reference/serial/redirect-to-usb",
+                                "path": "/reference/serial/redirect-to-usb",
                                 "subitems": []
                             },
                             {
                                 "name": "write buffer",
-                                "path": "https://teknikio.github.io/docs/reference/serial/write-buffer",
+                                "path": "/reference/serial/write-buffer",
                                 "subitems": []
                             },
                             {
                                 "name": "read buffer",
-                                "path": "https://teknikio.github.io/docs/reference/serial/read-buffer",
+                                "path": "/reference/serial/read-buffer",
                                 "subitems": []
                             }
                         ]
                     },
                     {
                         "name": "Control",
-                        "path": "https://teknikio.github.io/docs/reference/control",
+                        "path": "/reference/control",
                         "subitems": [
                             {
                                 "name": "in background",
-                                "path": "https://teknikio.github.io/docs/reference/control/in-background",
+                                "path": "/reference/control/in-background",
                                 "subitems": []
                             },
                             {
                                 "name": "reset",
-                                "path": "https://teknikio.github.io/docs/reference/control/reset",
+                                "path": "/reference/control/reset",
                                 "subitems": []
                             },
                             {
                                 "name": "wait micros",
-                                "path": "https://teknikio.github.io/docs/reference/control/wait-micros",
+                                "path": "/reference/control/wait-micros",
                                 "subitems": []
                             },
                             {
                                 "name": "on event",
-                                "path": "https://teknikio.github.io/docs/reference/control/on-event",
+                                "path": "/reference/control/on-event",
                                 "subitems": []
                             },
                             {
                                 "name": "raise event",
-                                "path": "https://teknikio.github.io/docs/reference/control/raise-event",
+                                "path": "/reference/control/raise-event",
                                 "subitems": []
                             },
                             {
                                 "name": "event timestamp",
-                                "path": "https://teknikio.github.io/docs/reference/control/event-timestamp",
+                                "path": "/reference/control/event-timestamp",
                                 "subitems": []
                             },
                             {
                                 "name": "event value",
-                                "path": "https://teknikio.github.io/docs/reference/control/event-value",
+                                "path": "/reference/control/event-value",
                                 "subitems": []
                             }
                         ]
                     },
                     {
                         "name": "Bluetooth",
-                        "path": "https://teknikio.github.io/docs/reference/bluetooth",
+                        "path": "/reference/bluetooth",
                         "subitems": [
                             {
                                 "name": "About",
-                                "path": "https://teknikio.github.io/docs/reference/bluetooth/about-bluetooth",
+                                "path": "/reference/bluetooth/about-bluetooth",
                                 "subitems": []
                             },
                             {
                                 "name": "Pairing",
-                                "path": "https://teknikio.github.io/docs/reference/bluetooth/bluetooth-pairing",
+                                "path": "/reference/bluetooth/bluetooth-pairing",
                                 "subitems": []
                             },
                             {
                                 "name": "on bluetooth connected",
-                                "path": "https://teknikio.github.io/docs/reference/bluetooth/on-bluetooth-connected",
+                                "path": "/reference/bluetooth/on-bluetooth-connected",
                                 "subitems": []
                             },
                             {
                                 "name": "on bluetooth disconnected",
-                                "path": "https://teknikio.github.io/docs/reference/bluetooth/on-bluetooth-disconnected",
+                                "path": "/reference/bluetooth/on-bluetooth-disconnected",
                                 "subitems": []
                             },
                             {
                                 "name": "start accelerometer service",
-                                "path": "https://teknikio.github.io/docs/reference/bluetooth/start-accelerometer-service",
+                                "path": "/reference/bluetooth/start-accelerometer-service",
                                 "subitems": []
                             },
                             {
                                 "name": "start button service",
-                                "path": "https://teknikio.github.io/docs/reference/bluetooth/start-button-service",
+                                "path": "/reference/bluetooth/start-button-service",
                                 "subitems": []
                             },
                             {
                                 "name": "start io pin service",
-                                "path": "https://teknikio.github.io/docs/reference/bluetooth/start-io-pin-service",
+                                "path": "/reference/bluetooth/start-io-pin-service",
                                 "subitems": []
                             },
                             {
                                 "name": "start led service",
-                                "path": "https://teknikio.github.io/docs/reference/bluetooth/start-led-service",
+                                "path": "/reference/bluetooth/start-led-service",
                                 "subitems": []
                             },
                             {
                                 "name": "start magnetometer service",
-                                "path": "https://teknikio.github.io/docs/reference/bluetooth/start-magnetometer-service",
+                                "path": "/reference/bluetooth/start-magnetometer-service",
                                 "subitems": []
                             },
                             {
                                 "name": "start temperature service",
-                                "path": "https://teknikio.github.io/docs/reference/bluetooth/start-temperature-service",
+                                "path": "/reference/bluetooth/start-temperature-service",
                                 "subitems": []
                             },
                             {
                                 "name": "start uart service",
-                                "path": "https://teknikio.github.io/docs/reference/bluetooth/start-uart-service",
+                                "path": "/reference/bluetooth/start-uart-service",
                                 "subitems": []
                             },
                             {
                                 "name": "uart read until",
-                                "path": "https://teknikio.github.io/docs/reference/bluetooth/uart-read-until",
+                                "path": "/reference/bluetooth/uart-read-until",
                                 "subitems": []
                             },
                             {
                                 "name": "uart write string",
-                                "path": "https://teknikio.github.io/docs/reference/bluetooth/uart-write-string",
+                                "path": "/reference/bluetooth/uart-write-string",
                                 "subitems": []
                             },
                             {
                                 "name": "uart write number",
-                                "path": "https://teknikio.github.io/docs/reference/bluetooth/uart-write-number",
+                                "path": "/reference/bluetooth/uart-write-number",
                                 "subitems": []
                             },
                             {
                                 "name": "uart write value",
-                                "path": "https://teknikio.github.io/docs/reference/bluetooth/uart-write-value",
+                                "path": "/reference/bluetooth/uart-write-value",
                                 "subitems": []
                             },
                             {
                                 "name": "advertise url",
-                                "path": "https://teknikio.github.io/docs/reference/bluetooth/advertise-url",
+                                "path": "/reference/bluetooth/advertise-url",
                                 "subitems": []
                             },
                             {
                                 "name": "stop advertising",
-                                "path": "https://teknikio.github.io/docs/reference/bluetooth/stop-advertising",
+                                "path": "/reference/bluetooth/stop-advertising",
                                 "subitems": []
                             },
                             {
                                 "name": "advertise uid",
-                                "path": "https://teknikio.github.io/docs/reference/bluetooth/advertise-uid",
+                                "path": "/reference/bluetooth/advertise-uid",
                                 "subitems": []
                             },
                             {
                                 "name": "advertise-uid-buffer",
-                                "path": "https://teknikio.github.io/docs/reference/bluetooth/advertise-uid-buffer",
+                                "path": "/reference/bluetooth/advertise-uid-buffer",
                                 "subitems": []
                             }
                         ]
                     },
                     {
                         "name": "Devices",
-                        "path": "https://teknikio.github.io/docs/reference/devices",
+                        "path": "/reference/devices",
                         "subitems": [
                             {
                                 "name": "tell camera to",
-                                "path": "https://teknikio.github.io/docs/reference/devices/tell-camera-to",
+                                "path": "/reference/devices/tell-camera-to",
                                 "subitems": []
                             },
                             {
                                 "name": "tell remote control to",
-                                "path": "https://teknikio.github.io/docs/reference/devices/tell-remote-control-to",
+                                "path": "/reference/devices/tell-remote-control-to",
                                 "subitems": []
                             },
                             {
                                 "name": "raise alert to",
-                                "path": "https://teknikio.github.io/docs/reference/devices/raise-alert-to",
+                                "path": "/reference/devices/raise-alert-to",
                                 "subitems": []
                             },
                             {
                                 "name": "on notified",
-                                "path": "https://teknikio.github.io/docs/reference/devices/on-notified",
+                                "path": "/reference/devices/on-notified",
                                 "subitems": []
                             },
                             {
                                 "name": "on gamepad button",
-                                "path": "https://teknikio.github.io/docs/reference/devices/on-gamepad-button",
+                                "path": "/reference/devices/on-gamepad-button",
                                 "subitems": []
                             },
                             {
                                 "name": "signal strength",
-                                "path": "https://teknikio.github.io/docs/reference/devices/signal-strength",
+                                "path": "/reference/devices/signal-strength",
                                 "subitems": []
                             },
                             {
                                 "name": "on signal strength changed",
-                                "path": "https://teknikio.github.io/docs/reference/devices/on-signal-strength-changed",
+                                "path": "/reference/devices/on-signal-strength-changed",
                                 "subitems": []
                             }
                         ]
@@ -1329,229 +1329,229 @@ var pxtTargetBundle = {
             },
             {
                 "name": "Program Blocks",
-                "path": "https://teknikio.github.io/docs/blocks",
+                "path": "/blocks",
                 "subitems": [
                     {
                         "name": "On Start",
-                        "path": "https://teknikio.github.io/docs/blocks/on-start",
+                        "path": "/blocks/on-start",
                         "subitems": []
                     },
                     {
                         "name": "Loops",
-                        "path": "https://teknikio.github.io/docs/blocks/loops",
+                        "path": "/blocks/loops",
                         "subitems": [
                             {
                                 "name": "repeat",
-                                "path": "https://teknikio.github.io/docs/blocks/loops/repeat",
+                                "path": "/blocks/loops/repeat",
                                 "subitems": []
                             },
                             {
                                 "name": "for",
-                                "path": "https://teknikio.github.io/docs/blocks/loops/for",
+                                "path": "/blocks/loops/for",
                                 "subitems": []
                             },
                             {
                                 "name": "while",
-                                "path": "https://teknikio.github.io/docs/blocks/loops/while",
+                                "path": "/blocks/loops/while",
                                 "subitems": []
                             },
                             {
                                 "name": "for of",
-                                "path": "https://teknikio.github.io/docs/blocks/loops/for-of",
+                                "path": "/blocks/loops/for-of",
                                 "subitems": []
                             }
                         ]
                     },
                     {
                         "name": "Logic",
-                        "path": "https://teknikio.github.io/docs/blocks/logic",
+                        "path": "/blocks/logic",
                         "subitems": [
                             {
                                 "name": "if",
-                                "path": "https://teknikio.github.io/docs/blocks/logic/if",
+                                "path": "/blocks/logic/if",
                                 "subitems": []
                             },
                             {
                                 "name": "Boolean",
-                                "path": "https://teknikio.github.io/docs/blocks/logic/boolean",
+                                "path": "/blocks/logic/boolean",
                                 "subitems": []
                             }
                         ]
                     },
                     {
                         "name": "Variables",
-                        "path": "https://teknikio.github.io/docs/blocks/variables",
+                        "path": "/blocks/variables",
                         "subitems": [
                             {
                                 "name": "assign",
-                                "path": "https://teknikio.github.io/docs/blocks/variables/assign",
+                                "path": "/blocks/variables/assign",
                                 "subitems": []
                             },
                             {
                                 "name": "change var",
-                                "path": "https://teknikio.github.io/docs/blocks/variables/change",
+                                "path": "/blocks/variables/change",
                                 "subitems": []
                             },
                             {
                                 "name": "var",
-                                "path": "https://teknikio.github.io/docs/blocks/variables/var",
+                                "path": "/blocks/variables/var",
                                 "subitems": []
                             }
                         ]
                     },
                     {
                         "name": "Math",
-                        "path": "https://teknikio.github.io/docs/blocks/math",
+                        "path": "/blocks/math",
                         "subitems": []
                     },
                     {
                         "name": "JavaScript blocks",
-                        "path": "https://teknikio.github.io/docs/blocks/javascript-blocks",
+                        "path": "/blocks/javascript-blocks",
                         "subitems": []
                     },
                     {
                         "name": "Custom blocks",
-                        "path": "https://teknikio.github.io/docs/blocks/custom",
+                        "path": "/blocks/custom",
                         "subitems": []
                     }
                 ]
             },
             {
                 "name": "Python",
-                "path": "https://teknikio.github.io/docs/python",
+                "path": "/python",
                 "subitems": [
                     {
                         "name": "Calling",
-                        "path": "https://teknikio.github.io/docs/python/call",
+                        "path": "/python/call",
                         "subitems": []
                     },
                     {
                         "name": "Sequencing",
-                        "path": "https://teknikio.github.io/docs/python/sequence",
+                        "path": "/python/sequence",
                         "subitems": []
                     },
                     {
                         "name": "Variables",
-                        "path": "https://teknikio.github.io/docs/python/variables",
+                        "path": "/python/variables",
                         "subitems": []
                     },
                     {
                         "name": "Operators",
-                        "path": "https://teknikio.github.io/docs/python/operators",
+                        "path": "/python/operators",
                         "subitems": []
                     },
                     {
                         "name": "Statements",
-                        "path": "https://teknikio.github.io/docs/python/statements",
+                        "path": "/python/statements",
                         "subitems": []
                     },
                     {
                         "name": "Functions",
-                        "path": "https://teknikio.github.io/docs/python/functions",
+                        "path": "/python/functions",
                         "subitems": []
                     },
                     {
                         "name": "Classes",
-                        "path": "https://teknikio.github.io/docs/python/classes",
+                        "path": "/python/classes",
                         "subitems": []
                     }
                 ]
             },
             {
                 "name": "JavaScript",
-                "path": "https://teknikio.github.io/docs/javascript",
+                "path": "/javascript",
                 "subitems": [
                     {
                         "name": "Calling",
-                        "path": "https://teknikio.github.io/docs/javascript/call",
+                        "path": "/javascript/call",
                         "subitems": []
                     },
                     {
                         "name": "Sequencing",
-                        "path": "https://teknikio.github.io/docs/javascript/sequence",
+                        "path": "/javascript/sequence",
                         "subitems": []
                     },
                     {
                         "name": "Variables",
-                        "path": "https://teknikio.github.io/docs/javascript/variables",
+                        "path": "/javascript/variables",
                         "subitems": []
                     },
                     {
                         "name": "Operators",
-                        "path": "https://teknikio.github.io/docs/javascript/operators",
+                        "path": "/javascript/operators",
                         "subitems": []
                     },
                     {
                         "name": "Statements",
-                        "path": "https://teknikio.github.io/docs/javascript/statements",
+                        "path": "/javascript/statements",
                         "subitems": []
                     },
                     {
                         "name": "Functions",
-                        "path": "https://teknikio.github.io/docs/javascript/functions",
+                        "path": "/javascript/functions",
                         "subitems": []
                     },
                     {
                         "name": "Types",
-                        "path": "https://teknikio.github.io/docs/javascript/types",
+                        "path": "/javascript/types",
                         "subitems": []
                     },
                     {
                         "name": "Classes",
-                        "path": "https://teknikio.github.io/docs/javascript/classes",
+                        "path": "/javascript/classes",
                         "subitems": []
                     },
                     {
                         "name": "Interfaces",
-                        "path": "https://teknikio.github.io/docs/javascript/interfaces",
+                        "path": "/javascript/interfaces",
                         "subitems": []
                     },
                     {
                         "name": "Generics",
-                        "path": "https://teknikio.github.io/docs/javascript/generics",
+                        "path": "/javascript/generics",
                         "subitems": []
                     }
                 ]
             },
             {
                 "name": "Types",
-                "path": "https://teknikio.github.io/docs/types",
+                "path": "/types",
                 "subitems": [
                     {
                         "name": "Number",
-                        "path": "https://teknikio.github.io/docs/types/number",
+                        "path": "/types/number",
                         "subitems": []
                     },
                     {
                         "name": "String",
-                        "path": "https://teknikio.github.io/docs/types/string",
+                        "path": "/types/string",
                         "subitems": []
                     },
                     {
                         "name": "Boolean",
-                        "path": "https://teknikio.github.io/docs/types/boolean",
+                        "path": "/types/boolean",
                         "subitems": []
                     },
                     {
                         "name": "Array",
-                        "path": "https://teknikio.github.io/docs/types/array",
+                        "path": "/types/array",
                         "subitems": []
                     },
                     {
                         "name": "Function",
-                        "path": "https://teknikio.github.io/docs/types/function",
+                        "path": "/types/function",
                         "subitems": []
                     }
                 ]
             },
             {
                 "name": "FAQ",
-                "path": "https://teknikio.github.io/docs/faq",
+                "path": "/faq",
                 "subitems": []
             },
             {
                 "name": "Support",
-                "path": "https://teknikio.github.io/docs/support",
+                "path": "/support",
                 "subitems": []
             }
         ],
@@ -1889,8 +1889,8 @@ var pxtTargetBundle = {
             "README.md": "# Teknikio Bluebird\n\nThe Teknikio Bluebird library.\n\ndocker build -t pxt-teknikio .\ndocker run -p 3232:3232 pxt-teknikio:latest\n",
             "board.json": "{\n  \"driveDisplayName\": \"\",\n  \"visual\": {\n    \"image\": \"pkg://board.svg\",\n    \"useCrocClips\": true,\n    \"width\": 400,\n    \"height\": 300,\n    \"pinDist\": 10,\n    \"pinBlocks\": [{\n            \"x\": 103,\n            \"y\": 20,\n            \"labels\": [\"A2\"]\n        },\n        {\n            \"x\": 236,\n            \"y\": 34,\n            \"labels\": [\"A1\"]\n        },\n        {\n            \"x\": 171,\n            \"y\": 17,\n            \"labels\": [\"3.3VOUT\"]\n        },\n        {\n            \"x\": 172,\n            \"y\": 271,\n            \"labels\": [\"3.3VOUT\"]\n        },\n        {\n            \"x\": 207.5,\n            \"y\": 161.5,\n            \"labels\": [\"3.3VIN\"]\n        },\n        {\n            \"x\": 207.5,\n            \"y\": 148.3,\n            \"labels\": [\"D14\"]\n        },\n        {\n            \"x\": 207.5,\n            \"y\": 136.5,\n            \"labels\": [\"D13\"]\n        },\n        {\n            \"x\": 207.5,\n            \"y\": 123.5,\n            \"labels\": [\"D12\"]\n        },\n        {\n            \"x\": 207.5,\n            \"y\": 111.5,\n            \"labels\": [\"D11\"]\n        },\n        {\n            \"x\": 207.5,\n            \"y\": 99,\n            \"labels\": [\"D10\"]\n        },\n        {\n            \"x\": 219,\n            \"y\": 161.5,\n            \"labels\": [\"GND\"]\n        },\n        {\n            \"x\": 219,\n            \"y\": 148.3,\n            \"labels\": [\"D9\"]\n        },\n        {\n            \"x\": 219.4,\n            \"y\": 136.5,\n            \"labels\": [\"D8\"]\n        },\n        {\n            \"x\": 219,\n            \"y\": 123.5,\n            \"labels\": [\"D7\"]\n        },\n        {\n            \"x\": 219,\n            \"y\": 111.5,\n            \"labels\": [\"A6\"]\n        },\n        {\n            \"x\": 219,\n            \"y\": 99,\n            \"labels\": [\"A5\"]\n        },\n        {\n            \"x\": 238,\n            \"y\": 254,\n            \"labels\": [\"A4\"]\n        },\n        {\n            \"x\": 104,\n            \"y\": 270,\n            \"labels\": [\"A3\"]\n        },\n        {\n            \"x\": 51,\n            \"y\": 242,\n            \"labels\": [\"GND\"]\n        },\n        {\n            \"x\": 49,\n            \"y\": 51,\n            \"labels\": [\"GND1\"]\n        },\n        {\n            \"x\": 300,\n            \"y\": 222,\n            \"labels\": [\"GND2\"]\n        },\n        {\n            \"x\": 299,\n            \"y\": 65,\n            \"labels\": [\"GND3\"]\n        }\n    ],\n    \"leds\": [{\n            \"x\": 227,\n            \"y\": 173,\n            \"w\": 14.748972445423053,\n            \"h\": 14.748815073829538,\n            \"color\": \"neopixel\",\n            \"label\": \"NEOPIXEL\"\n        }\n    ],\n    \"touchPads\": [{\n            \"x\": 342,\n            \"y\": 38,\n            \"w\": 40,\n            \"h\": 40,\n            \"label\": \"A1\"\n        },\n        {\n            \"x\": 142,\n            \"y\": 15,\n            \"w\": 40,\n            \"h\": 40,\n            \"label\": \"A2\"\n        },\n        {\n            \"x\": 144,\n            \"y\": 391,\n            \"w\": 40,\n            \"h\": 40,\n            \"label\": \"A3\"\n        },\n        {\n            \"x\": 344,\n            \"y\": 368,\n            \"w\": 40,\n            \"h\": 40,\n            \"label\": \"A4\"\n        },\n        {\n            \"x\": 69,\n            \"y\": 228,\n            \"w\": 40,\n            \"h\": 40,\n            \"label\": \"GND\"\n        },\n        {\n            \"x\": 67,\n            \"y\": 62,\n            \"w\": 40,\n            \"h\": 40,\n            \"label\": \"GND1\"\n        },\n        {\n            \"x\": 288,\n            \"y\": 211,\n            \"w\": 40,\n            \"h\": 40,\n            \"label\": \"GND2\"\n        },\n        {\n            \"x\": 288,\n            \"y\": 78,\n            \"w\": 40,\n            \"h\": 40,\n            \"label\": \"GND3\"\n        },\n        {\n            \"x\": 175,\n            \"y\": 33,\n            \"w\": 40,\n            \"h\": 40,\n            \"label\": \"3.3VOUT\"\n        },\n        {\n            \"x\": 176,\n            \"y\": 255,\n            \"w\": 40,\n            \"h\": 40,\n            \"label\": \"3.3VOUT\"\n        }\n    ],\n    \"buttons\": []\n  },\n  \"gpioPinMap\": {\n        \"A1\": \"A1\",\n        \"A2\": \"A2\",\n        \"A3\": \"A3\",\n        \"A4\": \"A4\",\n        \"A5\": \"A5\",\n        \"A6\": \"A6\",\n        \"D7\": \"D7\",\n        \"D8\": \"D8\",\n        \"D9\": \"D9\",\n        \"D10\": \"D10\",\n        \"D12\": \"D11\",\n        \"D13\": \"D12\",\n        \"D14\": \"D13\",\n        \"GND1\": \"GND1\",\n        \"GND2\": \"GND2\",\n        \"GND3\": \"GND3\",\n        \"GND\": \"GND\",\n        \"NEOPIXEL\" : \"NEOPIXEL\"\n  },\n  \"spiPins\": {\n  },\n  \"groundPins\": [\n      \"GND\",\n      \"GND1\"\n  ],\n  \"threeVoltPins\": [\"3.3VIN\", \"3.3VOUT\"],\n  \"onboardComponents\": [\n    \"lightsensor\",\n    \"accelerometer\",\n    \"neopixel\"\n  ],\n  \"marginWhenBreadboarding\": [\n    0,\n    0,\n    80,\n    0\n  ]\n}\n",
             "board.svg": "<svg width=\"684\" height=\"509\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(90 341.5 342)\" fill=\"none\" fill-rule=\"evenodd\"><path d=\"M234 682.67c-12.36-1.77-24.83-3.12-37.1-5.51-59.65-11.33-111-37.41-148.19-87.71-23.59-32-36.27-68.69-43.13-107.56-12.75-72.75-1.73-142.69 25.8-210.44C58.3 205 95.09 144.56 137.07 87c11.85-16.31 24.32-32.11 36.58-48.11 16.53-21.33 38.25-33.38 64.54-37.64 1.14-.31 2.39-.83 3.74-1.25h23.8c5.51 1.35 11.12 2.49 16.52 4 18.5 5.3 34.19 15.17 46.46 30.14 39.59 48.53 76.38 99.14 107.14 153.8C464.33 238.5 488.33 291.3 500 349c13.2 65.47 9.77 130-14.75 192.36-25.36 64.44-73 105-137.49 126.37a289.14 289.14 0 01-68.39 13.62 28.48 28.48 0 00-5.71 1.24c-13.23.08-26.43.08-39.66.08z\" fill=\"#036\" fill-rule=\"nonzero\"/><path fill=\"#F9F9F9\" fill-rule=\"nonzero\" d=\"M314.89 525.64v-14.76l1.45-.41 9.87 10.53 1-.1v-9.77h1.46v15.38L317.8 515h-1.15v10.39zM312.39 518.37c0 6.75-2.7 9.14-9.35 8.21a8.5 8.5 0 01-3.74-1.58c-2.39-1.77-3.74-11.23-1.15-12.58a20.91 20.91 0 019.77-1.66c1.67.1 3.22 2.7 4.37 4.26.52.98.1 2.2.1 3.35zm-2.7-2.19c.21-2.28-.42-3.94-4.47-3.94-3.74 0-6.34.62-6.34 3.74 0 1.76-.83 3.74.21 5.19a9.9 9.9 0 006 3.64c3.43.52 4.78-1.46 4.67-3.85\"/><path d=\"M67.13 300.44l.11-.1-.11.1z\" fill=\"#000\" fill-rule=\"nonzero\"/><path fill=\"#666\" fill-rule=\"nonzero\" d=\"M306.26 290.36h46.56v35.85h-46.56z\"/><path d=\"M330.37 303.87c2.91 0 5.82-.1 8.73 0 1.56.1 4 4.78 3.43 6.65-.94 2.7-1.66 5.92-6 5.09-1.66-.31-3.53.94-5.19.83a52.22 52.22 0 01-11.34-1.55c-1-.21-1.56-2.81-2-4.47-.72-2.81 2.5-6.55 5.41-6.65 2.28-.11 4.57-.21 7-.42l-.04.52z\" fill=\"#000\" fill-rule=\"nonzero\"/><path d=\"M273 659.39c.1 5.4.2 10.18.1 15a3.31 3.31 0 01-2.39 2.29c-3.904.33-7.826.4-11.74.21a3.74 3.74 0 01-2.39-2.6 70.44 70.44 0 01-.32-11.43c0-1 1.25-2.91 2.08-3 4.66-.47 9.47-.47 14.66-.47zM250.56 659.91c.21 5.2.21 9.77.52 14.24.1 2.28-.83 3-3 3-4.26 0-8.52 0-13.4.1-.21-5.09-.42-10.08-.52-15.06 0-.73.93-2.08 1.45-2.08 4.97-.11 9.96-.11 14.95-.2zM276.75 677c-.21-5.09-.32-9.87-.52-14.65-.11-2 .93-2.39 2.7-2.6a50.94 50.94 0 007.9-1.35c4.36-1 9.35.73 11.64 4.57 2.18 3.64 1.76 7.28-.52 10.81-2.5 3.95-5.93 5.09-10.92 4a42.4 42.4 0 00-5.09-.72 40 40 0 00-5.19-.06zm6.75-6.23a6.913 6.913 0 0012.89-5 7 7 0 00-8.94-4 6.82 6.82 0 00-3.95 8.94v.06zM229.57 677.26c-4.37.84-8.42 1.67-12.58 2.19a9 9 0 01-9.77-5.1 9.7 9.7 0 011.15-11.35c2.91-3.43 6.44-3.95 10.7-2.91 2.49.62 5.09.41 7.59.83 1 .21 2.7 1.25 2.7 2 .21 4.78.1 9.56.21 14.34zm-11-1.35a6.67 6.67 0 003.43-8.83V667a6.4 6.4 0 00-8.31-4 .78.78 0 00-.42.2 7.37 7.37 0 00-4.05 9.15 7.48 7.48 0 009.35 3.53v.03zM228 646.09a7.38 7.38 0 01-9.67-4.06.1.1 0 00-.1-.1 7.92 7.92 0 014.15-10.18c3.64-1.35 8.63.72 10 4.15a8.13 8.13 0 01-4.38 10.19zm-.63-2a5.78 5.78 0 002.81-7.17 5.35 5.35 0 00-7-2.91 5.45 5.45 0 004.15 10.08h.04zM283.29 644.94a7.8 7.8 0 01-10-3.94c-1.67-3.64.41-8.84 4.05-10.4a8.34 8.34 0 0110 4.16 7.71 7.71 0 01-4 10.08l-.05.1zm-8-5c.94 2.39 4.68 4 7.17 3.11 2.49-.89 4.06-4.78 3.12-7.17a5.47 5.47 0 00-7.27-2.7 5.65 5.65 0 00-3 6.76h-.02zM264.9 645.88c0-4.68-.21-9 0-13.3.1-.83 2.08-1.56 3.22-2.29.62.94 1.66 1.77 1.66 2.7.21 3.947.21 7.903 0 11.85 0 .83-1 2.39-1.56 2.39-1.14 0-2.28-.83-3.32-1.35zM248.69 646.4l-5.41.1c0-4.57-.1-9 .21-13.3.1-.83 1.77-1.77 2.91-2.18.31-.11 1.87 1.25 1.87 2.08.21 4.26.21 8.62.42 13.3zM236.53 647.75c-.31-5.4-.63-9.77-.63-14.13 0-.83 1.46-2.08 2.5-2.5.52-.21 2.29 1 2.29 1.77a83.75 83.75 0 01.2 12.47c0 .73-2.39 1.35-4.36 2.39zM255.55 645.88c-3.75 1.25-5.41.62-5.1-3.22.21-2.6-.52-5.41-.1-8 .21-1.46 1.87-2.6 2.91-3.95.73 1.24 1.87 2.49 2 3.84.31 3.768.406 7.55.29 11.33zM257.83 646c0-4.78-.1-9.35-.21-13.92 4.58-1.25 4.78-1.15 5 3.22.11 2.29.21 4.68.21 7 .3 4.1.09 4.31-5 3.7z\" fill=\"#D8D7D6\" fill-rule=\"nonzero\"/><path d=\"M227.38 644.11c-2.39 1-6.13-.52-7.17-2.91a5.76 5.76 0 012.91-7.06 5.34 5.34 0 017 2.91 5.63 5.63 0 01-2.74 7.06zM275.29 640a5.49 5.49 0 0110.19-4.06c.93 2.39-.73 6.24-3.12 7.17-2.39.93-6.13-.76-7.07-3.11z\" fill=\"#D8D7D6\" fill-rule=\"nonzero\"/><path d=\"M285.06 634.14c-30.76-.32-32.42 1.35-62.67 1.14-.1 15.48-14.86 26.71-15 42.09l91.24.83c.15-15.48-13.63-28.68-13.57-44.06z\" fill=\"#CCC\" fill-rule=\"nonzero\"/><text fill=\"#FFF\" font-family=\"Helvetica\" font-size=\"10.39\"><tspan x=\"311.48\" y=\"286.31\">RESET</tspan></text><path d=\"M177.92 129.59l-2.08 3L125 103.2l2.08-2.91 32 18.49c-2.08-1.76-4.16-3.63-6.24-5.61-20.58-18.7-21-19.12-19.43-21.93l2.8-3.53c.73-1.45-1.76 3.74 19 22.66 10.96 10.08 22.5 19.12 22.71 19.22z\" fill=\"#FFF\" fill-rule=\"nonzero\"/><path d=\"M176.05 133.33c-.11-.1-13.83-5.61-27.86-10.08-26.81-8.62-34.19-3.63-34.19-3.53l2-3.53c1.66-2.81 6.86-5 33.36 3.53 14.13 4.57 27.95 10.08 28.06 10.18l-1.37 3.43z\" fill=\"#FFF\" fill-rule=\"nonzero\"/><text fill=\"#FFF\" font-family=\"Helvetica\" font-size=\"10.39\"><tspan x=\"295.51\" y=\"506.63\">P</tspan></text><text fill=\"#FFF\" font-family=\"Helvetica\" font-size=\"10.39\"><tspan x=\"302.98\" y=\"506.63\">O</tspan></text><text fill=\"#FFF\" font-family=\"Helvetica\" font-size=\"10.39\"><tspan x=\"311.48\" y=\"506.63\">W</tspan></text><text fill=\"#FFF\" font-family=\"Helvetica\" font-size=\"10.39\"><tspan x=\"322.87\" y=\"506.63\">ER</tspan></text><path d=\"M245.67 412c0-3.95.11-8 0-11.95 0-2.29.94-3.22 3.33-3.12 8.21.1 16.52.1 24.73 0 2.5 0 3.64.83 3.54 3.33-.11 8-.11 15.9 0 23.9 0 2.39-1 3.43-3.54 3.43H249c-2.29 0-3.33-.94-3.33-3.22V412z\" fill=\"#000\" fill-rule=\"nonzero\"/><path fill=\"#CCC\" fill-rule=\"nonzero\" d=\"M205.14 95.25h97.84v111.31h-97.84z\"/><path d=\"M148.35 397.45c2.6.1 5.19.1 7.69 0 3-.32 3.84 2 3.84 3.74a3.54 3.54 0 01-3.12 3.74h-.83a203.954 203.954 0 00-15.9 0c-2.91.1-3.11-1.46-3.11-3.74 0-2.28.31-3.85 3.22-3.64 2.91.21 5.51-.1 8.21-.1zM148.14 420.93c2.49 0 5-.1 7.38.11 1.14.1 3.22.72 3.32 1.35a9.91 9.91 0 01-.62 5.19c-.21.52-2.29.32-3.53.32-4.58 0-9.15-.32-13.72-.11-3.54.21-4.47-1.45-3.85-4.36a3.65 3.65 0 012.5-2.29 78.8 78.8 0 018.52-.21z\" fill=\"#D8D7D6\" fill-rule=\"nonzero\"/><path fill=\"#000\" fill-rule=\"nonzero\" d=\"M138.16 399.94h20.68v23.69h-20.68z\"/><path d=\"M227.64 434.41h-2.48c-3.64 0-3.64 0-3.64-3.35 0-3.78 0-3.78 4.08-3.78h6.4c1.75 0 2.19.58 2.33 2.18.3 4.95.3 4.95-6.69 4.95zM183.66 435.87h-2.77c-4.08 0-4.08 0-4.08-4.08 0-4.51 0-4.51 4.66-4.51 2.33 0 4.81.14 7.14 0 1.89 0 2.47.72 2.62 2.62.15 5.97.15 5.97-7.57 5.97zM183.66 410h-2.77c-4.08 0-4.08 0-4.08-4.08 0-4.52 0-4.52 4.66-4.52h7.14c1.89 0 2.47.73 2.62 2.63.15 5.97.15 5.97-7.57 5.97zM227.64 408.78h-2.77c-4.08 0-4.08 0-4.08-4.08 0-4.51 0-4.51 4.66-4.51h7.14c1.89 0 2.47.73 2.62 2.62.14 5.97.14 5.97-7.57 5.97z\" fill=\"#D8D7D6\" fill-rule=\"nonzero\"/><path fill=\"#FCFCFC\" fill-rule=\"nonzero\" d=\"M180.89 392.18h48.49v47.62h-48.49z\"/><path d=\"M455.49 226.45c10.08 20.16 19.64 42.09 25.67 63.39-1.14.21-20.78 7.9-21.51 8-10.08 1.56-20.16 0-30.24-2.6-8.63-2.28-17.88-8.62-19.75-19-.2-9.67 2.29-15.9 7.69-22.87 9.15-11 11.23-11.84 20.06-18.81 5.82-3.12 17.04-7.49 18.08-8.11zm-34 47.18c1 7.17 9.67 12.47 17.56 10.6 7.38-1.77 12.37-10.39 10.5-17.77-2.2-7.668-9.978-12.307-17.77-10.6-7.28 1.87-13 10.7-10.29 17.77zM497 341.91c4.88 21.92 8.83 45.62 9.56 67.75-1.14-.1-22.14 2.6-22.76 2.6-10.08-.83-19.54-4.88-28.68-9.87-7.9-4.26-15.28-12.68-14.55-23.18 2.08-9.35 6-14.86 13-20.36 11.53-8.53 13.82-8.84 24.11-13.41 6.18-1.77 18.14-3.22 19.32-3.53zm-44.48 37.51c-.73 7.17 6.34 14.45 14.44 14.55 7.59.1 14.55-7.07 14.45-14.76-.1-7.69-7-14.65-14.65-14.55-7.49.11-15.18 7.28-14.24 14.76zM24.42 289.74c7.07-21.31 15.9-43.65 26.71-63 .94.73 20.26 9.14 20.89 9.46 8.21 5.92 14.24 14.23 19.54 23.17 4.57 7.69 6.54 18.81.52 27.33-6.66 7-12.79 9.56-21.62 10.71-14.24 1.35-16.32.41-27.54-.94-6.34-1.54-17.35-6.42-18.5-6.73zm57.37-9.36c4.36-5.82 2-15.69-4.89-19.85-6.44-4-16.11-1.45-20 5.2-3.89 6.65-1.51 16.11 5.1 20.06 6.49 3.74 16.67 1.56 19.79-5.41zM392.31 119.51c13.61 17.88 27 37.83 36.89 57.68-1.14.41-19 11.64-19.64 11.85-9.56 3.42-19.85 3.74-30.14 3-8.94-.62-19.12-5.2-22.86-15.07-2-9.35-.62-16 3.32-23.9 7-12.47 8.84-13.72 16.32-22.24 4.99-4.25 15.17-10.59 16.11-11.32zm-24.74 52.69c2.29 6.86 11.75 10.5 19.13 7.17 7-3.12 10.28-12.47 7-19.43-3.537-7.182-12.105-10.3-19.43-7.07-6.7 3.13-10.64 12.78-6.7 19.33zM503.82 470c-3.74 22.14-9 45.52-16.84 66.31-1-.52-21.41-5.93-22-6.24-9-4.68-16.32-12-22.86-19.95-5.61-7-9.36-17.57-4.68-27 5.51-7.9 11.22-11.43 19.64-13.93 13.93-3.43 16.11-2.91 27.33-3.32 6.59.95 18.26 3.96 19.41 4.13zm-55.29 18c-3.43 6.44.42 15.8 7.9 18.91 7.07 2.91 16.11-1 18.91-8.2 2.8-7.2-.93-16.11-8.1-19-7-2.81-16.73.93-18.71 8.31V488z\" fill=\"#999\" fill-rule=\"nonzero\"/><path d=\"M363.43 161.9c-1.45-12 11-23.27 23.11-23.27 12.723.38 22.977 10.55 23.46 23.27 0 12.28-11.15 23.43-23.43 23.27-13.12-.17-24.43-11.79-23.14-23.27z\" stroke=\"#CCC\" stroke-width=\"2\" fill=\"#FFF\" fill-rule=\"nonzero\"/><path d=\"M28.89 347.62c10.29 4.68 12.47 5 24.11 13.41 6.86 5.51 10.91 10.91 13 20.37.73 10.49-6.65 18.91-14.55 23.17-9.14 5-18.6 8.94-28.68 9.87-.73.11-21.62-2.7-22.76-2.59.72-22.14 4.56-45.85 9.55-67.76 1.14.21 13.1 1.76 19.33 3.53zm10.91 19.12c-7.99.19-14.451 6.564-14.75 14.55-.11 7.69 6.85 14.86 14.44 14.76 8.11-.1 15.17-7.28 14.45-14.55.93-7.5-6.76-14.65-14.14-14.76zM21.93 468.17c11.22.42 13.51-.1 27.33 3.33 8.42 2.49 14.24 6 19.64 13.92 4.57 9.46.94 20.06-4.68 27-6.54 8-13.82 15.28-22.86 20-.62.31-21 5.71-22 6.23-7.69-20.78-13-44.17-16.84-66.3 1.22-.35 12.86-3.45 19.41-4.18zm17.25 13.72c-7.264 3.23-10.803 11.52-8.11 19 2.81 7.17 12 11.22 18.92 8.21 7.48-3.12 11.32-12.47 7.89-18.92-2-7.38-11.74-11.12-18.7-8.31v.02zM462.46 582.59a151.28 151.28 0 01-18.92 25.67c-8.42 9.46-18.39 16.63-27.54 24.63-.62-1-16-15.38-16.42-16-5.71-8.42-8.62-18.19-10.6-28.38-1.66-8.83.21-19.84 8.73-26 8.63-4.36 15.28-4.67 23.9-2.8 13.93 3.53 15.59 5.09 25.67 10.08 5.51 3.86 14.24 12.07 15.18 12.8zm-57.16-10.5c-6 3.95-7.17 14-2.08 20.37 4.78 5.93 14.65 6.76 20.58 1.87 6.037-5.23 6.917-14.275 2-20.57-4.88-5.82-15.28-7.17-20.47-1.67h-.03zM63.7 574.9c10.09-5 11.75-6.55 25.67-10.08 8.63-1.87 15.38-1.46 23.91 2.91 8.52 6 10.39 17.15 8.73 26-2 10.18-4.89 20.06-10.6 28.37-.42.52-13.1 14.24-13.83 15.28-9-7.9-21.82-16.11-30.13-25.46-7.07-7.9-13.72-16.11-20.06-24.22.93-.85 10.91-9.06 16.31-12.8zm21.72 3.74c-4.892 6.306-4.015 15.334 2 20.58 5.92 5 15.8 4.16 20.58-1.87 5.09-6.34 3.94-16.42-2.08-20.37-5.3-5.41-15.7-4.05-20.48 1.66h-.02zM130.22 131.05c7.48 8.52 9.35 9.77 16.31 22.24 3.95 7.89 5.3 14.44 3.33 23.9-3.74 9.77-13.93 14.44-22.87 15.07-10.39.72-20.57.41-30.13-3-.63-.2-18.5-11.43-19.65-11.84 9.88-19.85 23.28-39.7 36.9-57.68.83.71 11.01 7.05 16.11 11.31zM132 153c-7-3.22-16.11.11-19.43 7.07-3.32 6.96 0 16.32 7 19.43 7.38 3.33 16.84-.31 19.23-7.17 3.89-6.47-.06-16.13-6.8-19.33z\" fill=\"#999\" fill-rule=\"nonzero\"/><path d=\"M291.09 496.44a.33.33 0 00.31-.31.27.27 0 00-.31-.31\" stroke=\"#5B5B5B\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\".5\"/><path d=\"M291.09 496.13v37.41\" stroke=\"#5B5B5B\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\".99\"/><path d=\"M290.78 533.54c0 .21.2.31.41.31.21 0 .21-.1.31-.31M291.4 496.13c0-.21-.1-.42-.31-.42s-.42.11-.42.31v.11\" stroke=\"#5B5B5B\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\".5\"/><path d=\"M291.09 534c.21 0 .31-.2.31-.41 0-.21-.1-.21-.31-.31\" stroke=\"#5B5B5B\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\".5\"/><path d=\"M362.38 398.75a.27.27 0 00.31-.31.27.27 0 00-.31-.31M296.08 398.13a.31.31 0 000 .62\" fill=\"#D8D7D6\" fill-rule=\"nonzero\"/><path d=\"M362.59 398.13a.35.35 0 00-.52.1.31.31 0 000 .42M296.39 398.44a.28.28 0 00-.31-.31.28.28 0 00-.32.31M343.05 419.85a5.43 5.43 0 005.4-5.41 5.41 5.41 0 00-10.81 0 5.51 5.51 0 005.41 5.41M370.69 407.17a.374.374 0 00.62-.42.1.1 0 00-.1-.1M349.28 452a.28.28 0 00.32.31.28.28 0 00.31-.31\" fill=\"#D8D7D6\" fill-rule=\"nonzero\"/><path d=\"M371.21 407a.27.27 0 00-.31-.31.27.27 0 00-.31.31M296.08 451.54a.29.29 0 00-.32.32.28.28 0 00.32.31M349.6 452.27a.31.31 0 000-.62\" fill=\"#D8D7D6\" fill-rule=\"nonzero\"/><path d=\"M295.76 452a.28.28 0 00.32.31.28.28 0 00.31-.31\" fill=\"#D8D7D6\" fill-rule=\"nonzero\"/><g fill=\"#D8D7D6\" fill-rule=\"nonzero\"><path d=\"M334.53 433.77h-14.24v-9.45z\"/><path d=\"M334.53 433.77l-14.24-9.45h14.24z\"/></g><g fill=\"#D8D7D6\" fill-rule=\"nonzero\"><path d=\"M382.85 433.77h-14.13v-9.45z\"/><path d=\"M382.85 433.77l-14.13-9.45h14.13z\"/></g><g fill=\"#D8D7D6\" fill-rule=\"nonzero\"><path d=\"M334.53 401.56h-14.24v-9.46z\"/><path d=\"M334.53 401.56l-14.24-9.46h14.24z\"/></g><path d=\"M266.77 362.57l-2.7.93c-1.25 5.3 1 8.42 5.82 10.08.72.21 1.87-.52 3.32-.93l4.47 8.31-10.29.31 1.15-3.53-7.07-2.6c-.73 2.39-5.51 2.7-3.12 7.07l-9.87 2.91c1-4.26 1.66-7.28 2.39-10.6l3.12 1.35c1.66-1.67 3.74-3.12 5.09-5.2 1.35-2.08-.52-6.44-2.81-8.1l4.58-7.8 5.92 7.8z\" stroke=\"#FFF\" fill=\"#FFF\" fill-rule=\"nonzero\"/><path d=\"M207.33 374h-2.81c0 3.12-.1 6.14 0 9 .1 2.18-.83 2.7-3 2.07V374l-5.1-.2v-3.43c2.39.2 2.39-1.35 2.39-3.12a35.52 35.52 0 01.42-5.72c.62-4.47 3.53-7.17 7.27-7 3.74.17 7.07 3.85 7.38 7.9.11 1.45-.1 2.91 0 4.36.1 1.45-.72 3 1.46 3.85.41.1.21 1.87.31 3.12l-5 .2c-.41 2.5-.73 4.89-1.14 7.28-.69.1-1.39.1-2.08 0l-.1-7.24z\" fill=\"#F9F9F9\" fill-rule=\"nonzero\"/><path d=\"M321.54 160.87a.28.28 0 00.31-.31h0a.28.28 0 00-.31-.31\" stroke=\"#5B5B5B\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\".5\"/><path d=\"M191.43 257.31a.33.33 0 00.31-.31h0a.34.34 0 00-.31-.31h0\" stroke=\"#5B5B5B\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\".4\"/><path d=\"M294.83 621.15a.28.28 0 00.31-.32.28.28 0 00-.31-.31h0\" stroke=\"#900\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\".5\"/><path d=\"M295.14 620.83a.28.28 0 00-.31-.31h0a.28.28 0 00-.31.31\" stroke=\"#900\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\".5\"/><path d=\"M241.62 432.11a.1.1 0 00.1.1l.11-.1\" stroke=\"#900\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\".2\"/><path d=\"M241.83 432a.1.1 0 00-.11.1l.11.1h0M278.72 400.62a.1.1 0 00-.1-.1h0a.1.1 0 00-.11.1\" stroke=\"#900\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\".2\"/><path d=\"M197.56 46.35c0-.1-.11-.1-.11-.1l-.1.1h0\" stroke=\"#5B5B5B\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\".2\"/><path d=\"M197.56 46.25c0-.11-.11-.11-.21 0-.1.11-.1.1 0 .2M202.65 46.45v-.2h-.21M202.34 53.94a.1.1 0 00.1.1l.11-.1\" stroke=\"#5B5B5B\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\".2\"/><path d=\"M202.65 46.35a.1.1 0 00-.1-.1l-.11.1h0M208.16 46.45c.1 0 .1-.1.1-.2s-.1-.11-.21-.11h0M208 53.94a.1.1 0 00.1.1l.11-.1\" stroke=\"#5B5B5B\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\".2\"/><path d=\"M208.16 46.35c0-.1-.11-.1-.11-.1l-.1.1h0M210.13 54.14c.11 0 .11 0 .11-.1h0c0-.1-.11-.1-.11-.1h0\" stroke=\"#5B5B5B\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\".2\"/><path d=\"M215.33 81.58a.21.21 0 10-.42 0M215.33 81.58a.4.4 0 00-.31-.1.36.36 0 00-.11.31M219.59 81.58a.23.23 0 00-.21-.21h0a.23.23 0 00-.21.21h0M270.72 81.58a.23.23 0 00-.21-.21h0a.23.23 0 00-.21.21h0M295.66 81.58a.23.23 0 00-.21-.21h0a.23.23 0 00-.21.21h0\" stroke=\"#900\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\".3\"/><circle stroke=\"#FFF\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" cx=\"83.99\" cy=\"391.68\" r=\"14.24\"/><text fill=\"#FFF\" font-family=\"Helvetica\" font-size=\"24.94\"><tspan x=\"76.76\" y=\"400.26\">+</tspan></text><circle stroke=\"#FFF\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" cx=\"351.57\" cy=\"199.12\" r=\"14.24\"/><circle stroke=\"#FFF\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" cx=\"157.34\" cy=\"199.12\" r=\"14.24\"/><circle stroke=\"#FFF\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" cx=\"392.1\" cy=\"287.6\" r=\"14.24\"/><circle stroke=\"#FFF\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" cx=\"112.13\" cy=\"286.31\" r=\"14.24\"/><text fill=\"#FFF\" font-family=\"Helvetica\" font-size=\"24.94\"><tspan x=\"347.62\" y=\"206.74\">-</tspan></text><text fill=\"#FFF\" font-family=\"Helvetica\" font-size=\"24.94\"><tspan x=\"153.19\" y=\"206.33\">-</tspan></text><text fill=\"#FFF\" font-family=\"Helvetica\" font-size=\"18.71\"><tspan x=\"108.78\" y=\"292.43\">1</tspan></text><text fill=\"#FFF\" font-family=\"Helvetica\" font-size=\"18.71\"><tspan x=\"385.33\" y=\"293.84\">4</tspan></text><circle stroke=\"#FFF\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" cx=\"134.16\" cy=\"555.57\" r=\"14.24\"/><text fill=\"#FFF\" font-family=\"Helvetica\" font-size=\"24.94\"><tspan x=\"130.03\" y=\"562.72\">-</tspan></text><circle stroke=\"#FFF\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" cx=\"377.35\" cy=\"555.57\" r=\"14.24\"/><text fill=\"#FFF\" font-family=\"Helvetica\" font-size=\"24.94\"><tspan x=\"373.21\" y=\"562.72\">-</tspan></text><circle stroke=\"#FFF\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" cx=\"91.19\" cy=\"482.31\" r=\"14.24\"/><text fill=\"#FFF\" font-family=\"Helvetica\" font-size=\"18.71\"><tspan x=\"86.66\" y=\"487.45\">2</tspan></text><circle stroke=\"#FFF\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" cx=\"416.73\" cy=\"482.31\" r=\"14.24\"/><text fill=\"#FFF\" font-family=\"Helvetica\" font-size=\"18.71\"><tspan x=\"411.35\" y=\"489.43\">3</tspan></text><circle fill=\"#FFF\" fill-rule=\"nonzero\" cx=\"175.11\" cy=\"300.13\" r=\"8.63\"/><circle stroke=\"#FFF\" fill=\"#D8D7D6\" fill-rule=\"nonzero\" cx=\"175.11\" cy=\"300.13\" r=\"8.63\"/><circle fill=\"#FFF\" fill-rule=\"nonzero\" cx=\"175.01\" cy=\"320.08\" r=\"8.63\"/><circle stroke=\"#FFF\" fill=\"#D8D7D6\" fill-rule=\"nonzero\" cx=\"175.01\" cy=\"320.08\" r=\"8.63\"/><path fill=\"#FFF\" fill-rule=\"nonzero\" d=\"M148.5 361.62h12.06v22.55H148.5z\"/><circle stroke=\"#FFF\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" cx=\"148.5\" cy=\"372.46\" r=\"10.29\"/><circle stroke=\"#FFF\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" cx=\"419.54\" cy=\"391.68\" r=\"14.24\"/><text fill=\"#FFF\" font-family=\"Helvetica\" font-size=\"24.94\"><tspan x=\"412.33\" y=\"399.25\">+</tspan></text><path fill=\"#666\" fill-rule=\"nonzero\" d=\"M202.34 493.94h89.79v40.63h-89.79z\"/><path d=\"M280.7 498.1v.83c0 9.67-.32 9.88-21.31 8.63-2.39-.11-6.23-1.87-6.34-2.91a52 52 0 01-.1-13.3c.1-.94 2.6-2.5 4.26-2.6 6.34-.31 12.78-.31 19.12 0 1.56.1 3.74 1.66 4.05 2.6.63 2.18.21 4.47.32 6.75zM375.78 437.62v-39.8l-7.58-7.59h-39.91v47.39z\" fill=\"#000\" fill-rule=\"nonzero\"/><path d=\"M179.79 298.15c-.52-2.59-3.85-4.15-6.34-3.32a5.13 5.13 0 003.11 9.77h0c2.6-.94 4.27-4.16 3.23-6.45zM179.79 318.52c-.52-2.59-3.85-4.15-6.34-3.32a5.13 5.13 0 003.11 9.77c2.6-.97 4.27-4.16 3.23-6.45z\" stroke=\"#FFF\" fill=\"#D8D7D6\" fill-rule=\"nonzero\"/><g transform=\"translate(187 291)\" fill=\"#D8D7D6\" fill-rule=\"nonzero\" stroke=\"#FFF\"><circle cx=\"95.05\" cy=\"29.08\" r=\"8.63\"/><path d=\"M99.83 27.52c-.52-2.59-3.85-4.15-6.34-3.32a5.13 5.13 0 103.12 9.77h0c2.7-.97 4.26-4.16 3.22-6.45z\"/><circle cx=\"95.05\" cy=\"9.13\" r=\"8.63\"/><path d=\"M99.83 7.57c-.52-2.6-3.85-4.16-6.34-3.33a5.13 5.13 0 103.12 9.77h0c2.7-.93 4.26-4.15 3.22-6.44z\"/><circle cx=\"72.5\" cy=\"8.92\" r=\"8.63\"/><path d=\"M77.28 7.47c-.52-2.6-3.85-4.16-6.34-3.33a5.13 5.13 0 003.11 9.77h0c2.6-1.04 4.26-4.16 3.23-6.44z\"/><circle cx=\"72.7\" cy=\"29.08\" r=\"8.63\"/><path d=\"M77.48 27.52c-.52-2.59-3.84-4.15-6.23-3.32a5.13 5.13 0 103.12 9.77c2.49-.97 4.05-4.16 3.11-6.45z\"/><circle cx=\"52.02\" cy=\"8.71\" r=\"8.63\"/><path d=\"M56.7 7.15c-.52-2.59-3.85-4.15-6.24-3.32a5.13 5.13 0 003.12 9.77h0c2.6-.94 4.16-4.16 3.12-6.45z\"/><circle cx=\"51.92\" cy=\"29.08\" r=\"8.63\"/><path d=\"M56.7 27.52c-.52-2.59-3.85-4.15-6.24-3.32a5.13 5.13 0 003.12 9.77c2.5-.97 4.16-4.16 3.12-6.45z\"/><circle cx=\"29.99\" cy=\"9.13\" r=\"8.63\"/><path d=\"M34.77 7.57c-.52-2.6-3.84-4.16-6.23-3.33a5.13 5.13 0 103.11 9.77c2.5-.93 4.06-4.15 3.12-6.44z\"/><circle cx=\"29.89\" cy=\"29.08\" r=\"8.63\"/><path d=\"M34.67 27.52c-.52-2.59-3.85-4.15-6.24-3.32a5.13 5.13 0 003.12 9.77c2.6-.97 4.16-4.16 3.12-6.45z\"/><circle cx=\"9.31\" cy=\"9.13\" r=\"8.63\"/><path d=\"M14.09 7.57c-.52-2.6-3.84-4.16-6.34-3.33a5.13 5.13 0 003.12 9.77h0c2.7-.93 4.26-4.15 3.22-6.44z\"/><circle cx=\"9\" cy=\"29.08\" r=\"8.63\"/><path d=\"M13.67 27.52c-.51-2.59-3.84-4.15-6.23-3.32a5.13 5.13 0 103.12 9.77c2.6-.97 4.15-4.16 3.11-6.45z\"/></g><path d=\"M119.1 222.08l-1.67 3.22-54.14-22.75 1.77-3.23 34.08 14.35-6.86-4.67c-22.76-16-23.28-16.32-22-19.23l2.39-3.84c.63-1.56-1.35 4 21.72 20.16 11.92 8.41 24.5 15.99 24.71 15.99z\" fill=\"#FFF\" fill-rule=\"nonzero\"/><path d=\"M117.74 226c-.1 0-14.44-3.74-28.89-6.44-27.64-5.09-34.39.73-34.39.83l1.45-3.74c1.25-3 6.24-5.82 33.57-.73 14.65 2.7 29 6.44 29.1 6.55l-.84 3.53zM73.37 325.38l-.94 3.54-57.67-11 1-3.53 36.37 7c-2.6-1-5.09-2.08-7.69-3.22-25.53-10.97-26.15-11.17-25.53-14.3l1.46-4.26c.21-1.66-.42 4.16 25.46 15.17 13.51 5.82 27.44 10.6 27.54 10.6z\" fill=\"#FFF\" fill-rule=\"nonzero\"/><path d=\"M73 329.54c-.1 0-14.86-.73-29.61-.31-28.17.72-33.47 7.79-33.47 8l.73-4c.62-3.22 4.88-7 32.74-7.69 14.86-.42 29.72.31 29.82.31l-.21 3.69zM59 431.28l.31 3.64-58 9-.21-3.64 36.58-5.72c-2.7-.1-5.5-.2-8.31-.41C1.66 432.53 1 432.53.52 429.41v-4.47c-.31-1.66.94 4.05 29.1 5.72 14.55.83 29.3.62 29.38.62z\" fill=\"#FFF\" fill-rule=\"nonzero\"/><path d=\"M60 435.33c-.1 0-14.23 4.37-27.95 9.67-26.33 10.08-28.93 18.6-28.83 18.7l-.73-3.95c-.52-3.22 2.29-8.21 28.27-18.18 13.82-5.3 28.06-9.67 28.16-9.77l1.08 3.53zM81.06 529.9l1.77 3.22-48.95 32.53-1.66-3.22L63 542c-2.5 1-5.09 2.08-7.8 3.11-25.87 10.09-26.39 10.4-28.26 7.69l-1.87-4c-.94-1.35 2.59 3.22 28.78-7 13.8-5.45 27.15-11.8 27.21-11.9z\" fill=\"#FFF\" fill-rule=\"nonzero\"/><path d=\"M83.66 533.12c-.11.11-11.12 9.88-21.41 20.48-19.64 20.16-18.39 29-18.29 29.09l-2.29-3.32c-1.76-2.7-1.35-8.42 18-28.37 10.33-10.71 21.39-20.58 21.49-20.68l2.5 2.8zM156 603.58l3.32 1.46-18.18 55.8-3.33-1.45 11.43-35.23c-1.35 2.39-2.7 4.78-4.15 7.27-14 24-14.24 24.53-17.36 23.59l-4-2c-1.56-.42 4 .94 18.18-23.38 7.53-12.64 13.97-25.85 14.09-26.06z\" fill=\"#FFF\" fill-rule=\"nonzero\"/><path d=\"M159.94 604.62c0 .11-2.6 14.66-4.06 29.31-2.8 28 3.54 34.19 3.75 34.19l-3.85-1.12c-3.12-1-6.24-5.72-3.53-33.36 1.45-14.76 4.05-29.41 4.05-29.52l3.64.5zM350.64 111.3c20.78-18.91 18.29-24.11 19-22.65l2.81 3.53C374 95 373.6 95.4 353 114.11l-6.24 5.61 32-18.5 2.08 2.91-50.82 29.41-2.08-3c.14-.22 11.78-9.26 22.7-19.24z\" fill=\"#FFF\" fill-rule=\"nonzero\"/><path d=\"M328.4 130.73c.1-.1 13.92-5.61 28.06-10.18 26.5-8.52 31.8-6.34 33.35-3.53l2 3.53c0-.1-7.38-5.09-34.19 3.53-14 4.47-27.75 10-27.85 10.08l-1.37-3.43zM411.64 206.91c23.07-16.21 21.09-21.62 21.72-20.16l2.39 3.84c1.25 3 .73 3.33-22 19.23-2.293 1.66-4.58 3.22-6.86 4.68l34.08-14.34 1.77 3.22-54.14 22.76-1.67-3.23s12.65-7.58 24.71-16z\" fill=\"#FFF\" fill-rule=\"nonzero\"/><path d=\"M387.22 223.33c.1 0 14.55-3.85 29.09-6.55 27.34-5.09 32.32-2.28 33.57.73l1.46 3.74c0-.1-6.65-6-34.4-.83-14.45 2.7-28.79 6.44-28.89 6.44l-.83-3.53zM460.07 315.61c25.87-11 25.15-16.83 25.46-15.17l1.47 4.26c.63 3.22 0 3.33-25.56 14.24-2.6 1.14-5.2 2.18-7.69 3.22l36.37-7 1 3.53-57.68 11-.93-3.54c.12.06 14.05-4.72 27.56-10.54z\" fill=\"#FFF\" fill-rule=\"nonzero\"/><path d=\"M432.73 326.73c.11 0 15-.72 29.83-.31 27.85.73 32.11 4.47 32.74 7.69l.72 3.95c0-.1-5.3-7.27-33.46-8-14.76-.42-29.41.31-29.62.31l-.21-3.64zM476.38 431.38c28.06-1.66 29.41-7.38 29.1-5.71v4.47c-.52 3.22-1.14 3.22-28.89 4.78-2.81.2-5.61.31-8.31.41l36.58 5.72-.21 3.64-58-9.05.35-3.64c0 .11 14.73.32 29.38-.62z\" fill=\"#FFF\" fill-rule=\"nonzero\"/><path d=\"M447 432.63c.11 0 14.34 4.36 28.16 9.77 26 10 28.69 15 28.27 18.19l-.73 3.94c.11-.1-2.59-8.62-28.78-18.7-13.72-5.3-27.85-9.56-28-9.67l1.08-3.53zM363.83 630.6c14.24 24.32 19.85 22.87 18.17 23.4l-4 2c-3.12.94-3.33.42-17.36-23.59-1.45-2.39-2.8-4.88-4.15-7.27l11.43 35.22-3.33 1.46L346.37 606l3.33-1.45c.3.07 6.76 13.27 14.13 26.05z\" fill=\"#FFF\" fill-rule=\"nonzero\"/><path d=\"M349.49 604.83c0 .1 2.6 14.76 4.06 29.51 2.8 27.65-.42 32.43-3.54 33.36l-3.84 1.15c.1 0 6.54-6.13 3.74-34.19-1.46-14.66-4-29.21-4.06-29.31l3.64-.52z\" fill=\"#FFF\" fill-rule=\"nonzero\"/><path d=\"M417.27 268.57c-1.46-12 11-23.27 23.11-23.27 12.713.39 22.952 10.56 23.43 23.27 0 12.28-11.15 23.43-23.43 23.27-13.09-.17-24.38-11.84-23.11-23.27zM446.34 380.48c-1.45-12 11-23.27 23.11-23.27 12.713.39 22.952 10.56 23.43 23.27 0 12.28-11.15 23.43-23.43 23.27-13.09-.16-24.4-11.75-23.11-23.27zM443.68 496.55c-1.46-11.95 11-23.26 23.1-23.26 12.714.38 22.957 10.55 23.43 23.26 0 12.28-11.15 23.43-23.43 23.27-13.09-.16-24.4-11.82-23.1-23.27zM395.52 587.79c-1.45-12 11-23.27 23.11-23.27 12.711.395 22.947 10.562 23.43 23.27 0 12.28-11.15 23.43-23.43 23.27-13.09-.16-24.4-11.8-23.11-23.27zM117.81 187.43c-12.28.17-23.43-11-23.43-23.26.478-12.71 10.717-22.88 23.43-23.27 12.12 0 24.56 11.31 23.11 23.27 1.29 11.47-10.02 23.1-23.11 23.26zM64 294.1c-12.28.16-23.43-11-23.43-23.27.483-12.708 10.719-22.875 23.43-23.27 12.12 0 24.57 11.31 23.11 23.27C88.37 282.3 77.06 293.94 64 294.1zM34.9 406c-12.28.16-23.43-11-23.43-23.27.478-12.707 10.72-22.87 23.43-23.25 12.12 0 24.56 11.31 23.11 23.27C59.3 394.22 48 405.85 34.9 406zM37.57 522.09c-12.28.16-23.43-11-23.43-23.27.468-12.714 10.713-22.89 23.43-23.27 12.12 0 24.56 11.31 23.1 23.27 1.33 11.47-10.01 23.1-23.1 23.27zM93.72 614.32c-12.28.16-23.43-11-23.43-23.27.483-12.708 10.719-22.875 23.43-23.27 12.12 0 24.56 11.31 23.11 23.27 1.29 11.48-10.02 23.11-23.11 23.27z\" stroke=\"#CCC\" stroke-width=\"2\" fill=\"#FFF\" fill-rule=\"nonzero\"/><path d=\"M204.11 435.37c-10.22.13-19.5-9.15-19.5-19.37.4-10.578 8.92-19.041 19.5-19.37 10.09 0 20.45 9.42 19.24 19.37 1.07 9.55-8.35 19.23-19.24 19.37z\" fill=\"#D8D7D6\" fill-rule=\"nonzero\"/><path fill=\"#999\" fill-rule=\"nonzero\" d=\"M212.02 103.22h83.04v94.47h-83.04z\"/><path d=\"M221.62 79.64c-12.28.17-23.43-11-23.43-23.26.468-12.714 10.713-22.89 23.43-23.27 12.12 0 24.56 11.31 23.1 23.27 1.28 11.47-10.01 23.1-23.1 23.26zM290.93 79.64c-12.28.17-23.43-11-23.43-23.26.468-12.714 10.713-22.89 23.43-23.27 12.12 0 24.56 11.31 23.11 23.27 1.29 11.47-10.04 23.1-23.11 23.26z\" fill=\"#FFF\" fill-rule=\"nonzero\"/><path d=\"M301.56 357.59c.62-.003 1.23.155 1.77.46.509.285.93.704 1.22 1.21A3.58 3.58 0 01305 361v12.02a5.28 5.28 0 11-6.84 0V361a3.58 3.58 0 01.45-1.77 3.22 3.22 0 011.22-1.21 3.562 3.562 0 011.73-.43h0z\" stroke=\"#F9F9F9\" stroke-width=\"2\"/></g></svg>\n",
-            "config.ts": "namespace config {\n    export const PIN_NEOPIXEL = DAL.P1_15;\n    export const NUM_NEOPIXELS = 1;\n\n    export const PIN_A0 = DAL.P1_14; // no AIN\n    export const PIN_A1 = DAL.P0_29;\n    export const PIN_A2 = DAL.P0_31;\n    export const PIN_A3 = DAL.P0_2;\n    export const PIN_A4 = DAL.P0_3;\n    export const PIN_A5 = DAL.P0_5;\n    export const PIN_A6 = DAL.P0_4;\n\n    export const PIN_D7 = DAL.P0_6;\n    export const PIN_D8 = DAL.P1_9;\n    export const PIN_D9 = DAL.P0_12;\n    export const PIN_D11 = DAL.P0_7;\n    export const PIN_D12 = DAL.P0_8;\n    export const PIN_D13 = DAL.P1_8;\n    export const PIN_D14 = DAL.P0_11;\n    export const PIN_D15 = DAL.P0_30;\n\n    export const PIN_A7 = DAL.P0_13;\n    export const PIN_A8 = DAL.P0_15;\n\n    export const PIN_FLASH_MISO = PIN_D11;\n    export const PIN_FLASH_MOSI = PIN_D12;\n    export const PIN_FLASH_SCK = PIN_D13;\n\n    export const PIN_LIGHT = DAL.P0_28;\n    export const PIN_JACK_SND = PIN_A0;\n    export const PIN_RX = PIN_D7;\n    export const PIN_TX = PIN_D8;\n\n    export const ACCELEROMETER_TYPE = DAL.ACCELEROMETER_TYPE_MPU6050;\n    export const PIN_ACCELEROMETER_SCL = DAL.P1_11;\n    export const PIN_ACCELEROMETER_SDA = DAL.P1_12;\n    export const PIN_ACCELEROMETER_INT = DAL.P1_10;\n}\n",
-            "device.d.ts": "declare namespace pins {\n\n    //% fixedInstance shim=pxt::getPin(PIN_A1)\n    const A1: AnalogInPin;\n    //% fixedInstance shim=pxt::getPin(PIN_A2)\n    const A2: AnalogInPin;\n    //% fixedInstance shim=pxt::getPin(PIN_A3)\n    const A3: PwmPin;\n    //% fixedInstance shim=pxt::getPin(PIN_A4)\n    const A4: PwmPin;\n    //% fixedInstance shim=pxt::getPin(PIN_A5)\n    const A5: PwmPin;\n    //% fixedInstance shim=pxt::getPin(PIN_A6)\n    const A6: PwmPin;\n\n    //% fixedInstance shim=pxt::getPin(PIN_A7)\n    const SRVO1: PwmPin;\n    //% fixedInstance shim=pxt::getPin(PIN_A8)\n    const SRVO2: PwmPin;\n\n    //% fixedInstance shim=pxt::getPin(PIN_D7)\n    const D7: DigitalInOutPin;\n    //% fixedInstance shim=pxt::getPin(PIN_D8)\n    const D8: DigitalInOutPin;\n    //% fixedInstance shim=pxt::getPin(PIN_D9)\n    const D9: DigitalInOutPin;\n    //% fixedInstance shim=pxt::getPin(PIN_D10)\n    const D10: DigitalInOutPin;\n    //% fixedInstance shim=pxt::getPin(PIN_D12)\n    const D12: DigitalInOutPin;\n    //% fixedInstance shim=pxt::getPin(PIN_D13)\n    const D13: DigitalInOutPin;\n    //% fixedInstance shim=pxt::getPin(PIN_D14)\n    const D14: DigitalInOutPin;\n    //% fixedInstance shim=pxt::getPin(PIN_D15)\n    const LIGHT_ENABLE: DigitalInOutPin;\n    //% fixedInstance shim=pxt::getPin(PIN_LIGHT)\n    const LIGHT: AnalogInPin;\n\n    //% fixedInstance shim=pxt::getPin(PIN_NEOPIXEL)\n    const NEOPIXEL: DigitalInOutPin;\n\n}\n\ndeclare namespace rgb {\n\n}\n\ndeclare namespace sensors {\n\n}\n",
+            "config.ts": "namespace config {\n    export const PIN_NEOPIXEL = DAL.P1_15;\n    export const NUM_NEOPIXELS = 1;\n\n    export const PIN_A0 = DAL.P1_14; // no AIN\n    export const PIN_A1 = DAL.P0_29;\n    export const PIN_A2 = DAL.P0_31;\n    export const PIN_A3 = DAL.P0_2;\n    export const PIN_A4 = DAL.P0_3;\n    export const PIN_A5 = DAL.P0_5;\n    export const PIN_A6 = DAL.P0_4;\n\n    export const PIN_D7 = DAL.P0_6;\n    export const PIN_D8 = DAL.P1_9;\n    export const PIN_D9 = DAL.P0_12;\n    export const PIN_D11 = DAL.P0_7;\n    export const PIN_D12 = DAL.P0_8;\n    export const PIN_D13 = DAL.P1_8;\n    export const PIN_D14 = DAL.P0_11;\n    export const PIN_D15 = DAL.P0_30;\n\n    export const PIN_FLASH_MISO = PIN_D11;\n    export const PIN_FLASH_MOSI = PIN_D12;\n    export const PIN_FLASH_SCK = PIN_D13;\n\n    export const PIN_LIGHT = DAL.P0_28;\n    export const PIN_JACK_SND = PIN_A0;\n    export const PIN_RX = PIN_D7;\n    export const PIN_TX = PIN_D8;\n\n    export const ACCELEROMETER_TYPE = DAL.ACCELEROMETER_TYPE_MPU6050;\n    export const PIN_ACCELEROMETER_SCL = DAL.P1_11;\n    export const PIN_ACCELEROMETER_SDA = DAL.P1_12;\n    export const PIN_ACCELEROMETER_INT = DAL.P1_10;\n}\n",
+            "device.d.ts": "declare namespace pins {\n\n    //% fixedInstance shim=pxt::getPin(PIN_A1)\n    const A1: AnalogInPin;\n    //% fixedInstance shim=pxt::getPin(PIN_A2)\n    const A2: AnalogInPin;\n    //% fixedInstance shim=pxt::getPin(PIN_A3)\n    const A3: PwmPin;\n    //% fixedInstance shim=pxt::getPin(PIN_A4)\n    const A4: PwmPin;\n    //% fixedInstance shim=pxt::getPin(PIN_A5)\n    const A5: PwmPin;\n    //% fixedInstance shim=pxt::getPin(PIN_A6)\n    const A6: PwmPin;\n\n    //% fixedInstance shim=pxt::getPin(PIN_D7)\n    const D7: DigitalInOutPin;\n    //% fixedInstance shim=pxt::getPin(PIN_D8)\n    const D8: DigitalInOutPin;\n    //% fixedInstance shim=pxt::getPin(PIN_D9)\n    const D9: DigitalInOutPin;\n    //% fixedInstance shim=pxt::getPin(PIN_D10)\n    const D10: DigitalInOutPin;\n    //% fixedInstance shim=pxt::getPin(PIN_D12)\n    const D12: DigitalInOutPin;\n    //% fixedInstance shim=pxt::getPin(PIN_D13)\n    const D13: DigitalInOutPin;\n    //% fixedInstance shim=pxt::getPin(PIN_D14)\n    const D14: DigitalInOutPin;\n    //% fixedInstance shim=pxt::getPin(PIN_D15)\n    const LIGHT_ENABLE: DigitalInOutPin;\n    //% fixedInstance shim=pxt::getPin(PIN_LIGHT)\n    const LIGHT: AnalogInPin;\n\n    //% fixedInstance shim=pxt::getPin(PIN_NEOPIXEL)\n    const NEOPIXEL: DigitalInOutPin;\n\n}\n\ndeclare namespace rgb {\n\n}\n\ndeclare namespace sensors {\n\n}\n",
             "ns.ts": "\n//% color=\"#d65cd6\"\nnamespace input {\n}\n\n//% color=\"#F55D3E\"\nnamespace music {\n\n}\n\n//% color=\"#00b295\"\nnamespace control {\n\n}\n\n//% color=\"#EF2D56\" advanced=false\nnamespace pins {\n\n}\n\n//% color=\"#006E90\"\nnamespace serial {\n\n}\n\n//% color=\"#40bf4a\"\nnamespace loops {\n\n}\n",
             "pxt.json": "{\n    \"name\": \"teknikio-bluebird\",\n    \"description\": \"Support for Teknikio Bluebird - beta\",\n    \"dependencies\": {\n        \"core---nrf52\": \"*\",\n        \"mixer---nrf52\": \"*\",\n        \"pulse\": \"*\",\n        \"jacdac\": \"*\",\n        \"accelerometer\": \"*\",\n        \"lightsensor\": \"*\",\n        \"serial\": \"*\"\n    },\n    \"files\": [\n        \"README.md\",\n        \"device.d.ts\",\n        \"config.ts\",\n        \"ns.ts\",\n        \"board.json\",\n        \"board.svg\"\n    ],\n    \"public\": true,\n    \"targetVersions\": {\n        \"target\": \"1.5.10\"\n    },\n    \"features\": [\n        \"uf2\",\n        \"pina0\",\n        \"serial\",\n        \"pina1\",\n        \"music\",\n        \"pinled\",\n        \"jacdac\",\n        \"neopixel\",\n        \"accelerometer\"\n    ]\n}\n"
         },
@@ -36030,20 +36030,6 @@ var pxtTargetBundle = {
                             "fixedInstance": "true"
                         }
                     },
-                    "pins.SRVO1": {
-                        "kind": 4,
-                        "retType": "PwmPin",
-                        "attributes": {
-                            "fixedInstance": "true"
-                        }
-                    },
-                    "pins.SRVO2": {
-                        "kind": 4,
-                        "retType": "PwmPin",
-                        "attributes": {
-                            "fixedInstance": "true"
-                        }
-                    },
                     "pins.D7": {
                         "kind": 4,
                         "retType": "DigitalInOutPin",
@@ -36194,14 +36180,6 @@ var pxtTargetBundle = {
                         "kind": 4,
                         "retType": "DAL.DEVICE_ID_JACDAC"
                     },
-                    "config.PIN_A7": {
-                        "kind": 4,
-                        "retType": "DAL.DEVICE_ID_GESTURE"
-                    },
-                    "config.PIN_A8": {
-                        "kind": 4,
-                        "retType": "DAL.JD_SERIAL_MAX_SERVICE_NUMBER"
-                    },
                     "config.PIN_FLASH_MISO": {
                         "kind": 4,
                         "retType": "DAL.JD_SERVICE_CLASS_BUTTON"
@@ -36248,7 +36226,7 @@ var pxtTargetBundle = {
                     }
                 }
             },
-            "sha": "20fb412378084310b2075777dab5a2bbb6c3bdf187a94959b2c798be2d53d1ee"
+            "sha": "894916059d758ec018cb31db5074f0785c82cab9e5028f9d732cae14a4db4d81"
         },
         "libs/core---nrf52": {
             "apis": {
@@ -43216,7 +43194,7 @@ var pxtTargetBundle = {
                     }
                 }
             },
-            "sha": "f9eb87ab249fc4c2952180bc714960bea4a59820bda79d8b0614b9ce72f6b1ac"
+            "sha": "7f9d070d490799b31905afcf5829c98d61d7def0365d36b626481620025db869"
         }
     }
 }
