@@ -10,17 +10,17 @@ If you’re feeling stuck, check out our demo projects below. The following proj
 [
     {
         "name": "Siren",
-        "url": "/docs/demos/siren",
+        "url": "/demos/siren",
         "imageUrl": "/docs/static/bb/projects/siren.jpg"
     },
     {
         "name": "Magic Wand",
-        "url": "/docs/demos/magicwand",
+        "url": "/demos/magicwand",
         "imageUrl": "/docs/static/bb/projects/magic_wand.jpg"
     },
     {
         "name": "Night Light",
-        "url": "/docs/demos/nightlight",
+        "url": "/demos/nightlight",
         "imageUrl": "/docs/static/bb/projects/nightlight.jpg"
     }
     ]
@@ -30,18 +30,18 @@ If you’re feeling stuck, check out our demo projects below. The following proj
 [
     {
         "name": "Pushup Counter",
-        "url": "/docs/demos/pushupcounter",
+        "url": "/demos/pushupcounter",
         "imageUrl": "/docs/static/bb/projects/pushupcounter.jpg"
     },
     {
       "name": "Smart Timer Cube",
-      "url": "/docs/demos/timer",
+      "url": "/demos/timer",
       "imageUrl": "/docs/static/bb/projects/smart_timer_cube.jpg"
     },
 
     {
         "name": "Sunset Mountain",
-        "url": "/docs/demos/sunsetmountain",
+        "url": "/demos/sunsetmountain",
         "imageUrl": "/docs/static/bb/projects/sunsetmountain.jpg"
     }
     ]
