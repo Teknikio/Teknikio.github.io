@@ -1,4 +1,4 @@
-<!-- # Summary
+# Summary
 
 * [About](https://teknikio.github.io/docs/about)
 * [Control Center](https://teknikio.github.io/docs/controlcenter)
@@ -223,7 +223,9 @@
 * [FAQ](https://teknikio.github.io/docs/faq)
 * [Support](https://teknikio.github.io/docs/support)
 
- -->
+<!-- # Summary
+
+ 
 
 
 # Summary
@@ -450,3 +452,5 @@
 
 * [FAQ](/faq)
 * [Support](/support)
+
+-->
