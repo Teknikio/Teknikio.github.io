@@ -9,7 +9,7 @@
           "category": "Teknikio", 
           "name": "Teknikio Bluebird", 
           "url": "https://teknikio.github.io/arduino-support-packages/Teknikio_nRF52_Arduino.tar", 
-          "checksum": "MD5:e9b492dace13dad2122a26caf76301c0", 
+          "checksum": "MD5:27962d2c184a5bb6abf56b591468d795", 
           "version": "0.18.4", 
           "architecture": "nrf52", 
           "archiveFileName": "Teknikio_nRF52_Arduino.tar", 
@@ -33,7 +33,7 @@
               "name": "nrfjprog"
             }
           ], 
-          "size": "84077533"
+          "size": "84078089"
         }
       ], 
       "tools": [
