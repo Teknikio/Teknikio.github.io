@@ -4,7 +4,7 @@
 
 ## @description A Blocks / Javascript code editor for the micro:bit, a pocket-size computer with 5x5 display, sensors and Bluetooth.
 
-The [Teknikio Bluebird](https://www.teknikio.com/products/bluebird-beta-v1-6) is a small blue gadget that can send and receive information wirelessly. The board has a Neopixel LED, speaker, Bluetooth and sensors that can be programmed by both beginners and expert coders. The development of Bluebird was funded by the National Science Foundation.
+The [Teknikio Bluebird](https://www.teknikio.com/products/bluebird-beta-v1-6) is a [small blue gadget](/device) that can send and receive information wirelessly. The board has a Neopixel LED, speaker, Bluetooth and sensors that can be programmed by both beginners and expert coders. The development of Bluebird was funded by the National Science Foundation.
 
 
 The Bluebird is a great tool to learn how to build circuits, code, and scale your ideas to an IoT network. It can attach easily to different materials to become a futuristic gizmo or wearable.  Similar to  Arduino, the Bluebird can also  connect with external sensors, and outputs via the central connector.
@@ -12,7 +12,7 @@ The Bluebird is a great tool to learn how to build circuits, code, and scale you
 
 ## [Hardware: The Bluebird](/device)
 
-The Bluebird board is embedded with sensors, radio and other fun stuff to get the most out of your board, check the [hardware components](/hardware)!
+The Bluebird board is embedded with sensors, radio and other fun stuff. to get the most out of your board, check the [hardware components](/device)!
 
 ## ~ hint
 
@@ -21,7 +21,7 @@ The Bluebird board is embedded with sensors, radio and other fun stuff to get th
 ## ~
 ## [Getting Started](/device)
 
-There are different versions of Tekniverse for different computer systems. Find the guide for your platform and follow the guide below to get started on coding your first project.
+Depending on the platform you are using, following the guides below to get started on coding your first project.
 
 * [Tekniverse for Browser](https://docs.google.com/presentation/d/1XYVt2hgc4dgBF8NJ9_6Ig-4CJCHHIxLFofamozT7LPg/edit?usp=sharing)
 * [Tekniverse for iOS](https://docs.google.com/presentation/d/1BYNRtuaQITB8Gv3gp-L27aF_1e40ChojV6TbpLfoeQ8/edit?usp=sharing)
@@ -29,7 +29,8 @@ There are different versions of Tekniverse for different computer systems. Find 
 * [Arduino IDE](https://docs.google.com/presentation/d/1aYCl8GMwqa82yhmZYFZRAFoSpRtjT8LwkdEfhVQePGM/edit?usp=sharing)
 
 ## Web Dashboard: [Control Center](/)
-The first "tool" that you have in the menu is the [Control Center](/controlcenter). Here you can see incoming data from the sensor on the board, change the LED color and play tones on the speaker! You can also save and record data to your account if you are signed in.
+The first "tool" that you have in the menu is the [Control Center](/controlcenter). Here you can see incoming data from the sensor on the board, change the LED color and play tones on the speaker! You can also save and record data to your account if you are signed in. Learn more about accounts here.
+
 
 
 ## ~
@@ -37,28 +38,24 @@ The first "tool" that you have in the menu is the [Control Center](/controlcente
 
 You can program the Bluebird in this web browser using [Blocks](/blocks) or [JavaScript](/javascript) via the [Bluebird APIs](/reference):
 
-```blocks
-input.onGesture(Gesture.Shake, () => {
-     music.baDing.playUntilDone()
+```block
+input.onButtonPressed(Button.A, () => {
+    basic.showString("Hi!");
 })
 ```
 ```typescript
-input.onGesture(Gesture.Shake, () => {
-     music.baDing.playUntilDone()
+input.onButtonPressed(Button.A, () => {
+    basic.showString("Hi!");
 })
 ```
 
-The editor is adapted from Microsoft's MakeCode platform and works in [most modern browsers](/browsers).
+The editor work in [most modern browsers](/browsers).
 
-## Compile and Flash: Your Program!
+## [Compile and Flash: Your Program!](/device/usb)
 
-![](/static/download/download.png)
-
-When you have your code ready, you connect your Bluebird to a computer via a USB cable, it will appear as a mounted drive named TEKBOOT.
+When you have your code ready, you connect your Bluebird to a computer via a USB cable, it will appear as a mounted drive (named TEKBOOT).
 
 Compilation to ARM thumb machine code from Blocks or JavaScript happens in the browser. You save the ARM binary program to a file, which you then copy to the TEKBOOT drive, which flashes the Bluebird device with the new program.
-
-
 
 
 ## Simulator: Test Your Code
@@ -67,13 +64,27 @@ You can run your code using the Bluebird simulator, all within the confines of a
 
 
 ```sim
-input.onLightConditionChanged(LightCondition.Dark, function () {
-   rgb.setColor(0x00ffff)
+basic.forever(() => {
+  basic.showString("Hi!");
 })
-input.setLightThreshold(LightCondition.Dark, 80)
-rgb.setBrightness(125)
+input.onButtonPressed(Button.A, () => {
+    led.stopAnimation();
+    basic.showLeds(`
+. . . . .
+. # . # .
+. . . . .
+# . . . #
+. # # # .`);
 });
-
+input.onButtonPressed(Button.B, () => {
+    led.stopAnimation();
+    basic.showLeds(`
+. # . # .
+# . # . #
+# . . . #
+. # . # .
+. . # . .`);
+});
 ```
 
 ## Resources!

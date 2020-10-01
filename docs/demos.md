@@ -5,22 +5,21 @@ Need help getting started? We have tons of projects to explore in our [Invention
 If you’re feeling stuck, check out our demo projects below. The following projects are a great intro to the platform and serve as a Bluebird 101.
 
 # Beginner
-
 ```codecard
 [
     {
         "name": "Siren",
-        "url": "/demos/siren",
+        "url": "https://teknikio.github.io/docs/demos/siren",
         "imageUrl": "/docs/static/bb/projects/siren.jpg"
     },
     {
         "name": "Magic Wand",
-        "url": "/demos/magicwand",
+        "url": "https://teknikio.github.io/docs/demos/magicwand",
         "imageUrl": "/docs/static/bb/projects/magic_wand.jpg"
     },
     {
         "name": "Night Light",
-        "url": "/demos/nightlight",
+        "url": "https://teknikio.github.io/docs/demos/nightlight",
         "imageUrl": "/docs/static/bb/projects/nightlight.jpg"
     }
     ]
@@ -30,18 +29,18 @@ If you’re feeling stuck, check out our demo projects below. The following proj
 [
     {
         "name": "Pushup Counter",
-        "url": "/demos/pushupcounter",
+        "url": "https://teknikio.github.io/docs/demos/pushupcounter",
         "imageUrl": "/docs/static/bb/projects/pushupcounter.jpg"
     },
     {
       "name": "Smart Timer Cube",
-      "url": "/demos/timer",
+      "url": "https://teknikio.github.io/docs/demos/timer",
       "imageUrl": "/docs/static/bb/projects/smart_timer_cube.jpg"
     },
 
     {
         "name": "Sunset Mountain",
-        "url": "/demos/sunsetmountain",
+        "url": "https://teknikio.github.io/docs/demos/sunsetmountain",
         "imageUrl": "/docs/static/bb/projects/sunsetmountain.jpg"
     }
     ]
@@ -52,17 +51,17 @@ If you’re feeling stuck, check out our demo projects below. The following proj
 [
     {
       "name": "Conductor's Baton",
-      "url": "/docs/demos/baton",
+      "url": "https://teknikio.github.io/docs/demos/baton",
       "imageUrl": "/docs/static/bb/projects/baton.jpg"
   },
   {
       "name": "Domino Effect",
-      "url": "/docs/demos/domino_effect",
+      "url": "https://teknikio.github.io/docs/demos/domino_effect",
       "imageUrl": "/docs/static/bb/projects/domino-effect.jpg"
   },
   {
       "name": "Simon Says",
-      "url": "/docs/demos/simonsays",
+      "url": "https://teknikio.github.io/docs/demos/simonsays",
       "imageUrl": "/docs/static/bb/projects/simon_says.jpg"
     }
     ]
