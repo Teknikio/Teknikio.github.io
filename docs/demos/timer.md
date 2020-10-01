@@ -99,4 +99,5 @@ For steps on how to do this, check out the end of the [Siren Tutorial](/demos/si
 
 ## Great job! You have completed a Smart Timer Cube!
 
-To create this project using the Tekniverse iOS App check out the tutorial [here](https://tekniverse.teknikio.com/resources/inventions/23)!
+Tekniverse iOS App
+Check out the tutorial [here](https://tekniverse.teknikio.com/resources/inventions/23)!

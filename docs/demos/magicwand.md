@@ -5,9 +5,7 @@ Getting Started: Beginner Level Demo
 
 Make a wand that makes a magical glittering sound and when shaken.
 
-![](/static/bb/projects/magic_wand.jpg)
-
-# Coding Concepts:
+#Coding Concepts:
 On_shake, Input (Accelerometer), Output (Speaker, LED)
 
 
