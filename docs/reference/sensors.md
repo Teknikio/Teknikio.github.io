@@ -28,5 +28,5 @@ input.setAccelerometerRange(AcceleratorRange.OneG);
 
 ## See also
 
-[onGesture](/reference/input/on-gesture), [onPinPressed](/reference/input/on-pin-pressed),
-[is gesture](/reference/input/is-gesture), [pinIsPressed](/reference/input/pin-is-pressed), [temperature](/reference/input/temperature), [acceleration](/reference/input/acceleration), [lightLevel](/reference/input/light-level), [rotation](/reference/input/rotation), [runningTime](/reference/input/running-time), [setAccelerometerRange](/reference/input/set-accelerometer-range),
+[onGesture](/docs/reference/input/on-gesture), [onPinPressed](/docs/reference/input/on-pin-pressed),
+[is gesture](/docs/reference/input/is-gesture), [pinIsPressed](/docs/reference/input/pin-is-pressed), [temperature](/docs/reference/input/temperature), [acceleration](/docs/reference/input/acceleration), [lightLevel](/docs/reference/input/light-level), [rotation](/docs/reference/input/rotation), [runningTime](/docs/reference/input/running-time), [setAccelerometerRange](/docs/reference/input/set-accelerometer-range),
